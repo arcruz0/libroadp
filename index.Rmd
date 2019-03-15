@@ -120,11 +120,11 @@ df_aut <- tibble::tribble(~`Capítulo`, ~`Autor(es)`,
 
 kable(df_aut) %>%
   kable_styling(bootstrap_options = c("striped")) %>% 
-  group_rows("I. Introducción a R", 3, 6, 
+  group_rows("I. Introducción a R", 2, 5, 
              label_row_css = "text-align:center") %>% 
-  group_rows("II. Modelos", 7, 9,
+  group_rows("II. Modelos", 6, 8,
              label_row_css = "text-align:center") %>% 
-  group_rows("III. Aplicaciones", 10, nrow(df_aut),
+  group_rows("III. Aplicaciones", 9, nrow(df_aut),
              label_row_css = "text-align:center")
 ```
 
