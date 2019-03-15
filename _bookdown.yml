@@ -1,0 +1,31 @@
+book_filename: "libroadp"
+before_chapter_script: "_before.R"
+delete_merged_file: true
+new_session: yes
+language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabla '
+    eq: 'Fórmula '
+  ui:
+    chapter_name: "Capítulo "
+rmd_files: [
+  "index.Rmd", 
+
+  "rbas.Rmd", 
+  "manejo-de-datos.Rmd", 
+  "dataviz.Rmd", 
+  "carga.Rmd", 
+  
+  "lineal.Rmd", 
+  "logit.Rmd", 
+  "surv.Rmd",
+  
+  "manejo-av.Rmd", 
+  "pca.Rmd", 
+  "casos.Rmd",
+  "web-mining.Rmd", 
+  "redes.Rmd",
+  "qta.Rmd",
+  "mapas.Rmd"
+]

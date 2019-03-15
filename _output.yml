@@ -1,0 +1,23 @@
+bookdown::gitbook:
+  css: style.css
+  search: yes
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><b><a href="./index.html"><img style="float: left; margin-right: 5px;" src="favicon.ico"></img>AnalizaR datos políticos</a></b></li>
+    sharing: no
+    edit:
+      link: https://github.com/arcruz0/libroadp/edit/master/%s
+      text: "Edit"
+    fontsettings:
+      family: sans
+      theme: night
+    download: null
+    
+#bookdown::pdf_book:
+#  includes:
+#    in_header: preamble.tex
+#  latex_engine: xelatex
+#  citation_package: natbib
+#  keep_tex: yes
