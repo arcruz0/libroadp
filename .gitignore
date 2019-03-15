@@ -2,5 +2,11 @@
 .Rproj
 .Rhistory
 _book
+_bookdown_files
 libroadp.Rproj
 libroadp.rds
+*.md
+*.tex
+*.bak
+*.html
+*.bib
