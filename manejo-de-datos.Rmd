@@ -6,13 +6,7 @@
 
 Cuando hablamos de análisis de datos, casi siempre nos referimos a análisis de *bases de datos*.  Aunque hay varios formatos de bases de datos disponibles, en ciencias sociales generalmente usamos y creamos *bases de datos tabulares*, que son las que este libro tratará. Muy probablemente el lector estará familiarizado con la estructura básica de este tipo de bases, gracias a las planillas de Microsoft Excel, Google Spreadsheets y/o LibreOffice Calc. La primera fila suele ser un **header** o encabezado, que indica qué datos registran las celdas de esa columna.
 
-En general, queremos que nuestras bases de datos tabulares tengan una estructura *tidy*, como la siguiente figura muestra:
-
-```{r echo=FALSE, out.width='60%', fig.cap="Así es como 'R Para Ciencia de Datos' define una estructura *tidy*"}
-knitr::include_graphics("00-images/manejo_tidy-4.png")
-```
-
-La idea de una base *tidy* es simple: cada columna es una variable, cada fila una observación (de acuerdo a la unidad de análisis) y, por lo tanto, cada celda es una observación. *(explicar que este nombre lo tomamos del dios Wickham y que es una idea tan simple que mucha gente no la va a entender. Quien solo ha trabajado con Stata o Excel nunca vio datos no-tidy)*
+En general, queremos que nuestras bases de datos tabulares tengan una estructura *tidy* (véase [R4DS](http://r4ds.had.co.nz/)). La idea de una base *tidy* es simple: cada columna es una variable, cada fila una observación (de acuerdo a la unidad de análisis) y, por lo tanto, cada celda es una observación.
 
 
 ### Nuestra base de datos
