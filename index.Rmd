@@ -1,7 +1,7 @@
 --- 
 title: "AnalizaR Datos Políticos"
 author: "Francisco Urdinez y Andrés Cruz Labrín (editores)"
-date: "15 de abril de 2019; versión 0.1"
+date: "16 de marzo de 2019; versión 0.1"
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
@@ -28,7 +28,7 @@ favicon: "favicon.ico"
 
 **AnalizaR Datos Políticos** es un libro que podrás usar como manual de referencia cuando estés quebrandote la cabeza usando `R`. Por eso, decidimos que sea más aplicado que teórico, y hemos considerado tanto temas de ciencia política como de relaciones internacionales. De ahí el subtítulo del libro: "Manual aplicado para politólogos y relacionistas internacionales en R". Una gran ventaja del libro es que utiliza para cada tarea la opción más actualizada y sencilla disponible en la red. ¡Además, ocupa cada vez que es posible el `tidyverse`, el grupo de paquetes que ha revolucionado el uso de `R` recientemente por su sencillez!
 
-Inspirado por el concepto de libro digital llamado [bookdown](https://github.com/rstudio/bookdown) y la filosofía de software libre y de código abierto, este libro es de uso libre y gratuito. Esto garantiza que sus contenidos sean reproducibles y accesibles públicamente para personas de todo el mundo. La versión del libro que estás leyendo ahora (0.1) se construyó el 15 de abril de 2019. A medida que el libro reciba retroalimentación de los usuarios, iremos actualizando los contenidos. 
+Inspirado por el concepto de libro digital llamado [bookdown](https://github.com/rstudio/bookdown) y la filosofía de software libre y de código abierto, este libro es de uso libre y gratuito. Esto garantiza que sus contenidos sean reproducibles y accesibles públicamente para personas de todo el mundo. La versión del libro que estás leyendo ahora (0.1) se construyó el 16 de marzo de 2019. A medida que el libro reciba retroalimentación de los usuarios, iremos actualizando los contenidos. 
 
 ## ¿Cómo contribuir?
 

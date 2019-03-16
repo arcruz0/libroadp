@@ -449,6 +449,7 @@ texreg::screenreg(list(modelo_incompleto, e_modelo_imputado))
 
 ```{block, type="books"}
 **Ejercicios antes de continuar al próximo capítulo**
+
 - A la base que hemos llamado ` base_unida` agregale una variable de tu elección bajada de Worldwide Governance Indicators. Usa el paquete `coutrycode` para unir las variables.
 
 - En vez de 4 imputaciones, repite el ejercicio de utilizar datos imputados para modelos de regresión pero esta vez con 6 imputaciones. 

@@ -727,9 +727,13 @@ Luego de la evaluación de los supuestos y buscar soluciones (cuando es necesari
 
 ```{block, type="books"}
 **Ejercicios antes de continuar al próximo capítulo**
+
 - Haga un scatterplot entre la relación de la variable `gini_slc` y la variable `fdiingdp`. Agregue el nombre del país a cada observación. 
+
 - Al modelo 1 agreguele como control la variable `fdiingdp` e interprete su coeficiente.
+
 - Haga los tests correspondientes para asegurarse de que los supuestos de OLS no son violados. 
+
 - Usando `htmlreg`exporte la tabla de la regresión a Word.
 ```
 
