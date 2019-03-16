@@ -18,7 +18,16 @@ pre code {
   margin-bottom: 10px;
   color: black;
   background: #FFA07A 5px center/3em no-repeat;
-  background-image: url("../00-images/icon_book.png");
+  position: relative;
+}
+
+.books:before {
+  position: absolute;
+  font-family: 'FontAwesome';
+  font-size: 30px;
+  top: 14px;
+  left: 20px;
+  content: "\f02d";
 }
 
 .befi {
