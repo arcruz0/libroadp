@@ -50,18 +50,10 @@ Si profundizas en los textos recomendados, notarás que la función es indefinid
 
 ## Aplicación en `R`
 
-Como mencioné antes, los modelos probabilísticos han ganado enorme preeminencia en la Ciencia Política en los últimos años, y por ello es probable que estés buscando una guía aplicada para saber qué hacer y qué no hacer cuando tengas una variable dependiente dicotómica. Vamos a ilustrar un paso a paso en `R` utilizando como ejemplo la base de datos del libro [“Democracies and Dictatorships in Latin America: Emergence, Survival, and Fall” (2013)](https://kellogg.nd.edu/democracies-and-dictatorships-latin-america-emergence-survival-and-fall) de [Scott Mainwaring](https://scholar.google.com/citations?user=TnO95soAAAAJ&hl=en) y [Aníbal Perez-Liñan](https://scholar.google.com/citations?user=UwryKbkAAAAJ&hl=en). A lo largo del libro los autores analizan cuales variables independientes ayudan a explicar por qué ocurrieron quiebres democráticos en América Latina durante todo el siglo XX y comienzos del XXI. En el capítulo 4, los autores se preguntan qué factores explican la supervivencia de los regímenes políticos. Si bien prueban varios modelos complejos, algunos logísticos y otros de supervivencia (desarrollados en este libro en el capítulo siguiente), haremos un ejemplo muy sencillo para que nos acompañes desde tu computador en el paso a paso. Para cargar la base de datos del capítulo, usa nuestro paquete...(**cargar paquete**)
-```{r , warning=FALSE, message=FALSE}
-#
-```
-Suponiendo que la variable dependiente asume el valor '1' si el país sufre el quiebre de su régimen político democrático y '0' si no, ¿qué efecto tiene sobre la probabilidad de un quiebre democrático que en la constitución nacional se le otorguen grandes poderes constitucionales al poder ejecutivo? Y si esos poderes son pequeños, ¿la probabilidad de un quiebre democrático es mayor o menor?  Como argumentan los autores, se puede medir estos poderes por medio de un índice creado por [Shugart y Carey](http://www.cambridge.org/gb/academic/subjects/politics-international-relations/comparative-politics/presidents-and-assemblies-constitutional-design-and-electoral-dynamics?format=PB&isbn=9780521429900) (1992) de poder presidencial que los autores incluyen en su base de datos (en el capítulo 13 explicamos cómo crear índices). 
+Como mencioné antes, los modelos probabilísticos han ganado enorme preeminencia en la Ciencia Política en los últimos años, y por ello es probable que estés buscando una guía aplicada para saber qué hacer y qué no hacer cuando tengas una variable dependiente dicotómica. Vamos a ilustrar un paso a paso en `R` utilizando como ejemplo la base de datos del libro [“Democracies and Dictatorships in Latin America: Emergence, Survival, and Fall” (2013)](https://kellogg.nd.edu/democracies-and-dictatorships-latin-america-emergence-survival-and-fall) de [Scott Mainwaring](https://scholar.google.com/citations?user=TnO95soAAAAJ&hl=en) y [Aníbal Perez-Liñan](https://scholar.google.com/citations?user=UwryKbkAAAAJ&hl=en). A lo largo del libro los autores analizan cuales variables independientes ayudan a explicar por qué ocurrieron quiebres democráticos en América Latina durante todo el siglo XX y comienzos del XXI. En el capítulo 4, los autores se preguntan qué factores explican la supervivencia de los regímenes políticos. Si bien prueban varios modelos complejos, algunos logísticos y otros de supervivencia (desarrollados en este libro en el capítulo siguiente), haremos un ejemplo muy sencillo para que nos acompañes desde tu computador en el paso a paso. Para cargar la base de datos del capítulo, usa nuestro paquete `libroadp`.
 
 Luego, cargamos la base de datos, llamada `quiebres_dem_la`.
 
-
-```{r message=F}
-library(tidyverse)
-```
 
 ```{r message=F}
 library(paqueteadp)
@@ -75,6 +67,12 @@ Ahora la base se ha cargado en nuestra sesión de R:
 
 ```{r}
 ls()
+```
+
+Suponiendo que la variable dependiente asume el valor '1' si el país sufre el quiebre de su régimen político democrático y '0' si no, ¿qué efecto tiene sobre la probabilidad de un quiebre democrático que en la constitución nacional se le otorguen grandes poderes constitucionales al poder ejecutivo? Y si esos poderes son pequeños, ¿la probabilidad de un quiebre democrático es mayor o menor?  Como argumentan los autores, se puede medir estos poderes por medio de un índice creado por [Shugart y Carey](http://www.cambridge.org/gb/academic/subjects/politics-international-relations/comparative-politics/presidents-and-assemblies-constitutional-design-and-electoral-dynamics?format=PB&isbn=9780521429900) (1992) de poder presidencial que los autores incluyen en su base de datos (en el capítulo 13 explicamos cómo crear índices). 
+
+```{r message=F}
+library(tidyverse)
 ```
 
 Queremos ver, primeramente, cuantos países han sufrido un quiebre democrático en la muestra. ¿Recuerdas lo que se explicó en el capítulo 4? Comenzamos cargando el `tidyverse`. El país con más quiebres democráticos es Perú con 6, seguido de Argentina y Panamá con 5 cada uno. 
