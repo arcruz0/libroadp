@@ -8,6 +8,7 @@ output:
     split_by: chapter
     includes:
       in_header: style.html
+    highlight: espresso
   # bookdown::pdf_book:
   #   keep_tex: yes
   #   includes: 
@@ -28,7 +29,16 @@ favicon: "favicon.ico"
 
 **AnalizaR Datos Políticos** es un libro que podrás usar como manual de referencia cuando estés quebrandote la cabeza usando `R`. Por eso, decidimos que sea más aplicado que teórico, y hemos considerado tanto temas de ciencia política como de relaciones internacionales. De ahí el subtítulo del libro: "Manual aplicado para politólogos y relacionistas internacionales en R". Una gran ventaja del libro es que utiliza para cada tarea la opción más actualizada y sencilla disponible en la red. ¡Además, ocupa cada vez que es posible el `tidyverse`, el grupo de paquetes que ha revolucionado el uso de `R` recientemente por su sencillez!
 
-Inspirado por el concepto de libro digital llamado [bookdown](https://github.com/rstudio/bookdown) y la filosofía de software libre y de código abierto, este libro es de uso libre y gratuito. Esto garantiza que sus contenidos sean reproducibles y accesibles públicamente para personas de todo el mundo. La versión del libro que estás leyendo ahora (0.1) se construyó el 15 de marzo de 2019. A medida que el libro reciba retroalimentación de los usuarios, iremos actualizando los contenidos. 
+Construido gracias a la tecnología de libro digital llamada [bookdown](https://github.com/rstudio/bookdown) e inspirado por la filosofía de software libre y código abierto, este libro es de uso libre y gratuito. Esto garantiza que sus contenidos sean reproducibles y accesibles públicamente para personas de todo el mundo. La versión del libro que estás leyendo ahora (0.1) se construyó el 15 de marzo de 2019. A medida que el libro reciba retroalimentación de los usuarios, iremos actualizando los contenidos. 
+
+<hr>
+
+```{r cc, echo=FALSE, out.width='15%', fig.align='left'}
+knitr::include_graphics("00-images/index/cc.png")
+```
+Este libro digital se encuentra bajo una licencia [Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es).
+
+<hr>
 
 ## ¿Cómo contribuir?
 
@@ -66,10 +76,11 @@ Ahora mismo, `R` es probablemente la mejor opción que el mercado provee para an
 ```{r pref-gtrends, echo=FALSE, message=F, fig.cap="Elaborada por los autores usando el paquete ggplot2 de R, y datos extraídos de Google Trends. Los datos corresponden a promedios anuales para países latinoamericanos en el sector 'ciencia'", out.width='50%'}
 library(tidyverse)
 gtrends <- read_csv("00-datos/prefacio_gtrends.csv")
-ggplot(gtrends, aes(x=year, y=average, color=software)) +
-    geom_line(aes(linetype=software), size=1) +
+ggplot(gtrends, aes(x = year, y = average, color = software)) +
+    geom_line(aes(linetype = software), size=1) +
     xlab("Año")+
-    ylab("Interés promedio en Google Trends")
+    ylab("Interés promedio en Google Trends") +
+  labs(color = "Software", linetype = "Software")
 ```
 
 El modelo de software libre en el que se basa `R` —con licencias de derechos de autor permisivas, que ponen prácticamente todas las herramientas en forma gratuita a disposición del público, tanto para su uso como para su reformulación— finalmente rindió frutos. Una activa comunidad de desarrolladores se ha anclado en `R`, añadiéndole nuevas funcionalidades que lo han dotado de elegancia, simplicidad y flexibilidad. `R` ya no solo brilla en la generación de modelos estadísticos, sino que hoy es hogar de un vasto universo de herramientas que permite al usuario importar, ordenar, transformar, visualizar, modelar y comunicar los datos que le interesen, sin tener que cambiar de herramienta. 
