@@ -1,0 +1,2217 @@
+country,year,admin,breakdown,age,fh,ghist10,wfm,gini_,shugart
+Argentina,1900,Alejo Julio Argentino Roca Paz    ,,,,.052290726,,,
+Argentina,1901,Alejo Julio Argentino Roca Paz    ,,,,.051351469,,,
+Argentina,1902,Alejo Julio Argentino Roca Paz    ,,,,.046282224,,,
+Argentina,1903,Alejo Julio Argentino Roca Paz    ,,,,.045658246,,,
+Argentina,1904,Manuel A. Quintana y Sáenz de Gaona,,,,.051194578,,,
+Argentina,1905,Manuel A. Quintana y Sáenz de Gaona,,,,.052290726,,,
+Argentina,1906,José Figueroa Alcorta             ,,,,.046095718,,,
+Argentina,1907,José Figueroa Alcorta             ,,,,.041709151,,,
+Argentina,1908,José Figueroa Alcorta             ,,,,.038251311,,,
+Argentina,1909,José Figueroa Alcorta             ,,,,.035194363,,,
+Argentina,1910,Roque Sáenz Peña Lahitte          ,,,,.030327437,,,
+Argentina,1911,Roque Sáenz Peña Lahitte          ,,,,.026486946,,,
+Argentina,1912,Roque Sáenz Peña Lahitte          ,,,,.022216897,,,
+Argentina,1913,Roque Sáenz Peña Lahitte          ,,,,.014619258,,,
+Argentina,1914,Victorino de la Plaza y Palacios  ,,,,.0014994022,,,
+Argentina,1915,Victorino de la Plaza y Palacios  ,,,,-.005823195,,,
+Argentina,1916,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,,,,-.029051589,,,
+Argentina,1917,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,-.013669851,,,
+Argentina,1918,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,-.0012515376,,,
+Argentina,1919,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,.0037835394,,,
+Argentina,1920,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,.007409113,,,
+Argentina,1921,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,.0059502558,,,
+Argentina,1922,Máximo Marcelo Torcuato de Alvear Pacheco,0,,,.010606674,,,
+Argentina,1923,Máximo Marcelo Torcuato de Alvear Pacheco,0,,,.015893459,,,
+Argentina,1924,Máximo Marcelo Torcuato de Alvear Pacheco,0,,,.017092647,,,
+Argentina,1925,Máximo Marcelo Torcuato de Alvear Pacheco,0,,,.016338736,,,
+Argentina,1926,Máximo Marcelo Torcuato de Alvear Pacheco,0,,,.020137742,,,
+Argentina,1927,Máximo Marcelo Torcuato de Alvear Pacheco,0,,,.023024166,,,
+Argentina,1928,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,.023693863,,,
+Argentina,1929,Juan Hipólito del Sagrado Corazón de Jesús Yrigoyen Alem,0,,,.021320121,,,
+Argentina,1930,José Félix Benito de Uriburu y Uriburu,1,,,-.045438863,,,
+Argentina,1931,José Félix Benito de Uriburu y Uriburu,,,,-.056962159,,,
+Argentina,1932,Agustín Pedro Justo Rolón         ,,,,-.050300129,,,
+Argentina,1933,Agustín Pedro Justo Rolón         ,,,,-.034433622,,,
+Argentina,1934,Agustín Pedro Justo Rolón         ,,,,-.01968153,,,
+Argentina,1935,Agustín Pedro Justo Rolón         ,,,,-.011853863,,,
+Argentina,1936,Agustín Pedro Justo Rolón         ,,,,-.0111766,,,
+Argentina,1937,Agustín Pedro Justo Rolón         ,,,,-.0080182115,,,
+Argentina,1938,Jaime Gerardo Roberto Marcelino Ortiz Lizardi     ,,,,-.0080818292,,,
+Argentina,1939,Jaime Gerardo Roberto Marcelino Ortiz Lizardi     ,,,,-.0073247463,,,
+Argentina,1940,Ramón S. Castillo Barrionuevo     ,,,,-.0039881533,,,
+Argentina,1941,Ramón S. Castillo Barrionuevo     ,,,,.0039706328,,,
+Argentina,1942,Ramón S. Castillo Barrionuevo     ,,,,.0086327372,,,
+Argentina,1943,Pedro Pablo Ramírez Machuca       ,,,,.0056716246,,,
+Argentina,1944,Edelmiro Julián Farrell Plaul,,,,.0021983467,,,
+Argentina,1945,Edelmiro Julián Farrell Plaul,,2,,.0070076161,,,16
+Argentina,1946,Juan Domingo Perón Sosa,,3,,.014878375,,,16
+Argentina,1947,Juan Domingo Perón Sosa,0,1,,.049849704,,,16
+Argentina,1948,Juan Domingo Perón Sosa,0,2,,.03702068,,,16
+Argentina,1949,Juan Domingo Perón Sosa,0,3,,.023376772,,,16
+Argentina,1950,Juan Domingo Perón Sosa,0,4,,.016640659,,,16
+Argentina,1951,Juan Domingo Perón Sosa,1,5,,.010608051,,,16
+Argentina,1952,Juan Domingo Perón Sosa,,6,,.0080076568,,,16
+Argentina,1953,Juan Domingo Perón Sosa,,7,,.0061410232,,,16
+Argentina,1954,Juan Domingo Perón Sosa,,8,,.0082291048,,,16
+Argentina,1955,Pedro Eugenio Aramburu Cilveti,,9,,.010288684,,,16
+Argentina,1956,Pedro Eugenio Aramburu Cilveti,,1,,.016427903,,,16
+Argentina,1957,Pedro Eugenio Aramburu Cilveti,,2,,.02035653,,,16
+Argentina,1958,Arturo Frondizi Ercoli            ,,3,,.015452635,,,16
+Argentina,1959,Arturo Frondizi Ercoli            ,0,1,,.0061866571,,,16
+Argentina,1960,Arturo Frondizi Ercoli            ,0,2,,.02612656,,,16
+Argentina,1961,Arturo Frondizi Ercoli            ,0,3,,.028955692,,,16
+Argentina,1962,José María Guido,1,4,,.018347029,,45.900002,16
+Argentina,1963,Arturo Umberto Illia Francesconi  ,,5,,.0040129749,,40.849998,16
+Argentina,1964,Arturo Umberto Illia Francesconi  ,0,1,,.0085534817,.00053824339,35.799999,16
+Argentina,1965,Arturo Umberto Illia Francesconi  ,0,2,,.035542317,.00048374731,35.549999,16
+Argentina,1966,Juan Carlos Onganía Carballo      ,1,3,,.021477271,.00061150279,35.299999,16
+Argentina,1967,Juan Carlos Onganía Carballo      ,,1,,-.0015766615,.00051396317,35.459999,16
+Argentina,1968,Juan Carlos Onganía Carballo      ,,2,,.010172971,.00075485144,35.619999,16
+Argentina,1969,Juan Carlos Onganía Carballo      ,,3,,.027934805,.00046096972,35.779999,16
+Argentina,1970,Roberto Marcelo Levingston Laborda,,4,,.025401078,.00050634815,35.939999,16
+Argentina,1971,Alejandro Agustín Lanusse Gelly   ,,5,,.02789632,.00049476663,36.099998,16
+Argentina,1972,Alejandro Agustín Lanusse Gelly   ,,6,5,.023939155,.00042176171,34.75,16
+Argentina,1973,Juan Domingo Perón Sosa,,7,10,.022384981,.00039167004,33.400002,19
+Argentina,1974,"María Estela ""Isabel"" Martínez de Perón",0,1,8,.024844017,.00049264799,34.700001,19
+Argentina,1975,"María Estela ""Isabel"" Martínez de Perón",0,2,8,.011075757,.00033444064,36,19
+Argentina,1976,Jorge Rafael Videla Redondo ,1,3,3,-.00068256067,.00050915394,36.599998,19
+Argentina,1977,Jorge Rafael Videla Redondo ,,1,2,.0081228418,.00072574575,37.5,19
+Argentina,1978,Jorge Rafael Videla Redondo ,,2,3,-.014642882,.0014853633,38.400002,19
+Argentina,1979,Jorge Rafael Videla Redondo ,,3,3,.010309053,.0017152331,39.299999,19
+Argentina,1980,Jorge Rafael Videla Redondo ,,4,3,.013415745,.0054696859,40.200001,19
+Argentina,1981,Leopoldo Fortunato Galtieri Castelli        ,,5,3,-.00059061137,.0097391522,41.099998,19
+Argentina,1982,Reynaldo Benito Antonio Bignone Ramayón    ,,6,8,-.00950527,.0089751836,42,19
+Argentina,1983,Raúl Ricardo Alfonsín Foulkes     ,,7,8,-.0052757189,.0053015426,42.700001,19
+Argentina,1984,Raúl Ricardo Alfonsín Foulkes     ,0,1,10,.016119108,.0051926165,43.400002,19
+Argentina,1985,Raúl Ricardo Alfonsín Foulkes     ,0,2,10,-.018884836,.0094253505,44.099998,19
+Argentina,1986,Raúl Ricardo Alfonsín Foulkes     ,0,3,11,.0016620775,.0030014503,44.799999,19
+Argentina,1987,Raúl Ricardo Alfonsín Foulkes     ,0,4,11,.0041705752,.0021198599,45.490002,19
+Argentina,1988,Raúl Ricardo Alfonsín Foulkes     ,0,5,11,-.0031432791,.0029060948,46.189999,19
+Argentina,1989,Carlos Saúl Menem Akil            ,0,6,11,-.015306436,.0060987687,46.889999,19
+Argentina,1990,Carlos Saúl Menem Akil            ,0,7,10,-.01812184,.012186481,47.59,19
+Argentina,1991,Carlos Saúl Menem Akil            ,0,8,10,-.0037729661,.0072729494,46.400002,19
+Argentina,1992,Carlos Saúl Menem Akil            ,0,9,9,.0070154662,.0057275421,45.200001,19
+Argentina,1993,Carlos Saúl Menem Akil            ,0,10,9,.0090678856,.0057771332,44.700001,19
+Argentina,1994,Carlos Saúl Menem Akil            ,0,11,9,.012716316,.0070890798,44.900002,17
+Argentina,1995,Carlos Saúl Menem Akil            ,0,12,9,.017499071,.009817455,45,17
+Argentina,1996,Carlos Saúl Menem Akil            ,0,13,9,.015344844,.012367218,47.400002,17
+Argentina,1997,Carlos Saúl Menem Akil            ,0,14,9,.020676181,.01205301,47,17
+Argentina,1998,Carlos Saúl Menem Akil            ,0,15,8,.027231565,.010409744,46,17
+Argentina,1999,Fernando de la Rúa Bruno          ,0,16,9,.031552836,.013106517,47.900002,17
+Argentina,2000,Fernando de la Rúa Bruno          ,0,17,11,.033463649,.020200832,49.346668,17
+Argentina,2001,Eduardo Oscar Camaño              ,0,18,8,.016981531,.02055103,50.793335,17
+Argentina,2002,Eduardo Alberto Duhalde Maldonado ,0,19,8,-.0051719104,.034877092,52.240002,17
+Argentina,2003,Néstor Carlos Kirchner Ostoic     ,0,20,10,-.0018136327,.04268302,52.495003,17
+Argentina,2004,Néstor Carlos Kirchner Ostoic     ,0,21,10,.0017863611,.050554004,52.75,17
+Argentina,2005,Néstor Carlos Kirchner Ostoic     ,0,22,10,.014058274,.045839541,51.32,17
+Argentina,2006,Néstor Carlos Kirchner Ostoic     ,0,23,10,.017311631,,,
+Argentina,2007,Cristina Fernández de Kirchner,0,24,10,.018153569,,,
+Argentina,2008,Cristina Fernández de Kirchner,0,25,10,.021277199,,,
+Argentina,2009,Cristina Fernández de Kirchner,0,26,10,.025649661,,,
+Argentina,2010,Cristina Fernández de Kirchner,0,27,10,.030579796,,,
+Bolivia,1900,Jaun José Manuel Inocencio Pando Solares  ,,,,.073229529,,,
+Bolivia,1901,Jaun José Manuel Inocencio Pando Solares  ,,,,.075614676,,,
+Bolivia,1902,Jaun José Manuel Inocencio Pando Solares  ,,,,.059342641,,,
+Bolivia,1903,Jaun José Manuel Inocencio Pando Solares  ,,,,.060218301,,,
+Bolivia,1904,Ismael Montes Gamboa,,,,.066817112,,,
+Bolivia,1905,Ismael Montes Gamboa,,,,.074024573,,,
+Bolivia,1906,Ismael Montes Gamboa,,,,.077318348,,,
+Bolivia,1907,Ismael Montes Gamboa,,,,.075887151,,,
+Bolivia,1908,Ismael Montes Gamboa,,,,.070252143,,,
+Bolivia,1909,Eliodoro Villazón Montaño            ,,,,.070172332,,,
+Bolivia,1910,Eliodoro Villazón Montaño            ,,,,.073295213,,,
+Bolivia,1911,Eliodoro Villazón Montaño            ,,,,.070838422,,,
+Bolivia,1912,Eliodoro Villazón Montaño            ,,,,.072915241,,,
+Bolivia,1913,Ismael Montes Gamboa,,,,.069581479,,,
+Bolivia,1914,Ismael Montes Gamboa,,,,.058760017,,,
+Bolivia,1915,Ismael Montes Gamboa,,,,.052321505,,,
+Bolivia,1916,Ismael Montes Gamboa,,,,.054206681,,,
+Bolivia,1917,José Gutiérrez Guerra                ,,,,.056871895,,,
+Bolivia,1918,José Gutiérrez Guerra                ,,,,.068328992,,,
+Bolivia,1919,José Gutiérrez Guerra                ,,,,.070083141,,,
+Bolivia,1920,José María Escalier Villegas (Junta)      ,,,,.060553331,,,
+Bolivia,1921,Rosa Bautista Saavedra Mallea,,,,.053952463,,,
+Bolivia,1922,Rosa Bautista Saavedra Mallea,,,,.054534733,,,
+Bolivia,1923,Rosa Bautista Saavedra Mallea,,,,.063546978,,,
+Bolivia,1924,Rosa Bautista Saavedra Mallea,,,,.071857072,,,
+Bolivia,1925,Felipe Segundo Guzmán,,,,.074083693,,,
+Bolivia,1926,Mariano Hernando Siles Reyes         ,,,,.067332052,,,
+Bolivia,1927,Mariano Hernando Siles Reyes         ,,,,.062078737,,,
+Bolivia,1928,Mariano Hernando Siles Reyes         ,,,,.050784525,,,
+Bolivia,1929,Mariano Hernando Siles Reyes         ,,,,.042909566,,,
+Bolivia,1930,Carlos Blanco Galindo (Junta),,,,.039445229,,,
+Bolivia,1931,Daniel Domingo Salamanca Urey        ,,,,.03633501,,,
+Bolivia,1932,Daniel Domingo Salamanca Urey        ,,,,.036835287,,,
+Bolivia,1933,Daniel Domingo Salamanca Urey        ,,,,.040526383,,,
+Bolivia,1934,José Luis Tejada Sorzano             ,,,,.048583809,,,
+Bolivia,1935,José Luis Tejada Sorzano             ,,,,.048913494,,,
+Bolivia,1936,José David Toro                      ,,,,.046591587,,,
+Bolivia,1937,Germán Busch Becerra,,,,.047442347,,,
+Bolivia,1938,Germán Busch Becerra,,,,.049558036,,,
+Bolivia,1939,Carlos Quintanilla Quiroga           ,,,,.052969404,,,
+Bolivia,1940,Enrique Peñaranda del Castillo       ,,,,.066958725,,,
+Bolivia,1941,Enrique Peñaranda del Castillo       ,,,,.082916483,,,
+Bolivia,1942,Enrique Peñaranda del Castillo       ,,,,.08520814,,,
+Bolivia,1943,Gualberto Villarroel López           ,,,,.075779453,,,
+Bolivia,1944,Gualberto Villarroel López           ,,,,.06633167,,,
+Bolivia,1945,Gualberto Villarroel López           ,,2,,.060176969,,,16
+Bolivia,1946,Tomás Monje Gutiérrez                ,,3,,.046852641,,,16
+Bolivia,1947,José Enrique Hertzog Garaizábal      ,,1,,.0057409629,,,16
+Bolivia,1948,José Enrique Hertzog Garaizábal      ,,2,,.0069890223,,,16
+Bolivia,1949,Mamerto Urriolagoitia Harriague,,3,,.0085908137,,,16
+Bolivia,1950,Mamerto Urriolagoitia Harriague,,4,,.01464815,,,16
+Bolivia,1951,Hugo Ballivián Rojas                 ,,5,,.01816196,,,16
+Bolivia,1952,Víctor Paz Estenssoro,,1,,.019843865,,,16
+Bolivia,1953,Víctor Paz Estenssoro,,2,,-.00032154005,,,16
+Bolivia,1954,Víctor Paz Estenssoro,,3,,-.0016365499,,,16
+Bolivia,1955,Víctor Paz Estenssoro,,4,,-.004649492,,,16
+Bolivia,1956,Hernán Siles Zuazo,,5,,-.008741715,,,16
+Bolivia,1957,Hernán Siles Zuazo,0,6,,-.013298869,,,16
+Bolivia,1958,Hernán Siles Zuazo,0,7,,-.012044479,,,16
+Bolivia,1959,Hernán Siles Zuazo,0,8,,-.01107986,,,16
+Bolivia,1960,Víctor Paz Estenssoro,0,9,,-.010874673,,,16
+Bolivia,1961,Víctor Paz Estenssoro,0,10,,-.014599872,,,16
+Bolivia,1962,Víctor Paz Estenssoro,0,11,,-.0117428,,,16
+Bolivia,1963,Víctor Paz Estenssoro,0,12,,-.0036058195,,,16
+Bolivia,1964,René Barrientos Ortuño,1,13,,-.00058370916,,,16
+Bolivia,1965,René Barrientos Ortuño - Alfredo Ovando Candía,,1,,.028592903,,,16
+Bolivia,1966,René Barrientos Ortuño               ,,2,,.03269168,,,16
+Bolivia,1967,René Barrientos Ortuño               ,,3,,.035703368,,,16
+Bolivia,1968,René Barrientos Ortuño               ,,4,,.00018421182,,,16
+Bolivia,1969,Alfredo Ovando Candía                ,,5,,.0013096839,,46.200001,16
+Bolivia,1970,Juan José Torres González            ,,1,,-.010762566,.13980556,46.01091,16
+Bolivia,1971,Hugo Banzer Suárez,,2,,.001318543,.11607508,45.821819,16
+Bolivia,1972,Hugo Banzer Suárez,,3,5,.014384822,.10890718,45.632729,16
+Bolivia,1973,Hugo Banzer Suárez,,4,5,.017852711,.13342237,45.443638,16
+Bolivia,1974,Hugo Banzer Suárez,,5,3,.015617676,.27275151,45.254547,16
+Bolivia,1975,Hugo Banzer Suárez,,6,3,.020136962,.20370278,45.065456,16
+Bolivia,1976,Hugo Banzer Suárez,,7,4,.020254605,.2428657,44.876366,16
+Bolivia,1977,Hugo Banzer Suárez,,8,4,.020750811,.24734266,44.687275,16
+Bolivia,1978,David Padilla Arancibia              ,,9,6,.018330337,.22317819,44.498184,16
+Bolivia,1979,Lydia Gueiler Tejada,,10,8,.015466024,.2158062,44.309093,16
+Bolivia,1980,Luis García Meza Tejada,1,11,2,.014728541,.25487038,44.120003,16
+Bolivia,1981,Celso Torrelio Villa                 ,,1,2,-.027475717,.24002869,43.930908,16
+Bolivia,1982,Hernán Siles Zuazo,,2,9,-.038269583,.27475739,43.741817,16
+Bolivia,1983,Hernán Siles Zuazo,0,1,9,-.060238432,.27128476,43.552727,16
+Bolivia,1984,Hernán Siles Zuazo,0,2,9,-.047845867,.27742311,43.363636,16
+Bolivia,1985,Víctor Paz Estenssoro,0,3,9,-.04532456,.23103161,43.174545,16
+Bolivia,1986,Víctor Paz Estenssoro,0,4,9,-.04562116,.17743091,42.985455,16
+Bolivia,1987,Víctor Paz Estenssoro,0,5,9,-.037641082,.11852195,42.796364,16
+Bolivia,1988,Víctor Paz Estenssoro,0,6,9,-.031353384,.10535803,42.607273,16
+Bolivia,1989,Jaime Paz Zamora                     ,0,7,9,-.025595041,.12796469,42.418182,16
+Bolivia,1990,Jaime Paz Zamora                     ,0,8,9,-.020226162,.1285858,42.229092,16
+Bolivia,1991,Jaime Paz Zamora                     ,0,9,9,-.015342055,.10857636,42.040001,16
+Bolivia,1992,Jaime Paz Zamora                     ,0,10,9,-.010050731,.084707581,45.760002,16
+Bolivia,1993,Gonzalo Sánchez de Lozada Sánchez Bustamante            ,0,11,9,-.0021170685,.070255026,49.48,16
+Bolivia,1994,Gonzalo Sánchez de Lozada Sánchez Bustamante            ,0,12,9,.002481218,.071935795,53.200001,16
+Bolivia,1995,Gonzalo Sánchez de Lozada Sánchez Bustamante            ,0,13,8,.0086105242,.084917113,52.950001,16
+Bolivia,1996,Gonzalo Sánchez de Lozada Sánchez Bustamante            ,0,14,9,.015391959,.073328003,52.700001,16
+Bolivia,1997,Hugo Banzer Suárez,0,15,10,.017898828,.064879678,57.299999,16
+Bolivia,1998,Hugo Banzer Suárez,0,16,10,.020109776,.047132116,59.599998,16
+Bolivia,1999,Hugo Banzer Suárez,0,17,10,.017005507,.037677452,59.900002,16
+Bolivia,2000,Hugo Banzer Suárez,0,18,10,.015155544,.055743784,60.200001,16
+Bolivia,2001,Jorge Fernando Quiroga Ramírez       ,0,19,10,.011925384,.068534017,52.799999,16
+Bolivia,2002,Gonzalo Sánchez de Lozada Sánchez Bustamante            ,0,20,9,.013059288,.070523873,56.650002,16
+Bolivia,2003,Carlos Diego Mesa Gisbert,0,21,8,.011878474,.09870068,60.5,16
+Bolivia,2004,Carlos Diego Mesa Gisbert,0,22,8,.011750826,.14124157,,16
+Bolivia,2005,Eduardo Rodríguez Veltzé,0,23,8,.016767528,.19760899,,16
+Bolivia,2006,Evo Morales,0,24,8,.01731112,,,
+Bolivia,2007,Evo Morales,0,25,8,.012786423,,,
+Bolivia,2008,Evo Morales,0,26,8,.01422941,,,
+Bolivia,2009,Evo Morales,0,27,8,.017450972,,,
+Bolivia,2010,Evo Morales,0,28,8,.018920498,,,
+Brazil,1900,Manuel Ferraz de Campos Sales         ,,,,.017916229,,,
+Brazil,1901,Manuel Ferraz de Campos Sales         ,,,,.060972422,,,
+Brazil,1902,Francisco de Paula Rodrigues Alves    ,,,,.032655634,,,
+Brazil,1903,Francisco de Paula Rodrigues Alves    ,,,,.024065962,,,
+Brazil,1904,Francisco de Paula Rodrigues Alves    ,,,,.019488756,,,
+Brazil,1905,Francisco de Paula Rodrigues Alves    ,,,,.017916229,,,
+Brazil,1906,Afonso Augusto Moreira Pena           ,,,,.019498605,,,
+Brazil,1907,Afonso Augusto Moreira Pena           ,,,,.018599177,,,
+Brazil,1908,Afonso Augusto Moreira Pena           ,,,,.017002836,,,
+Brazil,1909,Nilo Procópio Peçanha                 ,,,,.016184602,,,
+Brazil,1910,Hermes Rodrigues da Fonseca           ,,,,.014154471,,,
+Brazil,1911,Hermes Rodrigues da Fonseca           ,,,,.0059409733,,,
+Brazil,1912,Hermes Rodrigues da Fonseca           ,,,,.0089966552,,,
+Brazil,1913,Hermes Rodrigues da Fonseca           ,,,,.0096733356,,,
+Brazil,1914,Venceslau Brás Pereira Gomes          ,,,,.0086214617,,,
+Brazil,1915,Venceslau Brás Pereira Gomes          ,,,,.0078737186,,,
+Brazil,1916,Venceslau Brás Pereira Gomes          ,,,,.0047678007,,,
+Brazil,1917,Venceslau Brás Pereira Gomes          ,,,,.0040903292,,,
+Brazil,1918,Delfim Moreira da Costa Ribeiro       ,,,,.0070205051,,,
+Brazil,1919,Epitâcio da Silva Pessoa              ,,,,.010476805,,,
+Brazil,1920,Epitâcio da Silva Pessoa              ,,,,.01516481,,,
+Brazil,1921,Epitâcio da Silva Pessoa              ,,,,.0092565808,,,
+Brazil,1922,Artur da Silva Bernardes              ,,,,.010861761,,,
+Brazil,1923,Artur da Silva Bernardes              ,,,,.013206137,,,
+Brazil,1924,Artur da Silva Bernardes              ,,,,.014781337,,,
+Brazil,1925,Artur da Silva Bernardes              ,,,,.014736776,,,
+Brazil,1926,Washington Luís Pereira de Sousa      ,,,,.014060984,,,
+Brazil,1927,Washington Luís Pereira de Sousa      ,,,,.017146304,,,
+Brazil,1928,Washington Luís Pereira de Sousa      ,,,,.017194079,,,
+Brazil,1929,Washington Luís Pereira de Sousa      ,,,,.012686582,,,
+Brazil,1930,Getúlio Dorneles Vargas,,,,.0043848408,,,
+Brazil,1931,Getúlio Dorneles Vargas,,,,.0048646498,,,
+Brazil,1932,Getúlio Dorneles Vargas,,,,.0028477185,,,
+Brazil,1933,Getúlio Dorneles Vargas,,,,.0034085987,,,
+Brazil,1934,Getúlio Dorneles Vargas,,,,.0063361363,,,
+Brazil,1935,Getúlio Dorneles Vargas,,,,.0068408912,,,
+Brazil,1936,Getúlio Dorneles Vargas,,,,.010643316,,,
+Brazil,1937,Getúlio Dorneles Vargas,,,,.0078912508,,,
+Brazil,1938,Getúlio Dorneles Vargas,,,,.0054066228,,,
+Brazil,1939,Getúlio Dorneles Vargas,,,,.0054112058,,,
+Brazil,1940,Getúlio Dorneles Vargas,,,,.010054039,,,
+Brazil,1941,Getúlio Dorneles Vargas,,,,.012301791,,,
+Brazil,1942,Getúlio Dorneles Vargas,,,,.013862736,,,
+Brazil,1943,Getúlio Dorneles Vargas,,,,.011724753,,,
+Brazil,1944,Getúlio Dorneles Vargas,,,,.010112489,,,
+Brazil,1945,José Linhares                         ,,15,,.0088554313,,,25
+Brazil,1946,Eurico Gaspar Dutra                   ,,16,,.0081317928,,,18
+Brazil,1947,Eurico Gaspar Dutra                   ,0,1,,.013531073,,,18
+Brazil,1948,Eurico Gaspar Dutra                   ,0,2,,.019365694,,,18
+Brazil,1949,Eurico Gaspar Dutra                   ,0,3,,.023670271,,,18
+Brazil,1950,Eurico Gaspar Dutra                   ,0,4,,.023285359,,,18
+Brazil,1951,Getúlio Dorneles Vargas,0,5,,.022989184,,,18
+Brazil,1952,Getúlio Dorneles Vargas,0,6,,.023889113,,,18
+Brazil,1953,Getúlio Dorneles Vargas,0,7,,.022743249,,,18
+Brazil,1954,João Fernandes de Campos Café Filho   ,0,8,,.024002625,,,18
+Brazil,1955,Nereu de Oliveira Ramos               ,0,9,,.024472259,,,18
+Brazil,1956,Juscelino Kubitschek de Oliveira      ,0,10,,.022134515,,,18
+Brazil,1957,Juscelino Kubitschek de Oliveira      ,0,11,,.02496908,,,18
+Brazil,1958,Juscelino Kubitschek de Oliveira      ,0,12,,.026349379,,,18
+Brazil,1959,Juscelino Kubitschek de Oliveira      ,0,13,,.025967721,,,18
+Brazil,1960,Juscelino Kubitschek de Oliveira      ,0,14,,.030142665,,,18
+Brazil,1961,João Belchior Marques Goulart         ,0,15,,.035017733,,,11
+Brazil,1962,João Belchior Marques Goulart         ,0,16,,.034178421,.006194415,54,11
+Brazil,1963,João Belchior Marques Goulart         ,0,17,,.030598819,.0055932547,54.401112,18
+Brazil,1964,Humberto de Alencar Castelo Branco    ,1,18,,.027683813,.004888101,54.802223,18
+Brazil,1965,Humberto de Alencar Castelo Branco    ,,1,,.0033187682,.0062048151,55.203335,18
+Brazil,1966,Humberto de Alencar Castelo Branco    ,,2,,.0066789496,,55.604446,18
+Brazil,1967,Artur da Costa e Silva                ,,3,,.010440813,.0047973976,56.005554,20
+Brazil,1968,Artur da Costa e Silva                ,,4,,.025543055,.0042220447,56.406666,20
+Brazil,1969,Emílio Garrastazú Médici              ,,5,,.032965317,.0049701822,56.807777,19
+Brazil,1970,Emílio Garrastazú Médici              ,,6,,.036986753,.0068589179,57.208889,19
+Brazil,1971,Emílio Garrastazú Médici              ,,7,,.043139424,.006664935,57.610001,19
+Brazil,1972,Emílio Garrastazú Médici              ,,8,4,.048795618,.0056062727,59.305,19
+Brazil,1973,Emílio Garrastazú Médici              ,,9,4,.055229735,.006514647,61,19
+Brazil,1974,Ernesto Geisel                        ,,10,6,.061239302,.0077941995,58.169998,19
+Brazil,1975,Ernesto Geisel                        ,,11,5,.063825265,.010047713,55.34,19
+Brazil,1976,Ernesto Geisel                        ,,12,5,.06971617,.0091075674,57.815002,19
+Brazil,1977,Ernesto Geisel                        ,,13,5,.069715075,.0073235244,60.290001,19
+Brazil,1978,Ernesto Geisel                        ,,14,6,.061951853,.0071176998,58.145,19
+Brazil,1979,João Baptista de Oliveira Figueiredo  ,,15,7,.059231665,.0075215837,56,19
+Brazil,1980,João Baptista de Oliveira Figueiredo  ,,16,7,.059704501,.0084670912,59.439999,19
+Brazil,1981,João Baptista de Oliveira Figueiredo  ,,17,7,.044481944,.012978535,57.779999,19
+Brazil,1982,João Baptista de Oliveira Figueiredo  ,,18,8,.03334932,.013982203,55.419998,19
+Brazil,1983,João Baptista de Oliveira Figueiredo  ,,19,8,.016445704,.014665034,54.189999,19
+Brazil,1984,João Baptista de Oliveira Figueiredo  ,,20,8,.012905838,.019640215,57,19
+Brazil,1985,José Sarney Costa                     ,,21,9,.015820676,.01890148,59.379997,19
+Brazil,1986,José Sarney Costa                     ,0,1,10,.057393283,.01259263,61.759998,19
+Brazil,1987,José Sarney Costa                     ,0,2,10,.043563668,.012562351,54.52,19
+Brazil,1988,José Sarney Costa                     ,0,3,9,.027771654,.01437354,56.18,20
+Brazil,1989,José Sarney Costa                     ,0,4,10,.025093134,.013048601,57.889999,20
+Brazil,1990,Fernando Alfonso Collor de Mello      ,0,5,9,.011014991,.011911288,59.599998,20
+Brazil,1991,Fernando Alfonso Collor de Mello      ,0,6,9,.0092270887,.011094156,57.666664,20
+Brazil,1992,Itamar Augusto Cautiero Franco        ,0,7,9,.0055374475,.011228289,55.733334,20
+Brazil,1993,Itamar Augusto Cautiero Franco        ,0,8,7,.0083348313,.010958212,53.799999,20
+Brazil,1994,Itamar Augusto Cautiero Franco        ,0,9,8,.01125305,.010243933,55.099998,20
+Brazil,1995,Fernando Henrique Silva Cardoso       ,0,10,8,.0084317503,.0085826693,56.049999,20
+Brazil,1996,Fernando Henrique Silva Cardoso       ,0,11,8,.0032412603,.0070997542,57,20
+Brazil,1997,Fernando Henrique Silva Cardoso       ,0,12,7,.003479115,.0062724976,59.099998,17
+Brazil,1998,Fernando Henrique Silva Cardoso       ,0,13,7,.0039919475,.0065192957,59.129997,17
+Brazil,1999,Fernando Henrique Silva Cardoso       ,0,14,7,.0013371187,.0072717895,59.16,17
+Brazil,2000,Fernando Henrique Silva Cardoso       ,0,15,8,.010086242,.0093614114,59.189999,17
+Brazil,2001,Fernando Henrique Silva Cardoso       ,0,16,8,.010121725,.011933236,59.220001,17
+Brazil,2002,Fernando Henrique Silva Cardoso       ,0,17,9,.013396771,.014804882,59.25,17
+Brazil,2003,Luiz Inácio Lula da Silva             ,0,18,9,.010129483,.018200651,58.684998,17
+Brazil,2004,Luiz Inácio Lula da Silva             ,0,19,9,.010752647,.021109851,58.119999,17
+Brazil,2005,Luiz Inácio Lula da Silva             ,0,20,10,.0098359864,.025936963,56.990002,17
+Brazil,2006,Luiz Inácio Lula da Silva             ,0,21,10,.012025353,,,
+Brazil,2007,Luiz Inácio Lula da Silva             ,0,22,10,.015193871,,,
+Brazil,2008,Luiz Inácio Lula da Silva             ,0,23,10,.020763505,,,
+Brazil,2009,Luiz Inácio Lula da Silva             ,0,24,10,.020886917,,,
+Brazil,2010,Luiz Inácio Lula da Silva             ,0,25,10,.02008374,,,
+Chile,1900,Federico Errázuriz Echaurren      ,,,,.02110799,,,
+Chile,1901,Germán Riesco Errázuriz           ,0,,,.021655435,,,
+Chile,1902,Germán Riesco Errázuriz           ,0,,,.021412726,,,
+Chile,1903,Germán Riesco Errázuriz           ,0,,,.021146594,,,
+Chile,1904,Germán Riesco Errázuriz           ,0,,,.02117553,,,
+Chile,1905,Germán Riesco Errázuriz           ,0,,,.02110799,,,
+Chile,1906,Pedro Montt Montt                 ,0,,,.02110263,,,
+Chile,1907,Pedro Montt Montt                 ,0,,,.021150915,,,
+Chile,1908,Pedro Montt Montt                 ,0,,,.020567542,,,
+Chile,1909,Pedro Montt Montt                 ,0,,,.018941324,,,
+Chile,1910,Ramón Barros Luco                 ,0,,,.018533381,,,
+Chile,1911,Ramón Barros Luco                 ,0,,,.01426956,,,
+Chile,1912,Ramón Barros Luco                 ,0,,,.014673318,,,
+Chile,1913,Ramón Barros Luco                 ,0,,,.012422147,,,
+Chile,1914,Ramón Barros Luco                 ,0,,,.0048287222,,,
+Chile,1915,Juan Luis Sanfuentes Andonaegui   ,0,,,.003029722,,,
+Chile,1916,Juan Luis Sanfuentes Andonaegui   ,0,,,.0061187376,,,
+Chile,1917,Juan Luis Sanfuentes Andonaegui   ,0,,,.010769544,,,
+Chile,1918,Juan Luis Sanfuentes Andonaegui   ,0,,,.008017295,,,
+Chile,1919,Juan Luis Sanfuentes Andonaegui   ,0,,,.0041076583,,,
+Chile,1920,Arturo Fortunato Alessandri Palma ,0,,,-.0057438882,,,
+Chile,1921,Arturo Fortunato Alessandri Palma ,0,,,-.0027008755,,,
+Chile,1922,Arturo Fortunato Alessandri Palma ,0,,,-.00082777778,,,
+Chile,1923,Arturo Fortunato Alessandri Palma ,0,,,.011322729,,,
+Chile,1924,Luis Altamirano Talavera          ,1,,,.07522738,,,
+Chile,1925,Emiliano Figueroa Larraín         ,,,,-.00079879572,,,
+Chile,1926,Emiliano Figueroa Larraín         ,0,,,-.0037352692,,,
+Chile,1927,Carlos Ibáñez del Campo,1,,,-.0051382296,,,
+Chile,1928,Carlos Ibáñez del Campo,,,,.046098925,,,
+Chile,1929,Carlos Ibáñez del Campo,,,,.052949622,,,
+Chile,1930,Carlos Ibáñez del Campo,,,,.020382224,,,
+Chile,1931,Juan Esteban Montero Rodríguez    ,,,,-.015689537,,,
+Chile,1932,Arturo Fortunato Alessandri Palma ,,,,-.075048253,,,
+Chile,1933,Arturo Fortunato Alessandri Palma ,0,,,-.012191693,,,
+Chile,1934,Arturo Fortunato Alessandri Palma ,0,,,.02965083,,,
+Chile,1935,Arturo Fortunato Alessandri Palma ,0,,,.028686367,,,
+Chile,1936,Arturo Fortunato Alessandri Palma ,0,,,.025119126,,,
+Chile,1937,Arturo Fortunato Alessandri Palma ,0,,,.025099749,,,
+Chile,1938,Pedro Abelino Aguirre Cerda       ,0,,,.025063157,,,
+Chile,1939,Pedro Abelino Aguirre Cerda       ,0,,,.021920411,,,
+Chile,1940,Pedro Abelino Aguirre Cerda       ,0,,,.020453416,,,
+Chile,1941,Jerónimo Méndez Arancibia         ,0,,,.016766928,,,
+Chile,1942,Juan Antonio Ríos Morales         ,0,,,.025713891,,,
+Chile,1943,Juan Antonio Ríos Morales         ,0,,,.022503676,,,
+Chile,1944,Juan Antonio Ríos Morales         ,0,,,.010771352,,,
+Chile,1945,Juan Antonio Ríos Morales         ,0,13,,.011865096,,,20
+Chile,1946,Gabriel González Videla           ,0,14,,.011784946,,,20
+Chile,1947,Gabriel González Videla           ,0,15,,.011131791,,,20
+Chile,1948,Gabriel González Videla           ,0,16,,.0082701836,,,20
+Chile,1949,Gabriel González Videla           ,0,17,,.0058999574,,,20
+Chile,1950,Gabriel González Videla           ,0,18,,.0059421579,,,20
+Chile,1951,Gabriel González Videla           ,0,19,,.009829185,,,20
+Chile,1952,Carlos Ibáñez del Campo,0,20,,.011167157,,,20
+Chile,1953,Carlos Ibáñez del Campo,0,21,,.010750343,,,20
+Chile,1954,Carlos Ibáñez del Campo,0,22,,.011855144,,,20
+Chile,1955,Carlos Ibáñez del Campo,0,23,,.0087620262,,,20
+Chile,1956,Carlos Ibáñez del Campo,0,24,,.0088591659,,,20
+Chile,1957,Carlos Ibáñez del Campo,0,25,,.0084827393,,,20
+Chile,1958,Jorge Alessandri Rodríguez        ,0,26,,.01049871,,,20
+Chile,1959,Jorge Alessandri Rodríguez        ,0,27,,.011856398,,,20
+Chile,1960,Jorge Alessandri Rodríguez        ,0,28,,.016296107,,,20
+Chile,1961,Jorge Alessandri Rodríguez        ,0,29,,.015493143,,,20
+Chile,1962,Jorge Alessandri Rodríguez        ,0,30,,.015268118,.095135339,35,20
+Chile,1963,Jorge Alessandri Rodríguez        ,0,31,,.017319458,.085692614,37.128571,20
+Chile,1964,Eduardo Nicanor Frei Montalva     ,0,32,,.016817324,.092171431,39.257141,20
+Chile,1965,Eduardo Nicanor Frei Montalva     ,0,33,,.014346722,.10058419,41.385715,20
+Chile,1966,Eduardo Nicanor Frei Montalva     ,0,34,,.020840205,.1096935,43.514286,20
+Chile,1967,Eduardo Nicanor Frei Montalva     ,0,35,,.020850506,.11092521,45.642857,20
+Chile,1968,Eduardo Nicanor Frei Montalva     ,0,36,,.020896578,.10677466,47.771431,20
+Chile,1969,Eduardo Nicanor Frei Montalva     ,0,37,,.023403373,.12589069,49.900002,20
+Chile,1970,Salvador Allende Gossens          ,0,38,,.018275462,.13383523,48.600002,19
+Chile,1971,Salvador Allende Gossens          ,0,39,,.023882981,.082502387,47.299999,19
+Chile,1972,Salvador Allende Gossens          ,0,40,11,.018772887,.065956138,46,19
+Chile,1973,Augusto José Ramón Pinochet Ugarte     ,1,41,2,.0087375734,.082872197,46.799999,19
+Chile,1974,Augusto José Ramón Pinochet Ugarte,,1,2,-.028508397,.12974118,47.599998,19
+Chile,1975,Augusto José Ramón Pinochet Ugarte,,2,2,-.061405223,.096730568,48.400002,19
+Chile,1976,Augusto José Ramón Pinochet Ugarte,,3,2,-.041286923,.14659864,49.200001,19
+Chile,1977,Augusto José Ramón Pinochet Ugarte,,4,2,-.01864958,.12732646,50,19
+Chile,1978,Augusto José Ramón Pinochet Ugarte,,5,3,-.0055398652,.10998396,50.799999,19
+Chile,1979,Augusto José Ramón Pinochet Ugarte,,6,3,.0055111521,.14159134,51.600002,19
+Chile,1980,Augusto José Ramón Pinochet Ugarte,,7,3,.013070344,.12288339,52.400002,19
+Chile,1981,Augusto José Ramón Pinochet Ugarte,,8,3,.015139629,.082658023,53.200001,24
+Chile,1982,Augusto José Ramón Pinochet Ugarte,,9,3,.0019096958,.09321963,53.5,24
+Chile,1983,Augusto José Ramón Pinochet Ugarte,,10,3,.0031293614,.11983369,57,24
+Chile,1984,Augusto José Ramón Pinochet Ugarte,,11,3,.0085026333,.11405981,54.5,24
+Chile,1985,Augusto José Ramón Pinochet Ugarte,,12,3,.026580852,.13289553,55.799999,24
+Chile,1986,Augusto José Ramón Pinochet Ugarte,,13,3,.028525993,.12894274,54.900002,24
+Chile,1987,Augusto José Ramón Pinochet Ugarte,,14,3,.02615807,.14022802,55.700001,24
+Chile,1988,Augusto José Ramón Pinochet Ugarte,,15,5,.025662521,.17296942,56.700001,24
+Chile,1989,Augusto José Ramón Pinochet Ugarte,,16,7,.027143141,.17359456,54.5,21
+Chile,1990,Patricio Aylwin Azócar            ,,17,10,.022422679,.15572664,56.799999,21
+Chile,1991,Patricio Aylwin Azócar            ,0,1,10,.039548103,.13250749,53.200001,21
+Chile,1992,Patricio Aylwin Azócar            ,0,2,10,.060489755,.11409426,55.400002,21
+Chile,1993,Patricio Aylwin Azócar            ,0,3,10,.058022417,.08562319,53.299999,21
+Chile,1994,Eduardo Frei Ruiz-Tagle           ,0,4,10,.054179493,.098584026,54.895,21
+Chile,1995,Eduardo Frei Ruiz-Tagle           ,0,5,10,.059866603,.12452636,56.490002,21
+Chile,1996,Eduardo Frei Ruiz-Tagle           ,0,6,10,.059586294,.10682332,55.895,21
+Chile,1997,Eduardo Frei Ruiz-Tagle           ,0,7,10,.058517076,.1083582,55.299999,21
+Chile,1998,Eduardo Frei Ruiz-Tagle           ,0,8,9,.054087538,.089366868,54.849998,21
+Chile,1999,Eduardo Frei Ruiz-Tagle           ,0,9,10,.046666976,.10004245,54.400002,21
+Chile,2000,Ricardo Froilán Lagos Escobar     ,0,10,10,.048007373,.11969925,56.799999,21
+Chile,2001,Ricardo Froilán Lagos Escobar     ,0,11,10,.044139203,.10899793,59.5,21
+Chile,2002,Ricardo Froilán Lagos Escobar     ,0,12,11,.034931496,.11331522,57.973331,21
+Chile,2003,Ricardo Froilán Lagos Escobar     ,0,13,12,.032649495,.136291,56.446667,21
+Chile,2004,Ricardo Froilán Lagos Escobar     ,0,14,12,.033678055,.21977827,54.919998,21
+Chile,2005,Ricardo Froilán Lagos Escobar     ,0,15,12,.029301817,.23927131,,21
+Chile,2006,Verónica Michelle Bachelet,0,16,12,.027023092,,,
+Chile,2007,Verónica Michelle Bachelet,0,17,12,.025458289,,,
+Chile,2008,Verónica Michelle Bachelet,0,18,12,.02624315,,,
+Chile,2009,Verónica Michelle Bachelet,0,19,12,.02576354,,,
+Chile,2010,Miguel Juan Sebastián Piñera,0,20,12,.025050152,,,
+Colombia,1900,José Manuel Cayetano Marroquín Ricaurte    ,,,,.0074803629,,,
+Colombia,1901,José Manuel Cayetano Marroquín Ricaurte    ,,,,.016032381,,,
+Colombia,1902,José Manuel Cayetano Marroquín Ricaurte    ,,,,.01028941,,,
+Colombia,1903,José Manuel Cayetano Marroquín Ricaurte    ,,,,.0083864275,,,
+Colombia,1904,José Gregorio Ambrosio Rafael Reyes Prieto       ,,,,.0076076235,,,
+Colombia,1905,José Gregorio Ambrosio Rafael Reyes Prieto       ,,,,.0074803629,,,
+Colombia,1906,José Gregorio Ambrosio Rafael Reyes Prieto       ,,,,.0068782768,,,
+Colombia,1907,José Gregorio Ambrosio Rafael Reyes Prieto       ,,,,.0057069683,,,
+Colombia,1908,José Gregorio Ambrosio Rafael Reyes Prieto       ,,,,.0046125376,,,
+Colombia,1909,Ramón González Valencia,,,,.0042259553,,,
+Colombia,1910,Carlos Eugenio Restrepo Restrepo  ,,,,.004964639,,,
+Colombia,1911,Carlos Eugenio Restrepo Restrepo  ,0,,,.0061353073,,,
+Colombia,1912,Carlos Eugenio Restrepo Restrepo  ,0,,,.0053529576,,,
+Colombia,1913,Carlos Eugenio Restrepo Restrepo  ,0,,,.0026175899,,,
+Colombia,1914,José Vicente Concha Ferreira      ,0,,,-.0020464016,,,
+Colombia,1915,José Vicente Concha Ferreira      ,0,,,-.0029242302,,,
+Colombia,1916,José Vicente Concha Ferreira      ,0,,,-.00079544418,,,
+Colombia,1917,José Vicente Concha Ferreira      ,0,,,.00076143892,,,
+Colombia,1918,Marco Fidel Suárez  ,0,,,.00040205379,,,
+Colombia,1919,Marco Fidel Suárez  ,0,,,-.00042009912,,,
+Colombia,1920,Marco Fidel Suárez  ,0,,,-.00071185379,,,
+Colombia,1921,Jorge Marcelo Holguín Mallarino   ,0,,,-.0017123943,,,
+Colombia,1922,Pedro Nel Ignacio Tomás de Villanueva Ospina Vásquez         ,0,,,-.0024591086,,,
+Colombia,1923,Pedro Nel Ignacio Tomás de Villanueva Ospina Vásquez         ,0,,,-.0019893844,,,
+Colombia,1924,Pedro Nel Ignacio Tomás de Villanueva Ospina Vásquez         ,0,,,-.00019910572,,,
+Colombia,1925,Pedro Nel Ignacio Tomás de Villanueva Ospina Vásquez         ,0,,,.00015476419,,,
+Colombia,1926,Miguel Abadía Méndez              ,0,,,.0033664147,,,
+Colombia,1927,Miguel Abadía Méndez              ,0,,,.0083769849,,,
+Colombia,1928,Miguel Abadía Méndez              ,0,,,.012884727,,,
+Colombia,1929,Miguel Abadía Méndez              ,0,,,.014928213,,,
+Colombia,1930,Enrique Alfredo Olaya Herrera     ,0,,,.013474537,,,
+Colombia,1931,Enrique Alfredo Olaya Herrera     ,0,,,.013521993,,,
+Colombia,1932,Enrique Alfredo Olaya Herrera     ,0,,,.015811326,,,
+Colombia,1933,Enrique Alfredo Olaya Herrera     ,0,,,.017503558,,,
+Colombia,1934,Alfonso López Pumarejo,0,,,.021055553,,,
+Colombia,1935,Alfonso López Pumarejo,0,,,.024592293,,,
+Colombia,1936,Alfonso López Pumarejo,0,,,.023828724,,,
+Colombia,1937,Alfonso López Pumarejo,0,,,.017609376,,,
+Colombia,1938,Eduardo Santos Montejo,0,,,.016133264,,,
+Colombia,1939,Eduardo Santos Montejo,0,,,.017570738,,,
+Colombia,1940,Eduardo Santos Montejo,0,,,.018520961,,,
+Colombia,1941,Eduardo Santos Montejo,0,,,.017903291,,,
+Colombia,1942,Alfonso López Pumarejo,0,,,.014259359,,,
+Colombia,1943,Alfonso López Pumarejo,0,,,.012556253,,,
+Colombia,1944,Alfonso López Pumarejo,0,,,.01062175,,,
+Colombia,1945,Alberto Lleras Camargo,0,35,,.0095130624,,,18
+Colombia,1946,Luis Mariano Ospina Pérez         ,0,36,,.0090729715,,,18
+Colombia,1947,Luis Mariano Ospina Pérez         ,0,1,,.022437984,,,18
+Colombia,1948,Luis Mariano Ospina Pérez         ,0,2,,.01998207,,,18
+Colombia,1949,Luis Mariano Ospina Pérez         ,1,3,,.01950953,,,18
+Colombia,1950,Laureano Eleuterio Gómez Castro   ,,4,,.017420316,,,18
+Colombia,1951,Roberto Urdaneta Arbeláez         ,,5,,.014656981,,,18
+Colombia,1952,Roberto Urdaneta Arbeláez         ,,6,,.015888901,,,18
+Colombia,1953,Gustavo Rojas Pinilla             ,,7,,.01794664,,,18
+Colombia,1954,Gustavo Rojas Pinilla             ,,1,,.027837029,,,18
+Colombia,1955,Gustavo Rojas Pinilla             ,,2,,.019050151,,,18
+Colombia,1956,Gustavo Rojas Pinilla             ,,3,,.014243162,,,18
+Colombia,1957,Gabriel París Gordillo            ,,4,,.010470208,,,18
+Colombia,1958,Alberto Lleras Camargo,,5,,.0075531113,,,18
+Colombia,1959,Alberto Lleras Camargo,0,1,,.0032408151,,,18
+Colombia,1960,Alberto Lleras Camargo,0,2,,.0058519142,,,18
+Colombia,1961,Alberto Lleras Camargo,0,3,,.0098452792,,,18
+Colombia,1962,Guillermo León Valencia Muñoz     ,0,4,,.012628957,,,18
+Colombia,1963,Guillermo León Valencia Muñoz     ,0,5,,.010349293,,,18
+Colombia,1964,Guillermo León Valencia Muñoz     ,0,6,,.013870416,,,18
+Colombia,1965,Guillermo León Valencia Muñoz     ,0,7,,.012183446,,,18
+Colombia,1966,Carlos Lleras Restrepo            ,0,8,,.013386069,,,18
+Colombia,1967,Carlos Lleras Restrepo            ,0,9,,.013278157,,,18
+Colombia,1968,Carlos Lleras Restrepo            ,0,10,,.017449746,,,19
+Colombia,1969,Carlos Lleras Restrepo            ,0,11,,.019762753,,,19
+Colombia,1970,Misael Eduardo Pastrana Borrero   ,0,12,,.02287161,,,19
+Colombia,1971,Misael Eduardo Pastrana Borrero   ,0,13,,.024060525,,52.02,19
+Colombia,1972,Misael Eduardo Pastrana Borrero   ,0,14,10,.02685173,.0072489153,52.299999,19
+Colombia,1973,Misael Eduardo Pastrana Borrero   ,0,15,10,.031273417,.0063121524,53.209999,19
+Colombia,1974,Alfonso López Michelsen           ,0,16,10,.031147167,.010142384,49.605,19
+Colombia,1975,Alfonso López Michelsen           ,0,1,9,.016576851,.0076512159,46,19
+Colombia,1976,Alfonso López Michelsen           ,0,2,9,.019149803,.0052451543,48.125,19
+Colombia,1977,Alfonso López Michelsen           ,0,3,9,.018773602,.0056288787,50.25,19
+Colombia,1978,Julio César Turbay Ayala          ,0,4,9,.02698119,.0061589987,52.375,19
+Colombia,1979,Julio César Turbay Ayala          ,0,5,9,.027464772,.005142712,54.5,19
+Colombia,1980,Julio César Turbay Ayala          ,0,6,9,.026057916,.0035877805,54.169998,19
+Colombia,1981,Julio César Turbay Ayala          ,0,7,9,.022796888,.0013827365,53.84,19
+Colombia,1982,Belisario Betancur Cuartas        ,0,8,9,.018860191,.0061484966,53.509998,19
+Colombia,1983,Belisario Betancur Cuartas        ,0,9,9,.016360208,.012099626,53.18,19
+Colombia,1984,Belisario Betancur Cuartas        ,0,10,9,.01413483,.014048365,52.849998,19
+Colombia,1985,Belisario Betancur Cuartas        ,0,11,9,.015110795,.016323986,52.52,19
+Colombia,1986,Virgilio Barco Vargas             ,0,12,9,.016323566,.018134128,52.190002,19
+Colombia,1987,Virgilio Barco Vargas             ,0,13,9,.017777033,.038955167,51.860001,19
+Colombia,1988,Virgilio Barco Vargas             ,0,14,9,.013762211,.031521846,51.530003,19
+Colombia,1989,Virgilio Barco Vargas             ,0,15,7,.012144694,.045327924,51.200001,19
+Colombia,1990,César Augusto Gaviria Trujillo    ,0,16,7,.01436146,.060152676,53.400002,19
+Colombia,1991,César Augusto Gaviria Trujillo    ,0,17,8,.014685949,.050557975,52.360001,16
+Colombia,1992,César Augusto Gaviria Trujillo    ,0,18,8,.019008106,.043705069,51.32,16
+Colombia,1993,César Augusto Gaviria Trujillo    ,0,19,8,.020094471,.038123183,52.639999,16
+Colombia,1994,Ernesto Samper Pizano             ,0,20,7,.022851996,.029967148,53.959999,16
+Colombia,1995,Ernesto Samper Pizano             ,0,21,6,.025242332,.035529736,55.279999,16
+Colombia,1996,Ernesto Samper Pizano             ,0,22,6,.02184068,.041569233,56.599998,16
+Colombia,1997,Ernesto Samper Pizano             ,0,23,6,.020237543,.036645602,53.700001,16
+Colombia,1998,Andrés Pastrana Arango            ,0,24,7,.017102465,.033799168,63.700001,16
+Colombia,1999,Andrés Pastrana Arango            ,0,25,6,.0099013066,.051499519,55.700001,16
+Colombia,2000,Andrés Pastrana Arango            ,0,26,6,.0071349149,.065738708,56.5,16
+Colombia,2001,Andrés Pastrana Arango            ,0,27,6,.0073298262,.055330396,57.400002,16
+Colombia,2002,Álvaro Uribe Vélez                ,0,28,6,.0050947084,.055277005,,16
+Colombia,2003,Álvaro Uribe Vélez                ,0,29,6,.0075958339,.064402759,,16
+Colombia,2004,Álvaro Uribe Vélez                ,0,30,6,.00674034,.070607938,,16
+Colombia,2005,Álvaro Uribe Vélez                ,0,31,8,.0075461636,.084246986,,16
+Colombia,2006,Álvaro Uribe Vélez                ,0,32,8,.012645185,,,
+Colombia,2007,Álvaro Uribe Vélez                ,0,33,8,.01698835,,,
+Colombia,2008,Álvaro Uribe Vélez                ,0,34,7,.01910466,,,
+Colombia,2009,Álvaro Uribe Vélez                ,0,35,7,.02401999,,,
+Colombia,2010,Juan Manuel Santos Calderón,0,36,7,.025342153,,,
+Costa Rica,1900,Rafael Anselmo José Iglesias Castro       ,,,,.068789385,,,
+Costa Rica,1901,Rafael Anselmo José Iglesias Castro       ,,,,.07005766,,,
+Costa Rica,1902,Ascensión Esquivel Ibarra         ,,,,.082767971,,,
+Costa Rica,1903,Ascensión Esquivel Ibarra         ,0,,,.069702558,,,
+Costa Rica,1904,Ascensión Esquivel Ibarra         ,0,,,.066615447,,,
+Costa Rica,1905,Ascensión Esquivel Ibarra         ,0,,,.068789385,,,
+Costa Rica,1906,Cleto de Jesús González Víquez    ,1,,,.081472151,,,
+Costa Rica,1907,Cleto de Jesús González Víquez    ,,,,.071293585,,,
+Costa Rica,1908,Cleto de Jesús González Víquez    ,,,,.051427592,,,
+Costa Rica,1909,Cleto de Jesús González Víquez    ,,,,.057796761,,,
+Costa Rica,1910,Romualdo Ricardo de Jesús Jiménez Oreamuno ,,,,.079255395,,,
+Costa Rica,1911,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,.06795828,,,
+Costa Rica,1912,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,.05999852,,,
+Costa Rica,1913,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,.053636327,,,
+Costa Rica,1914,Alfredo González Flores ,0,,,.052407805,,,
+Costa Rica,1915,Alfredo González Flores ,0,,,.048803478,,,
+Costa Rica,1916,Alfredo González Flores ,0,,,.052432679,,,
+Costa Rica,1917,José Federico Alberto de Jesús Tinoco Granados     ,1,,,.0010581,,,
+Costa Rica,1918,José Federico Alberto de Jesús Tinoco Granados     ,,,,.054041453,,,
+Costa Rica,1919,Francisco Ramón de Jesús Aguilar  Barquero,,,,.11503487,,,
+Costa Rica,1920,Rafael Julio del Rosario Acosta García    ,,,,.11445381,,,
+Costa Rica,1921,Rafael Julio del Rosario Acosta García    ,0,,,.032536093,,,
+Costa Rica,1922,Rafael Julio del Rosario Acosta García    ,0,,,.014830755,,,
+Costa Rica,1923,Rafael Julio del Rosario Acosta García    ,0,,,.019466598,,,
+Costa Rica,1924,Romualdo Ricardo de Jesús Jiménez Oreamuno  ,0,,,.014245764,,,
+Costa Rica,1925,Romualdo Ricardo de Jesús Jiménez Oreamuno  ,0,,,.0067448467,,,
+Costa Rica,1926,Romualdo Ricardo de Jesús Jiménez Oreamuno  ,0,,,.0035566462,,,
+Costa Rica,1927,Romualdo Ricardo de Jesús Jiménez Oreamuno  ,0,,,.0034761829,,,
+Costa Rica,1928,Cleto de Jesús González Víquez    ,0,,,.0058340244,,,
+Costa Rica,1929,Cleto de Jesús González Víquez    ,0,,,.0046171979,,,
+Costa Rica,1930,Cleto de Jesús González Víquez    ,0,,,-.0045815506,,,
+Costa Rica,1931,Cleto de Jesús González Víquez    ,0,,,-.0037602775,,,
+Costa Rica,1932,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,-.0013740329,,,
+Costa Rica,1933,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,-.0077631408,,,
+Costa Rica,1934,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,-.0048135659,,,
+Costa Rica,1935,Romualdo Ricardo de Jesús Jiménez Oreamuno ,0,,,-.0034225932,,,
+Costa Rica,1936,León Luis Cortés Castro           ,0,,,.0019742316,,,
+Costa Rica,1937,León Luis Cortés Castro           ,0,,,.0075858384,,,
+Costa Rica,1938,León Luis Cortés Castro           ,0,,,.0083675487,,,
+Costa Rica,1939,León Luis Cortés Castro           ,0,,,.0072556827,,,
+Costa Rica,1940,Rafael Ángel del Socorro Calderón Guardia  ,0,,,.0053041913,,,
+Costa Rica,1941,Rafael Ángel del Socorro Calderón Guardia  ,0,,,.0055763749,,,
+Costa Rica,1942,Rafael Ángel del Socorro Calderón Guardia  ,0,,,.0027248221,,,
+Costa Rica,1943,Rafael Ángel del Socorro Calderón Guardia  ,0,,,.0033359039,,,
+Costa Rica,1944,Teodoro Picado Michalski          ,0,,,-.0012064452,,,
+Costa Rica,1945,Teodoro Picado Michalski          ,0,25,,-.0039110426,,,16
+Costa Rica,1946,Teodoro Picado Michalski          ,0,26,,-.0024150764,,,16
+Costa Rica,1947,Teodoro Picado Michalski          ,0,27,,-.0050333212,,,16
+Costa Rica,1948,José María Hipólito Figueres Ferrer      ,1,28,,-.0053850864,,,16
+Costa Rica,1949,Luis Emilio Rafael de la Trinidad Otilio González Ulate y Blanco,,29,,-.0034660371,,,18
+Costa Rica,1950,Luis Emilio Rafael de la Trinidad Otilio González Ulate y Blanco,0,1,,-.0041295798,,,18
+Costa Rica,1951,Luis Emilio Rafael de la Trinidad Otilio González Ulate y Blanco,0,2,,-.0011784215,,,18
+Costa Rica,1952,Luis Emilio Rafael de la Trinidad Otilio González Ulate y Blanco,0,3,,.013519027,,,18
+Costa Rica,1953,José María Hipólito Figueres Ferrer       ,0,4,,.021805985,,,18
+Costa Rica,1954,José María Hipólito Figueres Ferrer       ,0,5,,.015105709,,,18
+Costa Rica,1955,José María Hipólito Figueres Ferrer       ,0,6,,.012360413,,,18
+Costa Rica,1956,José María Hipólito Figueres Ferrer       ,0,7,,.012730961,,,18
+Costa Rica,1957,José María Hipólito Figueres Ferrer       ,0,8,,.013670448,,,18
+Costa Rica,1958,Mario José Echandi Jiménez        ,0,9,,.016218763,,,18
+Costa Rica,1959,Mario José Echandi Jiménez        ,0,10,,.015124869,,,18
+Costa Rica,1960,Mario José Echandi Jiménez        ,0,11,,.01668484,,,18
+Costa Rica,1961,Mario José Echandi Jiménez        ,0,12,,.011852106,,,18
+Costa Rica,1962,Francisco José Orlich Bolmarich   ,0,13,,.010494172,,50,18
+Costa Rica,1963,Francisco José Orlich Bolmarich   ,0,14,,.0061913654,,49.439999,18
+Costa Rica,1964,Francisco José Orlich Bolmarich   ,0,15,,.0087188473,,48.880001,18
+Costa Rica,1965,Francisco José Orlich Bolmarich   ,0,16,,.015473409,.00032793541,48.32,18
+Costa Rica,1966,José Joaquín Antonio Trejos Fernández        ,0,17,,.018545929,.00018078924,47.760002,18
+Costa Rica,1967,José Joaquín Antonio Trejos Fernández        ,0,18,,.019014463,.00015203538,47.200001,18
+Costa Rica,1968,José Joaquín Antonio Trejos Fernández        ,0,19,,.02048194,.00048598344,46.639999,18
+Costa Rica,1969,José Joaquín Antonio Trejos Fernández        ,0,20,,.0241895,.00028139466,46.080002,18
+Costa Rica,1970,José María Hipólito Figueres Ferrer      ,0,21,,.028416729,.0011548464,45.52,18
+Costa Rica,1971,José María Hipólito Figueres Ferrer      ,0,22,,.036985811,.0018528653,44.960003,18
+Costa Rica,1972,José María Hipólito Figueres Ferrer      ,0,23,12,.038261276,.00060726504,44.400002,18
+Costa Rica,1973,José María Hipólito Figueres Ferrer      ,0,24,12,.042322937,.00052255963,45.333336,18
+Costa Rica,1974,Porfirio Ricardo José Luis Daniel Oduber Quirós   ,0,25,12,.044725087,.00064857444,46.266666,18
+Costa Rica,1975,Porfirio Ricardo José Luis Daniel Oduber Quirós   ,0,26,12,.038007103,.0005021941,47.200001,18
+Costa Rica,1976,Porfirio Ricardo José Luis Daniel Oduber Quirós   ,0,27,12,.036246572,.00063703832,48.133335,18
+Costa Rica,1977,Porfirio Ricardo José Luis Daniel Oduber Quirós   ,0,28,12,.039706912,.00073897594,49.066666,18
+Costa Rica,1978,Rodrigo José Ramón Francisco de Jesús Carazo Odio   ,0,29,12,.037731413,.00050137739,50,18
+Costa Rica,1979,Rodrigo José Ramón Francisco de Jesús Carazo Odio   ,0,30,12,.037020314,.00048404868,49.372501,18
+Costa Rica,1980,Rodrigo José Ramón Francisco de Jesús Carazo Odio   ,0,31,12,.030223424,.0014566822,48.745003,18
+Costa Rica,1981,Rodrigo José Ramón Francisco de Jesús Carazo Odio   ,0,32,12,.021065967,.0039144051,48.1175,18
+Costa Rica,1982,Luis Alberto Monge Álvarez        ,0,33,12,.0055447607,.0039041934,47.490002,18
+Costa Rica,1983,Luis Alberto Monge Álvarez        ,0,34,12,.00032161607,.0077256854,47.245003,18
+Costa Rica,1984,Luis Alberto Monge Álvarez        ,0,35,12,.00052959635,.0073942128,47,18
+Costa Rica,1985,Luis Alberto Monge Álvarez        ,0,36,12,-.00078718178,.0052139848,44.400002,18
+Costa Rica,1986,Óscar Rafael de Jesús Arias Sánchez       ,0,37,12,-.00067490007,.0039793178,41.799999,18
+Costa Rica,1987,Óscar Rafael de Jesús Arias Sánchez       ,0,38,12,-.0026703042,.0037679304,42,18
+Costa Rica,1988,Óscar Rafael de Jesús Arias Sánchez       ,0,39,12,-.0049615023,.0027836293,43.966667,18
+Costa Rica,1989,Óscar Rafael de Jesús Arias Sánchez       ,0,40,12,-.0046614357,.004084094,45.933334,18
+Costa Rica,1990,Rafael Ángel Calderón Fournier    ,0,41,12,-.0013587053,.0038939556,47.900002,18
+Costa Rica,1991,Rafael Ángel Calderón Fournier    ,0,42,12,.0036423937,.0026367914,47.599998,18
+Costa Rica,1992,Rafael Ángel Calderón Fournier    ,0,43,12,.020012451,.0032014705,48.900002,18
+Costa Rica,1993,Rafael Ángel Calderón Fournier    ,0,44,11,.024835557,.0039974526,48.099998,18
+Costa Rica,1994,José María Figueres Olsen         ,0,45,11,.02375431,.0042528766,48.099998,18
+Costa Rica,1995,José María Figueres Olsen         ,0,46,11,.026835458,.0056183897,48.900002,18
+Costa Rica,1996,José María Figueres Olsen         ,0,47,11,.022267925,.0065168953,47.5,18
+Costa Rica,1997,José María Figueres Olsen         ,0,48,11,.0211646,.0051125679,48.299999,18
+Costa Rica,1998,Miguel Ángel Rodríguez Echeverría ,0,49,11,.02577677,.004937313,48.299999,18
+Costa Rica,1999,Miguel Ángel Rodríguez Echeverría ,0,50,11,.029045386,.0044526453,48,18
+Costa Rica,2000,Miguel Ángel Rodríguez Echeverría ,0,51,11,.027248777,.0055549974,50.099998,18
+Costa Rica,2001,Miguel Ángel Rodríguez Echeverría ,0,52,11,.026106538,.0053634625,46.599998,18
+Costa Rica,2002,Abel Pacheco de la Espriella      ,0,53,11,.020389972,.0060465606,49.959999,18
+Costa Rica,2003,Abel Pacheco de la Espriella      ,0,54,11,.019904274,.0042148819,49.857498,18
+Costa Rica,2004,Abel Pacheco de la Espriella      ,0,55,12,.020082578,.0039901976,49.755001,18
+Costa Rica,2005,Abel Pacheco de la Espriella      ,0,56,12,.022818269,.0057941931,,18
+Costa Rica,2006,Óscar Rafael de Jesús Arias Sánchez       ,0,57,12,.031541772,,,
+Costa Rica,2007,Óscar Rafael de Jesús Arias Sánchez       ,0,58,12,.034863904,,,
+Costa Rica,2008,Óscar Rafael de Jesús Arias Sánchez       ,0,59,12,.030374208,,,
+Costa Rica,2009,Óscar Rafael de Jesús Arias Sánchez       ,0,60,12,.021942401,,,
+Costa Rica,2010,Laura Chinchilla Miranda,0,61,12,.024939608,,,
+Cuba,1900,Leonard Wood,,,,.1324648,,,
+Cuba,1901,Leonard Wood,,,,.11671477,,,
+Cuba,1902,Tomás Estrada Palma,,,,.10068,,,
+Cuba,1903,Tomás Estrada Palma,,,,.094203159,,,
+Cuba,1904,Tomás Estrada Palma,,,,.12688848,,,
+Cuba,1905,Tomás Estrada Palma,,,,.12721479,,,
+Cuba,1906,Charles Edward Magoon             ,,,,.10546475,,,
+Cuba,1907,Charles Edward Magoon             ,,,,.080298185,,,
+Cuba,1908,Charles Edward Magoon             ,,,,.076576397,,,
+Cuba,1909,José Miguel Gómez y Gómez         ,,,,.084434554,,,
+Cuba,1910,José Miguel Gómez y Gómez         ,,,,.076577879,,,
+Cuba,1911,José Miguel Gómez y Gómez         ,,,,.08025261,,,
+Cuba,1912,José Miguel Gómez y Gómez         ,,,,.079157151,,,
+Cuba,1913,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.059768271,,,
+Cuba,1914,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.04383352,,,
+Cuba,1915,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.041384585,,,
+Cuba,1916,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.04294952,,,
+Cuba,1917,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.032498486,,,
+Cuba,1918,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.015097488,,,
+Cuba,1919,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.0028961832,,,
+Cuba,1920,Aurelio Mario Gabriel Francisco García Menocal y Deop    ,,,,.0061167069,,,
+Cuba,1921,Alfredo Zayas y Alfonso           ,,,,-.016214101,,,
+Cuba,1922,Alfredo Zayas y Alfonso           ,,,,-.015110773,,,
+Cuba,1923,Alfredo Zayas y Alfonso           ,,,,.0067900415,,,
+Cuba,1924,Alfredo Zayas y Alfonso           ,,,,-.0022369861,,,
+Cuba,1925,Gerardo Machado y Morales         ,,,,-.025362665,,,
+Cuba,1926,Gerardo Machado y Morales         ,,,,-.031887416,,,
+Cuba,1927,Gerardo Machado y Morales         ,,,,-.012954858,,,
+Cuba,1928,Gerardo Machado y Morales         ,,,,-.00083348242,,,
+Cuba,1929,Gerardo Machado y Morales         ,,,,-.0081953909,,,
+Cuba,1930,Gerardo Machado y Morales         ,,,,-.024962459,,,
+Cuba,1931,Gerardo Machado y Morales         ,,,,-.033947907,,,
+Cuba,1932,Gerardo Machado y Morales         ,,,,-.062079091,,,
+Cuba,1933,Ramón Grau San Martín,,,,-.06586308,,,
+Cuba,1934,Carlos Mendieta y Montefur        ,,,,-.013556459,,,
+Cuba,1935,José Agripino Barnet y Vinageras  ,,,,-.014579243,,,
+Cuba,1936,Federico Laredo Brú               ,,,,.007611318,,,
+Cuba,1937,Federico Laredo Brú               ,,,,.021823024,,,
+Cuba,1938,Federico Laredo Brú               ,,,,-.0012596513,,,
+Cuba,1939,Federico Laredo Brú               ,,,,.0066989562,,,
+Cuba,1940,Rubén Fulgencio Batista y Zaldívar,,,,-.14383048,,,
+Cuba,1941,Rubén Fulgencio Batista y Zaldívar,0,,,.089845248,,,
+Cuba,1942,Rubén Fulgencio Batista y Zaldívar,0,,,.0019696604,,,
+Cuba,1943,Rubén Fulgencio Batista y Zaldívar,0,,,.024330316,,,
+Cuba,1944,Ramón Grau San Martín,0,,,.045691308,,,
+Cuba,1945,Ramón Grau San Martín,0,1,,.11007086,,,16
+Cuba,1946,Ramón Grau San Martín,0,2,,.095385209,,,16
+Cuba,1947,Ramón Grau San Martín,0,3,,.10158729,,,16
+Cuba,1948,Carlos Prío Socarrás              ,0,4,,.055001475,,,16
+Cuba,1949,Carlos Prío Socarrás              ,0,5,,.056319185,,,16
+Cuba,1950,Carlos Prío Socarrás              ,0,6,,.054691166,,,16
+Cuba,1951,Carlos Prío Socarrás              ,0,7,,.055776589,,,16
+Cuba,1952,Rubén Fulgencio Batista y Zaldívar,1,8,,.051163979,,,16
+Cuba,1953,Rubén Fulgencio Batista y Zaldívar,,1,,-.062341645,,,16
+Cuba,1954,Rubén Fulgencio Batista y Zaldívar,,2,,-.031604223,,,16
+Cuba,1955,Rubén Fulgencio Batista y Zaldívar,,3,,-.017559102,,,16
+Cuba,1956,Rubén Fulgencio Batista y Zaldívar,,4,,-.00010891029,,,16
+Cuba,1957,Rubén Fulgencio Batista y Zaldívar,,5,,.020221874,,,16
+Cuba,1958,Rubén Fulgencio Batista y Zaldívar,,6,,.014767941,,,16
+Cuba,1959,Osvaldo Dorticós Torrado          ,,7,,-.0027380378,,,
+Cuba,1960,Osvaldo Dorticós Torrado          ,,1,,-.066251561,,,
+Cuba,1961,Osvaldo Dorticós Torrado          ,,2,,-.044484511,,,
+Cuba,1962,Osvaldo Dorticós Torrado          ,,3,,-.033825874,,,
+Cuba,1963,Osvaldo Dorticós Torrado          ,,4,,-.028473029,,,
+Cuba,1964,Osvaldo Dorticós Torrado          ,,5,,-.025577255,,,
+Cuba,1965,Osvaldo Dorticós Torrado          ,,6,,-.023420397,,,
+Cuba,1966,Osvaldo Dorticós Torrado          ,,7,,-.016531991,,,
+Cuba,1967,Osvaldo Dorticós Torrado          ,,8,,-.0040413071,,,
+Cuba,1968,Osvaldo Dorticós Torrado          ,,9,,-.011106169,,,
+Cuba,1969,Osvaldo Dorticós Torrado          ,,10,,-.0014150888,,,
+Cuba,1970,Osvaldo Dorticós Torrado          ,,11,,.012830935,,,
+Cuba,1971,Osvaldo Dorticós Torrado          ,,12,,.018531367,,,
+Cuba,1972,Osvaldo Dorticós Torrado          ,,13,0,.021111861,,,
+Cuba,1973,Osvaldo Dorticós Torrado          ,,14,0,.02539273,,,
+Cuba,1974,Osvaldo Dorticós Torrado          ,,15,0,.027481537,,,
+Cuba,1975,Osvaldo Dorticós Torrado          ,,16,0,.035150256,,,
+Cuba,1976,Fidel Alejandro Castro Ruz        ,,17,1,.03524458,,,
+Cuba,1977,Fidel Alejandro Castro Ruz        ,,18,2,.033743877,,,
+Cuba,1978,Fidel Alejandro Castro Ruz        ,,19,2,.04725787,,,
+Cuba,1979,Fidel Alejandro Castro Ruz        ,,20,2,.05177943,,,
+Cuba,1980,Fidel Alejandro Castro Ruz        ,,21,2,.034137599,,,
+Cuba,1981,Fidel Alejandro Castro Ruz        ,,22,2,.043032825,,,
+Cuba,1982,Fidel Alejandro Castro Ruz        ,,23,2,.04894767,,,
+Cuba,1983,Fidel Alejandro Castro Ruz        ,,24,2,.048680875,,,
+Cuba,1984,Fidel Alejandro Castro Ruz        ,,25,2,.050024837,,,
+Cuba,1985,Fidel Alejandro Castro Ruz        ,,26,2,.062896088,,,
+Cuba,1986,Fidel Alejandro Castro Ruz        ,,27,2,.060813852,,,
+Cuba,1987,Fidel Alejandro Castro Ruz        ,,28,2,.052711286,,,
+Cuba,1988,Fidel Alejandro Castro Ruz        ,,29,1,.047998097,,,
+Cuba,1989,Fidel Alejandro Castro Ruz        ,,30,0,.046014763,,,
+Cuba,1990,Fidel Alejandro Castro Ruz        ,,31,0,.044877306,,,
+Cuba,1991,Fidel Alejandro Castro Ruz        ,,32,0,.025215879,,,
+Cuba,1992,Fidel Alejandro Castro Ruz        ,,33,0,.0036012512,,,
+Cuba,1993,Fidel Alejandro Castro Ruz        ,,34,0,-.014381018,,,
+Cuba,1994,Fidel Alejandro Castro Ruz        ,,35,0,-.015475011,,,
+Cuba,1995,Fidel Alejandro Castro Ruz        ,,36,0,-.034608897,,,
+Cuba,1996,Fidel Alejandro Castro Ruz        ,,37,0,-.030784022,,,
+Cuba,1997,Fidel Alejandro Castro Ruz        ,,38,0,-.030959263,,,
+Cuba,1998,Fidel Alejandro Castro Ruz        ,,39,0,-.031052105,,,
+Cuba,1999,Fidel Alejandro Castro Ruz        ,,40,0,-.024644846,,,
+Cuba,2000,Fidel Alejandro Castro Ruz        ,,41,0,-.015007061,,,
+Cuba,2001,Fidel Alejandro Castro Ruz        ,,42,0,-.0071572969,,,
+Cuba,2002,Fidel Alejandro Castro Ruz        ,,43,0,.0076685757,,,
+Cuba,2003,Fidel Alejandro Castro Ruz        ,,44,0,.025898179,,,
+Cuba,2004,Fidel Alejandro Castro Ruz        ,,45,0,.029785365,,,
+Cuba,2005,Fidel Alejandro Castro Ruz        ,,46,0,.040986605,,,
+Cuba,2006,Raúl Modesto Castro Ruz,,47,0,.048495308,,,
+Cuba,2007,Raúl Modesto Castro Ruz,,48,0,.056159891,,,
+Cuba,2008,Raúl Modesto Castro Ruz,,49,1,.061023246,,,
+Cuba,2009,Raúl Modesto Castro Ruz,,50,1,.061015427,,,
+Cuba,2010,Raúl Modesto Castro Ruz,,51,1,.063471638,,,
+Dominican Republic,1900,Juan Isidro Jimenes Pereyra       ,,,,.077180207,,,
+Dominican Republic,1901,Juan Isidro Jimenes Pereyra       ,,,,.078238375,,,
+Dominican Republic,1902,Horacio Vásquez Lajara,,,,.079267785,,,
+Dominican Republic,1903,Carlos Felipe Morales Languasco   ,,,,.076680735,,,
+Dominican Republic,1904,Carlos Felipe Morales Languasco   ,,,,.076211959,,,
+Dominican Republic,1905,Ramón Cáceres Vásquez             ,,,,.077532932,,,
+Dominican Republic,1906,Ramón Cáceres Vásquez             ,,,,.078994215,,,
+Dominican Republic,1907,Ramón Cáceres Vásquez             ,,,,.079285763,,,
+Dominican Republic,1908,Ramón Cáceres Vásquez             ,,,,.076755412,,,
+Dominican Republic,1909,Ramón Cáceres Vásquez             ,,,,.077597015,,,
+Dominican Republic,1910,Ramón Cáceres Vásquez             ,,,,.081233047,,,
+Dominican Republic,1911,Eladio Victoria Victoria          ,,,,.083529241,,,
+Dominican Republic,1912,"Adolfo Alejandro Nouel y Bobadilla, Arzobispo",,,,.083527751,,,
+Dominican Republic,1913,José Bordas Valdés,,,,.081589095,,,
+Dominican Republic,1914,Juan Isidro Jimenes Pereyra       ,,,,.079099268,,,
+Dominican Republic,1915,Juan Isidro Jimenes Pereyra       ,,,,.081186317,,,
+Dominican Republic,1916,Harry Shepard Knapp               ,,,,.086785182,,,
+Dominican Republic,1917,Harry Shepard Knapp               ,,,,.09132833,,,
+Dominican Republic,1918,Benjamin Hebard Fuller            ,,,,.09256348,,,
+Dominican Republic,1919,"Thomas Snowden, Jr. ",,,,.10125354,,,
+Dominican Republic,1920,"Thomas Snowden, Jr. ",,,,.1056358,,,
+Dominican Republic,1921,Samuel S. Robinson                ,,,,.095962614,,,
+Dominican Republic,1922,Juan Bautista Vicini Burgos       ,,,,.088983215,,,
+Dominican Republic,1923,Juan Bautista Vicini Burgos       ,,,,.095619872,,,
+Dominican Republic,1924,Horacio Vásquez Lajara,,,,.14133582,,,
+Dominican Republic,1925,Horacio Vásquez Lajara,0,,,.11044122,,,
+Dominican Republic,1926,Horacio Vásquez Lajara,0,,,.096732467,,,
+Dominican Republic,1927,Horacio Vásquez Lajara,0,,,.092997842,,,
+Dominican Republic,1928,Horacio Vásquez Lajara,1,,,.065785795,,,
+Dominican Republic,1929,Horacio Vásquez Lajara,,,,.03895843,,,
+Dominican Republic,1930,Rafael Leonidas Trujillo y Molina ,,,,.026423596,,,
+Dominican Republic,1931,Rafael Leonidas Trujillo y Molina ,,,,.021377923,,,
+Dominican Republic,1932,Rafael Leonidas Trujillo y Molina ,,,,.023167433,,,
+Dominican Republic,1933,Rafael Leonidas Trujillo y Molina ,,,,.031259727,,,
+Dominican Republic,1934,Rafael Leonidas Trujillo y Molina ,,,,.037270885,,,
+Dominican Republic,1935,Rafael Leonidas Trujillo y Molina ,,,,.042381365,,,
+Dominican Republic,1936,Rafael Leonidas Trujillo y Molina ,,,,.045999262,,,
+Dominican Republic,1937,Rafael Leonidas Trujillo y Molina ,,,,.048420727,,,
+Dominican Republic,1938,Jacinto Bienvenido Peynado y Peynado,,,,.047373727,,,
+Dominican Republic,1939,Jacinto Bienvenido Peynado y Peynado,,,,.05113693,,,
+Dominican Republic,1940,Manuel de Jesús Troncoso de la Concha        ,,,,.055058535,,,
+Dominican Republic,1941,Manuel de Jesús Troncoso de la Concha        ,,,,.055718742,,,
+Dominican Republic,1942,Rafael Leonidas Trujillo y Molina ,,,,.05438026,,,
+Dominican Republic,1943,Rafael Leonidas Trujillo y Molina ,,,,.05073566,,,
+Dominican Republic,1944,Rafael Leonidas Trujillo y Molina ,,,,.042304546,,,
+Dominican Republic,1945,Rafael Leonidas Trujillo y Molina ,,15,,.033243772,,,16
+Dominican Republic,1946,Rafael Leonidas Trujillo y Molina ,,16,,.025098413,,,16
+Dominican Republic,1947,Rafael Leonidas Trujillo y Molina ,,17,,.023683494,,,16
+Dominican Republic,1948,Rafael Leonidas Trujillo y Molina ,,18,,.025387485,,,16
+Dominican Republic,1949,Rafael Leonidas Trujillo y Molina ,,19,,.024647346,,,16
+Dominican Republic,1950,Rafael Leonidas Trujillo y Molina ,,20,,.013289823,,,16
+Dominican Republic,1951,Rafael Leonidas Trujillo y Molina ,,21,,.0048824726,,,16
+Dominican Republic,1952,Héctor Bienvenido Trujillo y Molina         ,,22,,.006269651,,,16
+Dominican Republic,1953,Héctor Bienvenido Trujillo y Molina         ,,23,,.0038802922,,,16
+Dominican Republic,1954,Héctor Bienvenido Trujillo y Molina         ,,24,,.0052896659,,,16
+Dominican Republic,1955,Héctor Bienvenido Trujillo y Molina         ,,25,,.0088251866,,,16
+Dominican Republic,1956,Héctor Bienvenido Trujillo y Molina         ,,26,,.013414337,,,16
+Dominican Republic,1957,Héctor Bienvenido Trujillo y Molina         ,,27,,.010646163,,,16
+Dominican Republic,1958,Héctor Bienvenido Trujillo y Molina         ,,28,,.0045401561,,,16
+Dominican Republic,1959,Héctor Bienvenido Trujillo y Molina         ,,29,,.001240493,,,16
+Dominican Republic,1960,Joaquín Antonio Balaguer Ricardo  ,,30,,.0072098994,,,16
+Dominican Republic,1961,Joaquín Antonio Balaguer Ricardo  ,,31,,.0087901521,,,16
+Dominican Republic,1962,Rafael Filiberto Bonnelly Fondeur ,,32,,.018904995,,,17
+Dominican Republic,1963,Donald Joseph Reid Cabral (Triumvirate),,33,,.020796463,,,17
+Dominican Republic,1964,Donald Joseph Reid Cabral (Triumvirate),,1,,.031791974,,,17
+Dominican Republic,1965,Héctor Federico García Godoy Cáceres     ,,2,,-.029645899,,,17
+Dominican Republic,1966,Joaquín Antonio Balaguer Ricardo  ,,3,,.0026082743,,,16
+Dominican Republic,1967,Joaquín Antonio Balaguer Ricardo  ,,1,,.050573483,,,16
+Dominican Republic,1968,Joaquín Antonio Balaguer Ricardo  ,,2,,.02453357,,,16
+Dominican Republic,1969,Joaquín Antonio Balaguer Ricardo  ,,3,,.037526783,,,16
+Dominican Republic,1970,Joaquín Antonio Balaguer Ricardo  ,,4,,.059717979,,49.279999,16
+Dominican Republic,1971,Joaquín Antonio Balaguer Ricardo  ,,5,,.062720291,,48.880665,16
+Dominican Republic,1972,Joaquín Antonio Balaguer Ricardo  ,,6,9,.064301126,,48.481331,16
+Dominican Republic,1973,Joaquín Antonio Balaguer Ricardo  ,,7,9,.06862206,,48.082001,16
+Dominican Republic,1974,Joaquín Antonio Balaguer Ricardo  ,,8,8,.064610086,.0068976437,47.682667,16
+Dominican Republic,1975,Joaquín Antonio Balaguer Ricardo  ,,9,8,.060687583,.005226797,47.283333,16
+Dominican Republic,1976,Joaquín Antonio Balaguer Ricardo  ,,10,7,.054861363,.0047884397,46.883999,16
+Dominican Republic,1977,Joaquín Antonio Balaguer Ricardo  ,,11,8,.057158556,.0057262257,46.484665,16
+Dominican Republic,1978,Silvestre Antonio Guzmán Fernández,,12,10,.059664328,.0058509074,46.085335,16
+Dominican Republic,1979,Silvestre Antonio Guzmán Fernández,0,1,9,.0093393875,.0047015175,45.686001,16
+Dominican Republic,1980,Silvestre Antonio Guzmán Fernández,0,2,9,.024535319,.0055600349,45.286667,16
+Dominican Republic,1981,Silvestre Antonio Guzmán Fernández,0,3,9,.023156367,.0037886682,44.887333,16
+Dominican Republic,1982,Salvador Jorge Blanco ,0,4,11,.017318329,.0016299232,44.487999,16
+Dominican Republic,1983,Salvador Jorge Blanco ,0,5,11,.018234702,.00064311712,44.088669,16
+Dominican Republic,1984,Salvador Jorge Blanco ,0,6,10,.014216467,0,43.689335,16
+Dominican Republic,1985,Salvador Jorge Blanco ,0,7,10,.0071171271,0,43.290001,16
+Dominican Republic,1986,Joaquín Antonio Balaguer Ricardo  ,0,8,10,.0077702585,.00028900549,44.931999,16
+Dominican Republic,1987,Joaquín Antonio Balaguer Ricardo  ,0,9,10,.014783332,.0015852215,46.574001,16
+Dominican Republic,1988,Joaquín Antonio Balaguer Ricardo  ,0,10,10,.015061133,.001209591,48.216,16
+Dominican Republic,1989,Joaquín Antonio Balaguer Ricardo  ,0,11,10,.01520077,0,49.858002,16
+Dominican Republic,1990,Joaquín Antonio Balaguer Ricardo  ,0,12,9,.0023379426,0,51.5,16
+Dominican Republic,1991,Joaquín Antonio Balaguer Ricardo  ,0,13,9,-.00063973904,0,51.516666,16
+Dominican Republic,1992,Joaquín Antonio Balaguer Ricardo  ,0,14,9,.0082976837,.00056992006,51.533333,16
+Dominican Republic,1993,Joaquín Antonio Balaguer Ricardo  ,0,15,8,.011167921,.00079846208,51.549999,16
+Dominican Republic,1994,Joaquín Antonio Balaguer Ricardo  ,0,16,7,.01254093,.00066084875,51.566666,16
+Dominican Republic,1995,Joaquín Antonio Balaguer Ricardo  ,0,17,7,.02037989,.0010858719,51.583332,16
+Dominican Republic,1996,Leonel Antonio Fernández Reyna    ,0,18,8,.02434033,.00045631954,51.599998,16
+Dominican Republic,1997,Leonel Antonio Fernández Reyna    ,0,19,8,.02273231,.00049237284,49,16
+Dominican Republic,1998,Leonel Antonio Fernández Reyna    ,0,20,9,.027959758,0,50.200001,16
+Dominican Republic,1999,Leonel Antonio Fernández Reyna    ,0,21,9,.030703729,0,47.5,16
+Dominican Republic,2000,Rafael Hipólito Mejía Domínguez,0,22,10,.042054839,0,48.375999,16
+Dominican Republic,2001,Rafael Hipólito Mejía Domínguez,0,23,10,.043344658,.047709938,49.251999,16
+Dominican Republic,2002,Rafael Hipólito Mejía Domínguez,0,24,10,.039164469,,50.128002,16
+Dominican Republic,2003,Rafael Hipólito Mejía Domínguez,0,25,9,.032240201,,51.004002,16
+Dominican Republic,2004,Leonel Antonio Fernández Reyna    ,0,26,10,.03164937,,51.880001,16
+Dominican Republic,2005,Leonel Antonio Fernández Reyna    ,0,27,10,.035719901,,51.639999,16
+Dominican Republic,2006,Leonel Antonio Fernández Reyna    ,0,28,10,.039525852,,,
+Dominican Republic,2007,Leonel Antonio Fernández Reyna    ,0,29,10,.040271685,,,
+Dominican Republic,2008,Leonel Antonio Fernández Reyna    ,0,30,10,.038800672,,,
+Dominican Republic,2009,Leonel Antonio Fernández Reyna    ,0,31,10,.035845216,,,
+Dominican Republic,2010,Leonel Antonio Fernández Reyna    ,0,32,10,.035404686,,,
+Ecuador,1900,José Eloy Alfaro Delgado         ,,,,.034590799,,,
+Ecuador,1901,Leonidas Plaza Gutiérrez         ,,,,.036181737,,,
+Ecuador,1902,Leonidas Plaza Gutiérrez         ,,,,.035649851,,,
+Ecuador,1903,Leonidas Plaza Gutiérrez         ,,,,.03387665,,,
+Ecuador,1904,Leonidas Plaza Gutiérrez         ,,,,.033965133,,,
+Ecuador,1905,Lizardo García Sorroza           ,,,,.034590799,,,
+Ecuador,1906,José Eloy Alfaro Delgado         ,,,,.035154168,,,
+Ecuador,1907,José Eloy Alfaro Delgado         ,,,,.035474956,,,
+Ecuador,1908,José Eloy Alfaro Delgado         ,,,,.035761185,,,
+Ecuador,1909,José Eloy Alfaro Delgado         ,,,,.036795195,,,
+Ecuador,1910,José Eloy Alfaro Delgado         ,,,,.038211249,,,
+Ecuador,1911,Carlos Freile Zaldumbide         ,,,,.039026611,,,
+Ecuador,1912,Leonidas Plaza Gutiérrez         ,,,,.039621815,,,
+Ecuador,1913,Leonidas Plaza Gutiérrez         ,,,,.041035481,,,
+Ecuador,1914,Leonidas Plaza Gutiérrez         ,,,,.041232023,,,
+Ecuador,1915,Leonidas Plaza Gutiérrez         ,,,,.040906589,,,
+Ecuador,1916,Alfredo Baquerizo Moreno         ,,,,.039827805,,,
+Ecuador,1917,Alfredo Baquerizo Moreno         ,,,,.038328253,,,
+Ecuador,1918,Alfredo Baquerizo Moreno         ,,,,.037463844,,,
+Ecuador,1919,Alfredo Baquerizo Moreno         ,,,,.036382373,,,
+Ecuador,1920,José Luis Tamayo Terán           ,,,,.034307729,,,
+Ecuador,1921,José Luis Tamayo Terán           ,,,,.030478638,,,
+Ecuador,1922,José Luis Tamayo Terán           ,,,,.028049018,,,
+Ecuador,1923,José Luis Tamayo Terán           ,,,,.025553839,,,
+Ecuador,1924,Gonzalo Segundo Córdova y Rivera ,,,,.022919435,,,
+Ecuador,1925,Luis Napoleón Dillon Cabezas (Junta),,,,.017883955,,,
+Ecuador,1926,Isidro Ayora Cueva                ,,,,.015719883,,,
+Ecuador,1927,Isidro Ayora Cueva                ,,,,.010717662,,,
+Ecuador,1928,Isidro Ayora Cueva                ,,,,.0097786188,,,
+Ecuador,1929,Isidro Ayora Cueva                ,,,,.0074454788,,,
+Ecuador,1930,Isidro Ayora Cueva                ,,,,.0036279322,,,
+Ecuador,1931,Alfredo Baquerizo Moreno          ,,,,-.00041647229,,,
+Ecuador,1932,Juan de Dios Martínez Mera        ,,,,-.0047569023,,,
+Ecuador,1933,Abelardo Montalvo,,,,-.0070901196,,,
+Ecuador,1934,José María Velasco Ibarra         ,,,,.0052822614,,,
+Ecuador,1935,Federico Páez Chiriboga,1,,,.0065846001,,,
+Ecuador,1936,Federico Páez Chiriboga,,,,-.00066826667,,,
+Ecuador,1937,Gil Alberto Enríquez Gallo        ,,,,-.00088317087,,,
+Ecuador,1938,Aurelio Mosquera Narváez          ,,,,.0016643273,,,
+Ecuador,1939,Andrés Fernández de Córdova Nieto ,,,,.0042445436,,,
+Ecuador,1940,Carlos Alberto Arroyo del Río     ,,,,.0059600133,,,
+Ecuador,1941,Carlos Alberto Arroyo del Río     ,,,,.0076510729,,,
+Ecuador,1942,Carlos Alberto Arroyo del Río     ,,,,.010714496,,,
+Ecuador,1943,Carlos Alberto Arroyo del Río     ,,,,.012998031,,,
+Ecuador,1944,José María Velasco Ibarra         ,,,,.00922204,,,
+Ecuador,1945,José María Velasco Ibarra         ,0,1,,.0051755952,,,8
+Ecuador,1946,José María Velasco Ibarra         ,1,2,,.019578084,,,13
+Ecuador,1947,Carlos Julio Arosemena Tola       ,,3,,.040993072,,,13
+Ecuador,1948,Galo Plaza Lasso                  ,,4,,.047045369,,,13
+Ecuador,1949,Galo Plaza Lasso                  ,0,1,,.017073017,,,13
+Ecuador,1950,Galo Plaza Lasso                  ,0,2,,.031687975,,,13
+Ecuador,1951,Galo Plaza Lasso                  ,0,3,,.021250919,,,13
+Ecuador,1952,José María Velasco Ibarra         ,0,4,,.021082962,,,13
+Ecuador,1953,José María Velasco Ibarra         ,0,5,,.017799959,,,13
+Ecuador,1954,José María Velasco Ibarra         ,0,6,,.017557358,,,13
+Ecuador,1955,José María Velasco Ibarra         ,0,7,,.015557693,,,13
+Ecuador,1956,Camilo Ponce Enríquez             ,0,8,,.014728602,,,13
+Ecuador,1957,Camilo Ponce Enríquez             ,0,9,,.01394303,,,13
+Ecuador,1958,Camilo Ponce Enríquez             ,0,10,,.0063240314,,,13
+Ecuador,1959,Camilo Ponce Enríquez             ,0,11,,.012061167,,,13
+Ecuador,1960,José María Velasco Ibarra         ,0,12,,.0079015745,,,13
+Ecuador,1961,Carlos Julio Arosemena Monroy     ,0,13,,.0075443075,,,13
+Ecuador,1962,Carlos Julio Arosemena Monroy     ,0,14,,.0070350044,.00043813969,,13
+Ecuador,1963,Ramón Castro Jijón                ,1,15,,.0077397777,.00052855845,,13
+Ecuador,1964,Ramón Castro Jijón                ,,1,,.027464582,.00099875429,,13
+Ecuador,1965,Ramón Castro Jijón                ,,2,,.018776877,.0026275446,,13
+Ecuador,1966,Otto Arosemena Gómez,,3,,.0065114717,,67.830002,13
+Ecuador,1967,Otto Arosemena Gómez,,1,,.0040878113,,66.764,13
+Ecuador,1968,José María Velasco Ibarra         ,,2,,.00045597009,.0011622855,65.697998,13
+Ecuador,1969,José María Velasco Ibarra         ,0,1,,.0083833616,.0010153765,64.632004,13
+Ecuador,1970,José María Velasco Ibarra         ,1,2,,.020496301,.0010892444,63.566002,13
+Ecuador,1971,José María Velasco Ibarra         ,,3,,.023799358,.0017959202,62.5,13
+Ecuador,1972,Guillermo A. Rodríguez Lara       ,,4,4,.022191642,.031812672,62.150002,13
+Ecuador,1973,Guillermo A. Rodríguez Lara       ,,1,3,.071989328,.11629408,61.799999,13
+Ecuador,1974,Guillermo A. Rodríguez Lara       ,,2,3,.065515123,.20539182,61.450001,13
+Ecuador,1975,Guillermo A. Rodríguez Lara       ,,3,3,.062236186,.12734509,61.099998,13
+Ecuador,1976,Alfredo Ernesto Poveda Burbano    ,,4,4,.058954276,.13340829,60.75,13
+Ecuador,1977,Alfredo Ernesto Poveda Burbano    ,,5,4,.048172433,.11518915,60.400002,13
+Ecuador,1978,Alfredo Ernesto Poveda Burbano    ,,6,5,.046735723,.095728695,60.049999,17
+Ecuador,1979,Jaime Roldós Aguilera             ,,7,10,.04375352,.12712474,59.700001,17
+Ecuador,1980,Jaime Roldós Aguilera             ,0,1,10,.01930997,.13892373,59.349998,17
+Ecuador,1981,Osvaldo Hurtado Larrea            ,0,2,10,.014735786,.11640303,59,17
+Ecuador,1982,Osvaldo Hurtado Larrea            ,0,3,10,.0029726035,.11605912,58.650002,17
+Ecuador,1983,Osvaldo Hurtado Larrea            ,0,4,10,-.007828855,.15041246,58.299999,17
+Ecuador,1984,León Esteban Febres Cordero Ribadeneyra       ,0,5,10,-.0046270522,.16611342,57.950001,18
+Ecuador,1985,León Esteban Febres Cordero Ribadeneyra       ,0,6,9,-.0035569028,.17963338,57.600002,18
+Ecuador,1986,León Esteban Febres Cordero Ribadeneyra       ,0,7,9,-.0012862533,.090550646,57.25,18
+Ecuador,1987,León Esteban Febres Cordero Ribadeneyra       ,0,8,9,-.0061968039,.07895647,56.900002,18
+Ecuador,1988,Rodrigo Borja Cevallos            ,0,9,10,.0001864685,.10077641,56.549999,18
+Ecuador,1989,Rodrigo Borja Cevallos            ,0,10,10,-.0034901281,.12719858,56.200001,18
+Ecuador,1990,Rodrigo Borja Cevallos            ,0,11,10,-.0047321999,.15377179,57.100002,18
+Ecuador,1991,Rodrigo Borja Cevallos            ,0,12,9,-.0024456973,.1135617,58,18
+Ecuador,1992,Sixto Alfonso Durán-Ballén Cordovez         ,0,13,9,.00009640013,.12069822,58.900002,18
+Ecuador,1993,Sixto Alfonso Durán-Ballén Cordovez         ,0,14,9,.0034042289,.098225258,59.799999,18
+Ecuador,1994,Sixto Alfonso Durán-Ballén Cordovez         ,0,15,9,.0049016322,.088081054,60.700001,18
+Ecuador,1995,Sixto Alfonso Durán-Ballén Cordovez         ,0,16,9,.0044895015,.08577279,61.599998,18
+Ecuador,1996,Abdalá Jaime Bucaram Ortiz ,0,17,8,.0036704023,.094933659,62.5,18
+Ecuador,1997,Fabián Ernesto Alarcón Rivera     ,0,18,8,.010607282,.072222576,55.599998,18
+Ecuador,1998,Jorge Jamil Mahuad Witt           ,0,19,9,.0054294411,.041741583,55.700001,22
+Ecuador,1999,Jorge Jamil Mahuad Witt           ,0,20,9,-.00080291025,.080653161,55.799999,22
+Ecuador,2000,Gustavo Noboa Bejarano   ,0,21,8,.00028887522,.14853722,55.900002,22
+Ecuador,2001,Gustavo Noboa Bejarano   ,0,22,8,.0014327911,.10908888,56,22
+Ecuador,2002,Gustavo Noboa Bejarano   ,0,23,8,.0050958581,.10275213,,22
+Ecuador,2003,Lucio Edwin Gutiérrez Borbúa      ,0,24,8,.0092547117,.10637125,,22
+Ecuador,2004,Lucio Edwin Gutiérrez Borbúa      ,0,25,8,.013400462,.13968123,,22
+Ecuador,2005,Luis Alfredo Palacio González,0,26,8,.01836767,.17143364,,22
+Ecuador,2006,Luis Alfredo Palacio González,0,27,8,.022455223,,,
+Ecuador,2007,Rafael Vicente Correa Delgado,0,28,8,.02104279,,,
+Ecuador,2008,Rafael Vicente Correa Delgado,0,29,8,.026588185,,,
+Ecuador,2009,Rafael Vicente Correa Delgado,0,30,8,.033513095,,,
+Ecuador,2010,Rafael Vicente Correa Delgado,0,31,8,.035654664,,,
+Guatemala,1900,Manuel José Estrada Cabrera       ,,,,.072230957,,,
+Guatemala,1901,Manuel José Estrada Cabrera       ,,,,.068504609,,,
+Guatemala,1902,Manuel José Estrada Cabrera       ,,,,.056944348,,,
+Guatemala,1903,Manuel José Estrada Cabrera       ,,,,.060472701,,,
+Guatemala,1904,Manuel José Estrada Cabrera       ,,,,.070081331,,,
+Guatemala,1905,Manuel José Estrada Cabrera       ,,,,.070988841,,,
+Guatemala,1906,Manuel José Estrada Cabrera       ,,,,.065842934,,,
+Guatemala,1907,Manuel José Estrada Cabrera       ,,,,.062365692,,,
+Guatemala,1908,Manuel José Estrada Cabrera       ,,,,.058818005,,,
+Guatemala,1909,Manuel José Estrada Cabrera       ,,,,.057154737,,,
+Guatemala,1910,Manuel José Estrada Cabrera       ,,,,.060603604,,,
+Guatemala,1911,Manuel José Estrada Cabrera       ,,,,.062845021,,,
+Guatemala,1912,Manuel José Estrada Cabrera       ,,,,.065847963,,,
+Guatemala,1913,Manuel José Estrada Cabrera       ,,,,.064328291,,,
+Guatemala,1914,Manuel José Estrada Cabrera       ,,,,.054074351,,,
+Guatemala,1915,Manuel José Estrada Cabrera       ,,,,.051970057,,,
+Guatemala,1916,Manuel José Estrada Cabrera       ,,,,.057227116,,,
+Guatemala,1917,Manuel José Estrada Cabrera       ,,,,.055888571,,,
+Guatemala,1918,Manuel José Estrada Cabrera       ,,,,.06083405,,,
+Guatemala,1919,Manuel José Estrada Cabrera       ,,,,.072482891,,,
+Guatemala,1920,Carlos Herrera y Luna             ,,,,.071111113,,,
+Guatemala,1921,José María Orellana Pinto         ,,,,.068941936,,,
+Guatemala,1922,José María Orellana Pinto         ,,,,.064328663,,,
+Guatemala,1923,José María Orellana Pinto         ,,,,.060139287,,,
+Guatemala,1924,José María Orellana Pinto         ,,,,.062293164,,,
+Guatemala,1925,José María Orellana Pinto         ,,,,.056803644,,,
+Guatemala,1926,Lázaro Chacón González            ,,,,-.0038001179,,,
+Guatemala,1927,Lázaro Chacón González            ,0,,,.0020384497,,,
+Guatemala,1928,Lázaro Chacón González            ,0,,,-.00058675179,,,
+Guatemala,1929,Lázaro Chacón González            ,0,,,.0082644289,,,
+Guatemala,1930,Manuel Orellana (Junta),0,,,.0078924084,,,
+Guatemala,1931,Jorge Ubico y Castañeda ,1,,,-.073509499,,,
+Guatemala,1932,Jorge Ubico y Castañeda ,,,,-.079492971,,,
+Guatemala,1933,Jorge Ubico y Castañeda ,,,,-.058398083,,,
+Guatemala,1934,Jorge Ubico y Castañeda ,,,,-.024588063,,,
+Guatemala,1935,Jorge Ubico y Castañeda ,,,,.0067300512,,,
+Guatemala,1936,Jorge Ubico y Castañeda ,,,,.0297917,,,
+Guatemala,1937,Jorge Ubico y Castañeda ,,,,.019423105,,,
+Guatemala,1938,Jorge Ubico y Castañeda ,,,,.017996812,,,
+Guatemala,1939,Jorge Ubico y Castañeda ,,,,.024474852,,,
+Guatemala,1940,Jorge Ubico y Castañeda ,,,,.030391233,,,
+Guatemala,1941,Jorge Ubico y Castañeda ,,,,.040745314,,,
+Guatemala,1942,Jorge Ubico y Castañeda ,,,,.048379559,,,
+Guatemala,1943,Jorge Ubico y Castañeda ,,,,.036507465,,,
+Guatemala,1944,Francisco Javier Arana Castro  (Junta),,,,.023702301,,,
+Guatemala,1945,Juan José Arévalo Bermejo,,14,,.0048297783,,,16
+Guatemala,1946,Juan José Arévalo Bermejo,0,15,,.0028985851,,,16
+Guatemala,1947,Juan José Arévalo Bermejo,0,16,,.013070988,,,16
+Guatemala,1948,Juan José Arévalo Bermejo,0,17,,.01174749,,,16
+Guatemala,1949,Juan José Arévalo Bermejo,0,18,,.00084511016,,,16
+Guatemala,1950,Juan José Arévalo Bermejo,0,19,,-.0098759262,,,16
+Guatemala,1951,Jacobo Arbenz Guzmán              ,0,20,,-.013849366,,,16
+Guatemala,1952,Jacobo Arbenz Guzmán              ,0,21,,-.013101804,,,16
+Guatemala,1953,Jacobo Arbenz Guzmán              ,0,22,,-8.7327908e-06,,,16
+Guatemala,1954,Carlos Castillo Armas             ,1,23,,.0042128102,,,16
+Guatemala,1955,Carlos Castillo Armas             ,,1,,-.0016894193,,,16
+Guatemala,1956,Carlos Castillo Armas             ,,2,,.0050644879,,,16
+Guatemala,1957,Guillermo Flores Avendaño,,3,,.0098984046,,,16
+Guatemala,1958,José Miguel Ramón Ydígoras Fuentes,,4,,.012365096,,,16
+Guatemala,1959,José Miguel Ramón Ydígoras Fuentes,,5,,.012833063,,,16
+Guatemala,1960,José Miguel Ramón Ydígoras Fuentes,,6,,.011047779,,,16
+Guatemala,1961,José Miguel Ramón Ydígoras Fuentes,,7,,.011581929,,,16
+Guatemala,1962,José Miguel Ramón Ydígoras Fuentes,,8,,.011168076,,,16
+Guatemala,1963,Alfredo Enrique Peralta Azurdia   ,,9,,.016679119,,,16
+Guatemala,1964,Alfredo Enrique Peralta Azurdia   ,,10,,.019429104,,,16
+Guatemala,1965,Alfredo Enrique Peralta Azurdia   ,,11,,.020456221,,,16
+Guatemala,1966,Julio César Méndez Montenegro     ,,12,,.021314556,,,16
+Guatemala,1967,Julio César Méndez Montenegro     ,,13,,.020233357,,29.959999,16
+Guatemala,1968,Julio César Méndez Montenegro     ,,14,,.02389616,,31.48,16
+Guatemala,1969,Julio César Méndez Montenegro     ,,15,,.024326844,,33,16
+Guatemala,1970,Carlos Manuel Arana Osorio        ,,16,,.027165955,,34.52,16
+Guatemala,1971,Carlos Manuel Arana Osorio        ,,17,,.028360261,,36.040001,16
+Guatemala,1972,Carlos Manuel Arana Osorio        ,,18,9,.031989105,.00046473919,37.560001,16
+Guatemala,1973,Carlos Manuel Arana Osorio        ,,19,10,.029258331,.00046999849,39.080002,16
+Guatemala,1974,Kjell Eugenio Laugerud García     ,,20,7,.030964006,.0014767295,40.599998,16
+Guatemala,1975,Kjell Eugenio Laugerud García     ,,21,7,.028699001,.0013210529,42.119999,16
+Guatemala,1976,Kjell Eugenio Laugerud García     ,,22,7,.030692324,.0012185028,43.639999,16
+Guatemala,1977,Kjell Eugenio Laugerud García     ,,23,7,.0345264,.0010832614,45.16,16
+Guatemala,1978,Fernando Romeo Lucas García       ,,24,7,.031128721,.001734754,46.68,16
+Guatemala,1979,Fernando Romeo Lucas García       ,,25,5,.031392179,.003637464,48.200001,16
+Guatemala,1980,Fernando Romeo Lucas García       ,,26,2,.029774958,.010986429,49.720001,16
+Guatemala,1981,Fernando Romeo Lucas García       ,,27,2,.025233835,.0032764091,50.787502,16
+Guatemala,1982,José Efraín Ríos Montt            ,,28,2,.014911243,.0045713144,51.855,16
+Guatemala,1983,Óscar Humberto Mejía Victores     ,,29,2,.006042806,.0088318,52.922501,16
+Guatemala,1984,Óscar Humberto Mejía Victores     ,,30,3,.00053941098,.0035217465,53.990002,16
+Guatemala,1985,Óscar Humberto Mejía Victores     ,,31,6,-.0017626578,.0022096306,55.057499,13
+Guatemala,1986,Marco Vinicio Cerezo Arévalo      ,,32,8,-.0086640986,.0033883224,56.125,13
+Guatemala,1987,Marco Vinicio Cerezo Arévalo      ,0,1,8,-.0051113185,.0025091863,57.192497,13
+Guatemala,1988,Marco Vinicio Cerezo Arévalo      ,0,2,8,.001712262,.0017678875,58.259998,13
+Guatemala,1989,Marco Vinicio Cerezo Arévalo      ,0,3,8,.0052567674,.0024829502,58.66,13
+Guatemala,1990,Marco Vinicio Cerezo Arévalo      ,0,4,7,.0057213237,.003414992,59.060001,13
+Guatemala,1991,Jorge Antonio Serrano Elías       ,0,5,6,.0069083362,.0031206086,58.49778,13
+Guatemala,1992,Jorge Antonio Serrano Elías       ,0,6,5,.0093854964,.0030456553,57.935558,13
+Guatemala,1993,Ramiro de León Carpio             ,0,7,5,.010126703,.0029622498,57.373333,13
+Guatemala,1994,Ramiro de León Carpio             ,0,8,5,.010829942,.002784048,56.811111,13
+Guatemala,1995,Ramiro de León Carpio             ,0,9,5,.012303011,.0038909786,56.24889,13
+Guatemala,1996,Álvaro Enrique Arzú Irigoyen      ,0,10,7,.015125818,.0050376821,55.686668,13
+Guatemala,1997,Álvaro Enrique Arzú Irigoyen      ,0,11,7,.01597072,.0067254957,55.124447,13
+Guatemala,1998,Álvaro Enrique Arzú Irigoyen      ,0,12,7,.01705526,.0041940962,54.562222,13
+Guatemala,1999,Álvaro Enrique Arzú Irigoyen      ,0,13,7,.016931046,.005388537,54,13
+Guatemala,2000,Alfonso Antonio Portillo Cabrera  ,0,14,7,.017354999,.010966124,56.900002,13
+Guatemala,2001,Alfonso Antonio Portillo Cabrera  ,0,15,7,.015953515,.0078954967,59.799999,13
+Guatemala,2002,Alfonso Antonio Portillo Cabrera  ,0,16,6,.014865949,.018207757,57.150002,13
+Guatemala,2003,Alfonso Antonio Portillo Cabrera  ,0,17,6,.013341466,.016310185,54.5,13
+Guatemala,2004,Óscar José Rafael Berger Perdomo  ,0,18,6,.012301929,.016425239,52.400002,13
+Guatemala,2005,Óscar José Rafael Berger Perdomo  ,0,19,6,.010464655,.010968563,49.400002,13
+Guatemala,2006,Óscar José Rafael Berger Perdomo  ,0,20,7,.012635306,,,
+Guatemala,2007,Óscar José Rafael Berger Perdomo  ,0,21,7,.01430098,,,
+Guatemala,2008,Álvaro Colom Caballeros,0,22,7,.013182622,,,
+Guatemala,2009,Álvaro Colom Caballeros,0,23,6,.009667621,,,
+Guatemala,2010,Álvaro Colom Caballeros,0,24,6,.009428571,,,
+Honduras,1900,Terencio Esteban Sierra Romero,,,,.0760777,,,
+Honduras,1901,Terencio Esteban Sierra Romero,,,,.07487531,,,
+Honduras,1902,Terencio Esteban Sierra Romero,,,,.051169686,,,
+Honduras,1903,Manuel Bonilla Chirinos,,,,.065318018,,,
+Honduras,1904,Manuel Bonilla Chirinos,,,,.077441551,,,
+Honduras,1905,Manuel Bonilla Chirinos,,,,.075676903,,,
+Honduras,1906,Manuel Bonilla Chirinos,,,,.074016467,,,
+Honduras,1907,Miguel Rafael Dávila Cuéllar,,,,.075429909,,,
+Honduras,1908,Miguel Rafael Dávila Cuéllar,,,,.074073546,,,
+Honduras,1909,Miguel Rafael Dávila Cuéllar,,,,.070631072,,,
+Honduras,1910,Miguel Rafael Dávila Cuéllar,,,,.071190424,,,
+Honduras,1911,Francisco Bertrand Barahona,,,,.073445164,,,
+Honduras,1912,Manuel Bonilla Chirinos,,,,.080815628,,,
+Honduras,1913,Francisco Bertrand Barahona,,,,.082509883,,,
+Honduras,1914,Francisco Bertrand Barahona,,,,.080964208,,,
+Honduras,1915,Alberto de Jesús Membreño Márquez,,,,.07631842,,,
+Honduras,1916,Francisco Bertrand Barahona,,,,.072989188,,,
+Honduras,1917,Francisco Bertrand Barahona,,,,.069473535,,,
+Honduras,1918,Francisco Bertrand Barahona,,,,.069978684,,,
+Honduras,1919,Francisco Bográn Baraona,,,,.07961487,,,
+Honduras,1920,Rafael López Gutiérrez,,,,.085556626,,,
+Honduras,1921,Rafael López Gutiérrez,,,,.074246675,,,
+Honduras,1922,Rafael López Gutiérrez,,,,.066020213,,,
+Honduras,1923,Rafael López Gutiérrez,,,,.050681833,,,
+Honduras,1924,Vicente Tosta Carrasco,,,,.040706642,,,
+Honduras,1925,Miguel Paz Barahona,,,,.040364511,,,
+Honduras,1926,Miguel Paz Barahona,,,,.034839466,,,
+Honduras,1927,Miguel Paz Barahona,,,,.03518476,,,
+Honduras,1928,Miguel Paz Barahona,,,,.033480201,,,
+Honduras,1929,Vicente Mejía Colindres,,,,-.031664755,,,
+Honduras,1930,Vicente Mejía Colindres,0,,,-.013896951,,,
+Honduras,1931,Vicente Mejía Colindres,0,,,-.0091771893,,,
+Honduras,1932,Vicente Mejía Colindres,0,,,-.023724755,,,
+Honduras,1933,Tiburcio Carías Andino,0,,,-.034969583,,,
+Honduras,1934,Tiburcio Carías Andino,0,,,-.035956468,,,
+Honduras,1935,Tiburcio Carías Andino,1,,,-.035106916,,,
+Honduras,1936,Tiburcio Carías Andino,,,,-.018429805,,,
+Honduras,1937,Tiburcio Carías Andino,,,,-.014926964,,,
+Honduras,1938,Tiburcio Carías Andino,,,,-.012334456,,,
+Honduras,1939,Tiburcio Carías Andino,,,,-.0081994897,,,
+Honduras,1940,Tiburcio Carías Andino,,,,-.0051895236,,,
+Honduras,1941,Tiburcio Carías Andino,,,,-.0072768452,,,
+Honduras,1942,Tiburcio Carías Andino,,,,-.012001305,,,
+Honduras,1943,Tiburcio Carías Andino,,,,-.011503051,,,
+Honduras,1944,Tiburcio Carías Andino,,,,-.0043526869,,,
+Honduras,1945,Tiburcio Carías Andino,,12,,.0076163583,,,16
+Honduras,1946,Tiburcio Carías Andino,,13,,.012878774,,,16
+Honduras,1947,Tiburcio Carías Andino,,14,,.016665915,,,16
+Honduras,1948,Tiburcio Carías Andino,,15,,.017006166,,,16
+Honduras,1949,Juan Manuel Gálvez Durón,,16,,.015702045,,,16
+Honduras,1950,Juan Manuel Gálvez Durón,,17,,.014775772,,,16
+Honduras,1951,Juan Manuel Gálvez Durón,,18,,.016792636,,,16
+Honduras,1952,Juan Manuel Gálvez Durón,,19,,.022801168,,,16
+Honduras,1953,Juan Manuel Gálvez Durón,,20,,.021345174,,,16
+Honduras,1954,Julio Lozano Díaz,,21,,.013590402,,,16
+Honduras,1955,Julio Lozano Díaz,,22,,.0048549986,,,16
+Honduras,1956,Military Council of Government (Caraccioli Moncada),,23,,.0026788709,,,16
+Honduras,1957,José Ramón Adolfo Villeda Morales,,24,,.00070025068,,,16
+Honduras,1958,José Ramón Adolfo Villeda Morales,0,1,,.0098158978,,,16
+Honduras,1959,José Ramón Adolfo Villeda Morales,0,2,,.0079851151,,,16
+Honduras,1960,José Ramón Adolfo Villeda Morales,0,3,,.0060301688,,,16
+Honduras,1961,José Ramón Adolfo Villeda Morales,0,4,,.0019723859,,,16
+Honduras,1962,José Ramón Adolfo Villeda Morales,0,5,,.0054789768,,,16
+Honduras,1963,Oswaldo Enrique López Arellano,1,6,,.0050011119,.016062906,,16
+Honduras,1964,Oswaldo Enrique López Arellano,,1,,.011629507,,,16
+Honduras,1965,Oswaldo Enrique López Arellano,,2,,.027096935,,,16
+Honduras,1966,Oswaldo Enrique López Arellano,,3,,.026413079,,,16
+Honduras,1967,Oswaldo Enrique López Arellano,,4,,.027466903,.013785088,,16
+Honduras,1968,Oswaldo Enrique López Arellano,,5,,.029308362,.022443091,,16
+Honduras,1969,Oswaldo Enrique López Arellano,,6,,.022343876,.021689992,61.880001,16
+Honduras,1970,Oswaldo Enrique López Arellano,,7,,.020658633,.023936452,61.494446,16
+Honduras,1971,Ramón Ernesto Cruz Uclés,,8,,.019667741,.017796513,61.108891,16
+Honduras,1972,Oswaldo Enrique López Arellano,1,9,4,.020536223,.019179419,60.723335,16
+Honduras,1973,Oswaldo Enrique López Arellano,,1,5,.038261149,.028873056,60.337776,16
+Honduras,1974,Oswaldo Enrique López Arellano,,2,5,.011877523,.043453477,59.952225,16
+Honduras,1975,Juan Alberto Melgar Castro,,3,5,.006670923,.037622314,59.566666,16
+Honduras,1976,Juan Alberto Melgar Castro,,4,5,.019644208,.025946245,59.18111,16
+Honduras,1977,Juan Alberto Melgar Castro,,5,5,.028000796,.021460652,58.795555,16
+Honduras,1978,Policarpo Juan Paz García,,6,5,.033397883,.0168419,58.41,16
+Honduras,1979,Policarpo Juan Paz García,,7,5,.030976899,.020712251,58.024445,16
+Honduras,1980,Policarpo Juan Paz García,,8,7,.024815967,.023017237,57.638889,16
+Honduras,1981,Policarpo Juan Paz García,,9,7,.021725357,.015446062,57.253334,16
+Honduras,1982,Roberto Suazo Córdova,,10,8,.01450533,.0099047413,56.867779,16
+Honduras,1983,Roberto Suazo Córdova,0,1,8,-.041458204,.017392639,56.48222,16
+Honduras,1984,Roberto Suazo Córdova,0,2,9,-.023558125,.014982086,56.096664,16
+Honduras,1985,Roberto Suazo Córdova,0,3,9,-.014946451,.01257019,55.711109,16
+Honduras,1986,José Simón Azcona del Hoyo,0,4,9,-.01645994,.0034719554,55.325554,16
+Honduras,1987,José Simón Azcona del Hoyo,0,5,9,-.0088271303,.0018677762,54.939999,16
+Honduras,1988,José Simón Azcona del Hoyo,0,6,9,-.0052897208,.0093016205,54.626667,16
+Honduras,1989,José Simón Azcona del Hoyo,0,7,9,-.0029221964,.015303892,54.313332,16
+Honduras,1990,Rafael Leonardo Callejas Romero,0,8,9,-.0055881338,.012261269,54,16
+Honduras,1991,Rafael Leonardo Callejas Romero,0,9,9,-.0046019433,.0057793073,54,16
+Honduras,1992,Rafael Leonardo Callejas Romero,0,10,9,.0025749952,.0081468197,50,16
+Honduras,1993,Rafael Leonardo Callejas Romero,0,11,8,.0099412734,.0026083738,52.630001,16
+Honduras,1994,Carlos Roberto Reina Idiáquez,0,12,8,.0049339174,.0026581269,54,16
+Honduras,1995,Carlos Roberto Reina Idiáquez,0,13,8,.0054049189,.0016658125,54.950001,16
+Honduras,1996,Carlos Roberto Reina Idiáquez,0,14,8,.0088723106,.012540349,55.900002,16
+Honduras,1997,Carlos Roberto Reina Idiáquez,0,15,9,.0086213201,.027647668,57.100002,16
+Honduras,1998,Carlos Roberto Flores Facussé,0,16,9,.0077408291,.016615594,58.299999,16
+Honduras,1999,Carlos Roberto Flores Facussé,0,17,8,.0024456799,.01662047,59.5,16
+Honduras,2000,Carlos Roberto Flores Facussé,0,18,8,.0087142885,.020056076,53.200001,16
+Honduras,2001,Carlos Roberto Flores Facussé,0,19,8,.0089234738,.01069156,53.450001,16
+Honduras,2002,Ricardo Rodolfo Maduro Joest,0,20,8,.0078007868,.0094063161,53.700001,16
+Honduras,2003,Ricardo Rodolfo Maduro Joest,0,21,8,.0068027815,.012033734,53.950001,16
+Honduras,2004,Ricardo Rodolfo Maduro Joest,0,22,8,.014707075,.010100353,54.200001,16
+Honduras,2005,Ricardo Rodolfo Maduro Joest,0,23,8,.017093724,.012121148,54.5,16
+Honduras,2006,José Manuel Zelaya Rosales,0,24,8,.02041309,,,
+Honduras,2007,José Manuel Zelaya Rosales,0,25,8,.021970704,,,
+Honduras,2008,José Manuel Zelaya Rosales,0,26,8,.023202103,,,
+Honduras,2009,Roberto Micheletti Bain,1,27,6,.023199912,,,
+Honduras,2010,Porfirio Lobo Sosa,,28,6,.021803185,,,
+Haiti,1900,Tirésias Antoine Auguste Simon-Sam,,,,.10425216,,,
+Haiti,1901,Tirésias Antoine Auguste Simon-Sam,,,,.10607189,,,
+Haiti,1902,Pierre Nord Alexis  ,,,,.10743506,,,
+Haiti,1903,Pierre Nord Alexis  ,,,,.10328345,,,
+Haiti,1904,Pierre Nord Alexis  ,,,,.10390996,,,
+Haiti,1905,Pierre Nord Alexis  ,,,,.10584361,,,
+Haiti,1906,Pierre Nord Alexis  ,,,,.10769596,,,
+Haiti,1907,Pierre Nord Alexis  ,,,,.10913903,,,
+Haiti,1908,"François C. Antoine ""A.T."" Simon",,,,.10710453,,,
+Haiti,1909,"François C. Antoine ""A.T."" Simon",,,,.10859443,,,
+Haiti,1910,"François C. Antoine ""A.T."" Simon",,,,.11153957,,,
+Haiti,1911,Jean-Jacques Dessalines Michel Cincinnatus Leconte,,,,.11362085,,,
+Haiti,1912,Jean Antoine Tancrède Auguste,,,,.11470097,,,
+Haiti,1913,Michel Oreste Lafontant,,,,.11470097,,,
+Haiti,1914,Joseph Davilmar Théodore,,,,.11937718,,,
+Haiti,1915,Philippe Sudre Dartiguenave,,,,.1235364,,,
+Haiti,1916,Philippe Sudre Dartiguenave,,,,.12302612,,,
+Haiti,1917,Philippe Sudre Dartiguenave,,,,.1201015,,,
+Haiti,1918,Philippe Sudre Dartiguenave,,,,.1201015,,,
+Haiti,1919,Philippe Sudre Dartiguenave,,,,.12945393,,,
+Haiti,1920,Philippe Sudre Dartiguenave,,,,.13257916,,,
+Haiti,1921,Philippe Sudre Dartiguenave,,,,.11806036,,,
+Haiti,1922,Louis Eustache Antoine François Joseph Borno,,,,.10547839,,,
+Haiti,1923,Louis Eustache Antoine François Joseph Borno,,,,.093479745,,,
+Haiti,1924,Louis Eustache Antoine François Joseph Borno,,,,.079248644,,,
+Haiti,1925,Louis Eustache Antoine François Joseph Borno,,,,.065198205,,,
+Haiti,1926,Louis Eustache Antoine François Joseph Borno,,,,.051269177,,,
+Haiti,1927,Louis Eustache Antoine François Joseph Borno,,,,.047616605,,,
+Haiti,1928,Louis Eustache Antoine François Joseph Borno,,,,.043699119,,,
+Haiti,1929,Louis Eustache Antoine François Joseph Borno,,,,.019043561,,,
+Haiti,1930,Sténio Joseph Vincent,,,,.0029582134,,,
+Haiti,1931,Sténio Joseph Vincent,,,,.0046705445,,,
+Haiti,1932,Sténio Joseph Vincent,,,,-.0015879989,,,
+Haiti,1933,Sténio Joseph Vincent,,,,-.0067567024,,,
+Haiti,1934,Sténio Joseph Vincent,,,,-.011884624,,,
+Haiti,1935,Sténio Joseph Vincent,,,,-.017042335,,,
+Haiti,1936,Sténio Joseph Vincent,,,,-.014660233,,,
+Haiti,1937,Sténio Joseph Vincent,,,,-.020808233,,,
+Haiti,1938,Sténio Joseph Vincent,,,,-.026414348,,,
+Haiti,1939,Sténio Joseph Vincent,,,,-.022406591,,,
+Haiti,1940,Sténio Joseph Vincent,,,,-.021802062,,,
+Haiti,1941,Élie Lescot ,,,,-.023762593,,,
+Haiti,1942,Élie Lescot ,,,,-.021512732,,,
+Haiti,1943,Élie Lescot ,,,,-.01411858,,,
+Haiti,1944,Élie Lescot ,,,,-.01017668,,,
+Haiti,1945,Élie Lescot ,,4,,.00044878814,,,23
+Haiti,1946,Dumarsais Estimé,,5,,.0022761514,,,19
+Haiti,1947,Dumarsais Estimé,,6,,.0027514254,,,19
+Haiti,1948,Dumarsais Estimé,,7,,.002201423,,,19
+Haiti,1949,Dumarsais Estimé,,8,,.00080770726,,,19
+Haiti,1950,Paul Eugène Magloire,,9,,-.0020912867,,,24
+Haiti,1951,Paul Eugène Magloire,,10,,-.00027291305,,,24
+Haiti,1952,Paul Eugène Magloire,,11,,.0037763377,,,24
+Haiti,1953,Paul Eugène Magloire,,12,,.0061084367,,,24
+Haiti,1954,Paul Eugène Magloire,,13,,.0046833241,,,24
+Haiti,1955,Paul Eugène Magloire,,14,,-.00039487958,,,24
+Haiti,1956,Joseph Nemours Pierre-Louis,,15,,-.0033402967,,,24
+Haiti,1957,"François Duvalier ""Papa Doc""",,16,,-.0012605023,,,23
+Haiti,1958,"François Duvalier ""Papa Doc""",,1,,.0066586379,,,23
+Haiti,1959,"François Duvalier ""Papa Doc""",,2,,.013811782,,,23
+Haiti,1960,"François Duvalier ""Papa Doc""",,3,,.0061652795,,,23
+Haiti,1961,"François Duvalier ""Papa Doc""",,4,,-.0072588567,,,23
+Haiti,1962,"François Duvalier ""Papa Doc""",,5,,.0067435293,,,23
+Haiti,1963,"François Duvalier ""Papa Doc""",,6,,-.00048999139,,,23
+Haiti,1964,"François Duvalier ""Papa Doc""",,7,,-.0052826614,,,22
+Haiti,1965,"François Duvalier ""Papa Doc""",,8,,-.0043583955,,,22
+Haiti,1966,"François Duvalier ""Papa Doc""",,9,,-.0049770032,,,22
+Haiti,1967,"François Duvalier ""Papa Doc""",,10,,-.013297525,,,22
+Haiti,1968,"François Duvalier ""Papa Doc""",,11,,-.011947687,,,22
+Haiti,1969,"François Duvalier ""Papa Doc""",,12,,-.013662078,,,22
+Haiti,1970,"François Duvalier ""Papa Doc""",,13,,-.014007255,,,22
+Haiti,1971,"Jean-Claude Duvalier ""Baby Doc""",,14,,-.0012531376,,,22
+Haiti,1972,"Jean-Claude Duvalier ""Baby Doc""",,15,1,-.0091979606,,,22
+Haiti,1973,"Jean-Claude Duvalier ""Baby Doc""",,16,2,-.005278891,,,22
+Haiti,1974,"Jean-Claude Duvalier ""Baby Doc""",,17,2,.0031174645,,,22
+Haiti,1975,"Jean-Claude Duvalier ""Baby Doc""",,18,2,-.0012513867,,,22
+Haiti,1976,"Jean-Claude Duvalier ""Baby Doc""",,19,2,.0063155964,,,22
+Haiti,1977,"Jean-Claude Duvalier ""Baby Doc""",,20,1,.010502309,,,22
+Haiti,1978,"Jean-Claude Duvalier ""Baby Doc""",,21,1,.013121153,,,22
+Haiti,1979,"Jean-Claude Duvalier ""Baby Doc""",,22,1,.017053267,,,22
+Haiti,1980,"Jean-Claude Duvalier ""Baby Doc""",,23,1,.024299905,,,22
+Haiti,1981,"Jean-Claude Duvalier ""Baby Doc""",,24,1,.012730251,,,22
+Haiti,1982,"Jean-Claude Duvalier ""Baby Doc""",,25,1,.0073726983,,,22
+Haiti,1983,"Jean-Claude Duvalier ""Baby Doc""",,26,1,.0062682405,,,22
+Haiti,1984,"Jean-Claude Duvalier ""Baby Doc""",,27,1,-.00030460834,,,22
+Haiti,1985,"Jean-Claude Duvalier ""Baby Doc""",,28,1,.0015823237,,,22
+Haiti,1986,Henri Namphy,,29,5,-.0074441279,,,22
+Haiti,1987,Henri Namphy,,1,3,-.028229697,,,5
+Haiti,1988,Prosper Avril,,2,2,-.024062054,,,5
+Haiti,1989,Prosper Avril,,3,2,-.020860216,,,5
+Haiti,1990,Ertha Pascal-Trouillot,,4,6,-.020777946,.000097610122,,5
+Haiti,1991,Joseph C. Nérette,,5,0,-.047061075,.000057248795,,5
+Haiti,1992,Marc Bazin,,1,0,-.12530784,0,,5
+Haiti,1993,Jean-Bertrand Aristide,,2,0,-.10789312,0,,5
+Haiti,1994,Jean-Bertrand Aristide,,3,4,-.11513592,0,,5
+Haiti,1995,Jean-Bertrand Aristide,,1,4,-.029701764,0,,5
+Haiti,1996,René Garcia Préval,0,2,5,-.012770955,.000030074159,,5
+Haiti,1997,René Garcia Préval,0,3,5,-.0077738259,,,5
+Haiti,1998,René Garcia Préval,0,4,4,-.0057441662,,,5
+Haiti,1999,René Garcia Préval,1,5,4,-.0034515578,,,5
+Haiti,2000,René Garcia Préval,,6,3,-.004323876,,,5
+Haiti,2001,Jean-Bertrand Aristide,,7,2,-.0072525819,,,5
+Haiti,2002,Jean-Bertrand Aristide,,8,2,-.0086131254,,,5
+Haiti,2003,Jean-Bertrand Aristide,,9,2,-.0090566212,,,5
+Haiti,2004,Boniface Alexandre,,10,1,-.00046933329,,,5
+Haiti,2005,Boniface Alexandre,,1,1,-.024767047,,,5
+Haiti,2006,René Garcia Préval,,2,5,-.01450573,,,
+Haiti,2007,René Garcia Préval,0,1,5,.011451238,,,
+Haiti,2008,René Garcia Préval,0,2,5,.0051270416,,,
+Haiti,2009,René Garcia Préval,0,3,5,.0070528444,,,
+Haiti,2010,René Garcia Préval,0,4,5,.0070528444,,,
+Mexico,1900,Porfirio de la Cruz Porfirio Díaz,,,,.02924929,,,
+Mexico,1901,Porfirio de la Cruz Porfirio Díaz,,,,.051678665,,,
+Mexico,1902,Porfirio de la Cruz Porfirio Díaz,,,,.044772815,,,
+Mexico,1903,Porfirio de la Cruz Porfirio Díaz,,,,.035718787,,,
+Mexico,1904,Porfirio de la Cruz Porfirio Díaz,,,,.029953988,,,
+Mexico,1905,Porfirio de la Cruz Porfirio Díaz,,,,.02924929,,,
+Mexico,1906,Porfirio de la Cruz Porfirio Díaz,,,,.021917248,,,
+Mexico,1907,Porfirio de la Cruz Porfirio Díaz,,,,.019714583,,,
+Mexico,1908,Porfirio de la Cruz Porfirio Díaz,,,,.01617633,,,
+Mexico,1909,Porfirio de la Cruz Porfirio Díaz,,,,.0148803,,,
+Mexico,1910,Porfirio de la Cruz Porfirio Díaz,,,,.012277729,,,
+Mexico,1911,Francisco Indalécio Madero,,,,.0016014554,,,
+Mexico,1912,Francisco Indalécio Madero,0,,,.0012137413,,,
+Mexico,1913,Victoriano de la Huerta Márquez,1,,,.0096588647,,,
+Mexico,1914,Eulalio Martín Gutiérrez Ortiz,,,,.012948838,,,
+Mexico,1915,Venustiano Carranza de la Garza,,,,.016120953,,,
+Mexico,1916,Venustiano Carranza de la Garza,,,,.017334238,,,
+Mexico,1917,Venustiano Carranza de la Garza,,,,.016220495,,,
+Mexico,1918,Venustiano Carranza de la Garza,,,,.014090174,,,
+Mexico,1919,Venustiano Carranza de la Garza,,,,.012334843,,,
+Mexico,1920,Alvaro Obregón Salido,,,,.011169149,,,
+Mexico,1921,Alvaro Obregón Salido,,,,.0099549051,,,
+Mexico,1922,Alvaro Obregón Salido,,,,.009304015,,,
+Mexico,1923,Alvaro Obregón Salido,,,,.0082450518,,,
+Mexico,1924,Plutarco Elías Calles,,,,.0079169637,,,
+Mexico,1925,Plutarco Elías Calles,,,,.007781921,,,
+Mexico,1926,Plutarco Elías Calles,,,,.0072366525,,,
+Mexico,1927,Plutarco Elías Calles,,,,.0059632305,,,
+Mexico,1928,Emilio Cándido Portes Gil,,,,.0051835491,,,
+Mexico,1929,Emilio Cándido Portes Gil,,,,.00043137159,,,
+Mexico,1930,Pascual Ortiz Rubio,,,,-.003766787,,,
+Mexico,1931,Pascual Ortiz Rubio,,,,-.0022027229,,,
+Mexico,1932,Abelardo Luján Rodríguez,,,,-.0046686018,,,
+Mexico,1933,Abelardo Luján Rodríguez,,,,-.0056287856,,,
+Mexico,1934,Lázaro Cárdenas del Río,,,,-.0021323645,,,
+Mexico,1935,Lázaro Cárdenas del Río,,,,.00016233617,,,
+Mexico,1936,Lázaro Cárdenas del Río,,,,.003085047,,,
+Mexico,1937,Lázaro Cárdenas del Río,,,,.0047014127,,,
+Mexico,1938,Lázaro Cárdenas del Río,,,,.0051843207,,,
+Mexico,1939,Lázaro Cárdenas del Río,,,,.01063432,,,
+Mexico,1940,Manuel Ávila Camacho,,,,.013613758,,,
+Mexico,1941,Manuel Ávila Camacho,,,,.015775507,,,
+Mexico,1942,Manuel Ávila Camacho,,,,.021672683,,,
+Mexico,1943,Manuel Ávila Camacho,,,,.023766132,,,
+Mexico,1944,Manuel Ávila Camacho,,,,.021446101,,,
+Mexico,1945,Manuel Ávila Camacho,,16,,.018220339,,,16
+Mexico,1946,Miguel Alemán Váldez,,17,,.015735736,,,16
+Mexico,1947,Miguel Alemán Váldez,,18,,.014840242,,,16
+Mexico,1948,Miguel Alemán Váldez,,19,,.015711201,,,16
+Mexico,1949,Miguel Alemán Váldez,,20,,.017631723,,,16
+Mexico,1950,Miguel Alemán Váldez,,21,,.022507075,,,16
+Mexico,1951,Miguel Alemán Váldez,,22,,.021873035,,,16
+Mexico,1952,Adolfo Ruiz Cortines,,23,,.016946426,,,16
+Mexico,1953,Adolfo Ruiz Cortines,,24,,.01697831,,,16
+Mexico,1954,Adolfo Ruiz Cortines,,25,,.017613292,,,16
+Mexico,1955,Adolfo Ruiz Cortines,,26,,.021057451,,,16
+Mexico,1956,Adolfo Ruiz Cortines,,27,,.022377584,,,16
+Mexico,1957,Adolfo Ruiz Cortines,,28,,.024882494,,,16
+Mexico,1958,Adolfo López Mateos,,29,,.025649216,,,16
+Mexico,1959,Adolfo López Mateos,,30,,.022746507,,,16
+Mexico,1960,Adolfo López Mateos,,31,,.02343066,,,16
+Mexico,1961,Adolfo López Mateos,,32,,.022112122,,,16
+Mexico,1962,Adolfo López Mateos,,33,,.024750469,.016543621,,16
+Mexico,1963,Adolfo López Mateos,,34,,.028496731,.020007212,,16
+Mexico,1964,Gustavo Díaz Ordaz Bolaños,,35,,.03386331,.012946839,55.5,16
+Mexico,1965,Gustavo Díaz Ordaz Bolaños,,36,,.032502607,.011847542,55.939999,16
+Mexico,1966,Gustavo Díaz Ordaz Bolaños,,37,,.031979427,.011029169,56.380001,16
+Mexico,1967,Gustavo Díaz Ordaz Bolaños,,38,,.031394713,.0097021069,56.82,16
+Mexico,1968,Gustavo Díaz Ordaz Bolaños,,39,,.035702299,.010441837,57.260002,16
+Mexico,1969,Gustavo Díaz Ordaz Bolaños,,40,,.035973668,.0091526126,57.700001,16
+Mexico,1970,Luis Echeverría Álvarez,,41,,.034482788,.0074351598,57.728573,16
+Mexico,1971,Luis Echeverría Álvarez,,42,,.03318949,.0064639589,57.757145,16
+Mexico,1972,Luis Echeverría Álvarez,,43,6,.036545627,.0047375071,57.785713,16
+Mexico,1973,Luis Echeverría Álvarez,,44,7,.03625707,.0062427083,57.814285,16
+Mexico,1974,Luis Echeverría Álvarez,,45,7,.030370016,.008973523,57.842857,16
+Mexico,1975,Luis Echeverría Álvarez,,46,7,.029759998,.010268035,57.871429,16
+Mexico,1976,José López Portillo y Pacheco,,47,6,.028432751,.010424989,57.900002,16
+Mexico,1977,José López Portillo y Pacheco,,48,7,.026442669,.015331986,53.950001,16
+Mexico,1978,José López Portillo y Pacheco,,49,6,.026521496,.021530084,50,16
+Mexico,1979,José López Portillo y Pacheco,,50,7,.033257976,.035311576,50.082855,16
+Mexico,1980,José López Portillo y Pacheco,,51,7,.036669716,.077461943,50.165714,16
+Mexico,1981,José López Portillo y Pacheco,,52,7,.042386416,.084092505,50.248573,16
+Mexico,1982,Miguel de la Madrid Hurtado,,53,7,.034679741,.097710669,50.331429,16
+Mexico,1983,Miguel de la Madrid Hurtado,,54,7,.023877217,.10872639,50.414288,16
+Mexico,1984,Miguel de la Madrid Hurtado,,55,7,.022718107,.12367458,50.497143,16
+Mexico,1985,Miguel de la Madrid Hurtado,,56,6,.020544354,.10407172,50.580002,16
+Mexico,1986,Miguel de la Madrid Hurtado,,57,6,.013391701,.05359583,51.460003,16
+Mexico,1987,Miguel de la Madrid Hurtado,,58,6,.012684692,.085151829,52.34,16
+Mexico,1988,Carlos Salinas de Gortari,,59,7,.0059003229,.073284753,53.220001,16
+Mexico,1989,Carlos Salinas de Gortari,0,1,7,.0075202174,.074309379,54.099998,16
+Mexico,1990,Carlos Salinas de Gortari,0,2,6,.015352978,.074775524,54.98,16
+Mexico,1991,Carlos Salinas de Gortari,0,3,6,.017254749,.053190023,53.386665,16
+Mexico,1992,Carlos Salinas de Gortari,0,4,7,.017279055,.028646007,51.793335,16
+Mexico,1993,Carlos Salinas de Gortari,0,5,6,.014589169,.0231457,50.200001,16
+Mexico,1994,Ernesto Zedillo Ponce de León,0,6,6,.016220691,.021059668,50.849998,16
+Mexico,1995,Ernesto Zedillo Ponce de León,0,7,6,.0043637506,.030148249,51.5,16
+Mexico,1996,Ernesto Zedillo Ponce de León,0,8,7,.0077905445,.039691284,52.150002,16
+Mexico,1997,Ernesto Zedillo Ponce de León,0,9,7,.012246056,.037724067,52.799999,16
+Mexico,1998,Ernesto Zedillo Ponce de León,0,10,7,.016406713,.02363752,50.895,16
+Mexico,1999,Ernesto Zedillo Ponce de León,0,11,7,.016628684,.027241021,48.990002,16
+Mexico,2000,Vicente Fox Quesada,0,12,9,.018625522,.036515929,50.43,16
+Mexico,2001,Vicente Fox Quesada,0,13,9,.015135628,.026472894,51.869999,16
+Mexico,2002,Vicente Fox Quesada,0,14,10,.01320812,.026966915,50.775002,16
+Mexico,2003,Vicente Fox Quesada,0,15,10,.013423819,.032083713,49.68,16
+Mexico,2004,Vicente Fox Quesada,0,16,10,.01382203,.037530672,47.865002,16
+Mexico,2005,Vicente Fox Quesada,0,17,10,.023850389,.047555201,46.049999,16
+Mexico,2006,Felipe de Jesús Calderón Hinojosa,0,18,9,.024122613,,,
+Mexico,2007,Felipe de Jesús Calderón Hinojosa,0,19,9,.021189326,,,
+Mexico,2008,Felipe de Jesús Calderón Hinojosa,0,20,9,.018211037,,,
+Mexico,2009,Felipe de Jesús Calderón Hinojosa,0,21,9,.008293584,,,
+Mexico,2010,Felipe de Jesús Calderón Hinojosa,0,22,8,.0035498848,,,
+Nicaragua,1900,José Santos Zelaya López,,,,.049479019,,,
+Nicaragua,1901,José Santos Zelaya López,,,,.049684346,,,
+Nicaragua,1902,José Santos Zelaya López,,,,.042548116,,,
+Nicaragua,1903,José Santos Zelaya López,,,,.041832156,,,
+Nicaragua,1904,José Santos Zelaya López,,,,.04518364,,,
+Nicaragua,1905,José Santos Zelaya López,,,,.04954746,,,
+Nicaragua,1906,José Santos Zelaya López,,,,.04983101,,,
+Nicaragua,1907,José Santos Zelaya López,,,,.056601509,,,
+Nicaragua,1908,José Santos Zelaya López,,,,.062569402,,,
+Nicaragua,1909,José Madriz Rodríguez,,,,.061173242,,,
+Nicaragua,1910,Juan José Estrada Morales,,,,.062309217,,,
+Nicaragua,1911,Adolfo Díaz Recinos,,,,.063269116,,,
+Nicaragua,1912,Adolfo Díaz Recinos,,,,.070450217,,,
+Nicaragua,1913,Adolfo Díaz Recinos,,,,.077600501,,,
+Nicaragua,1914,Adolfo Díaz Recinos,,,,.078674562,,,
+Nicaragua,1915,Adolfo Díaz Recinos,,,,.077769734,,,
+Nicaragua,1916,Adolfo Díaz Recinos,,,,.083448216,,,
+Nicaragua,1917,Emiliano Chamorro Vargas,,,,.080582559,,,
+Nicaragua,1918,Emiliano Chamorro Vargas,,,,.078415237,,,
+Nicaragua,1919,Emiliano Chamorro Vargas,,,,.089236669,,,
+Nicaragua,1920,Emiliano Chamorro Vargas,,,,.090036064,,,
+Nicaragua,1921,Diego Manuel Chamorro Bolaños,,,,.087900147,,,
+Nicaragua,1922,Diego Manuel Chamorro Bolaños,,,,.078236856,,,
+Nicaragua,1923,Bartolomé Martínez Gonzalez,,,,.067868657,,,
+Nicaragua,1924,Bartolomé Martínez Gonzalez,,,,.065964021,,,
+Nicaragua,1925,Bartolomé Martínez Gonzalez,,,,.05987348,,,
+Nicaragua,1926,Adolfo Díaz Recinos,,,,.04762134,,,
+Nicaragua,1927,Adolfo Díaz Recinos,,,,.040430743,,,
+Nicaragua,1928,Adolfo Díaz Recinos,,,,.04393423,,,
+Nicaragua,1929,José María Moncada Tapia,,,,.05854575,,,
+Nicaragua,1930,José María Moncada Tapia,0,,,.0011695153,,,
+Nicaragua,1931,José María Moncada Tapia,0,,,-.025109969,,,
+Nicaragua,1932,José María Moncada Tapia,0,,,-.013644275,,,
+Nicaragua,1933,Juan Bautista Sacasa Sacasa,0,,,-.0086148474,,,
+Nicaragua,1934,Juan Bautista Sacasa Sacasa,0,,,-.00035935984,,,
+Nicaragua,1935,Juan Bautista Sacasa Sacasa,0,,,-.0019651728,,,
+Nicaragua,1936,Carlos Alberto Brenes Jarquín,1,,,-.060377877,,,
+Nicaragua,1937,Anastasio Somoza García,,,,-.054795239,,,
+Nicaragua,1938,Anastasio Somoza García,,,,-.029231561,,,
+Nicaragua,1939,Anastasio Somoza García,,,,.0017250744,,,
+Nicaragua,1940,Anastasio Somoza García,,,,.014746992,,,
+Nicaragua,1941,Anastasio Somoza García,,,,.017187381,,,
+Nicaragua,1942,Anastasio Somoza García,,,,.019195581,,,
+Nicaragua,1943,Anastasio Somoza García,,,,.01595284,,,
+Nicaragua,1944,Anastasio Somoza García,,,,.015043825,,,
+Nicaragua,1945,Anastasio Somoza García,,9,,.013625563,,,15
+Nicaragua,1946,Anastasio Somoza García,,10,,.01990371,,,15
+Nicaragua,1947,Víctor Manuel Román y Reyes,,11,,.022101786,,,15
+Nicaragua,1948,Víctor Manuel Román y Reyes,,12,,.019626776,,,15
+Nicaragua,1949,Víctor Manuel Román y Reyes,,13,,.014556766,,,15
+Nicaragua,1950,Anastasio Somoza García,,14,,.011874198,,,15
+Nicaragua,1951,Anastasio Somoza García,,15,,.014206817,,,15
+Nicaragua,1952,Anastasio Somoza García,,16,,.017151374,,,15
+Nicaragua,1953,Anastasio Somoza García,,17,,.017733071,,,15
+Nicaragua,1954,Anastasio Somoza García,,18,,.020075142,,,15
+Nicaragua,1955,Anastasio Somoza García,,19,,.022235466,,,15
+Nicaragua,1956,Luis Anastasio Somoza Debayle,,20,,.023805017,,,15
+Nicaragua,1957,Luis Anastasio Somoza Debayle,,21,,.026484657,,,15
+Nicaragua,1958,Luis Anastasio Somoza Debayle,,22,,.02675318,,,15
+Nicaragua,1959,Luis Anastasio Somoza Debayle,,23,,.020328691,,,15
+Nicaragua,1960,Luis Anastasio Somoza Debayle,,24,,.015516148,,,15
+Nicaragua,1961,Luis Anastasio Somoza Debayle,,25,,.014374579,,,15
+Nicaragua,1962,Luis Anastasio Somoza Debayle,,26,,.01667349,,,15
+Nicaragua,1963,René Schick Gutiérrez,,27,,.023479763,,,15
+Nicaragua,1964,René Schick Gutiérrez,,28,,.028217368,,,15
+Nicaragua,1965,René Schick Gutiérrez,,29,,.03176808,.01606679,,15
+Nicaragua,1966,Lorenzo Guerrero Gutiérrez,,30,,.030205574,,,15
+Nicaragua,1967,Anastasio Somoza Debayle,,31,,.034047518,,,15
+Nicaragua,1968,Anastasio Somoza Debayle,,32,,.032390919,.010303103,,15
+Nicaragua,1969,Anastasio Somoza Debayle,,33,,.037486002,.0087403469,,15
+Nicaragua,1970,Anastasio Somoza Debayle,,34,,.036604751,.0080737304,,15
+Nicaragua,1971,Anastasio Somoza Debayle,,35,,.03266345,.0054788785,,15
+Nicaragua,1972,National Government Junta,,36,7,.023426803,.0073522772,,15
+Nicaragua,1973,National Government Junta,,37,5,.019909335,.0073520429,,15
+Nicaragua,1974,Anastasio Somoza Debayle,,38,5,.02278449,.0089839809,,18
+Nicaragua,1975,Anastasio Somoza Debayle,,39,5,.013809442,.0048964093,,18
+Nicaragua,1976,Anastasio Somoza Debayle,,40,4,.015590576,.0045135356,,18
+Nicaragua,1977,Anastasio Somoza Debayle,,41,4,.016902627,.0039312812,,18
+Nicaragua,1978,Anastasio Somoza Debayle,,42,4,.0079984935,.0037420564,,18
+Nicaragua,1979,Junta of National Reconstruction,,43,4,-.023684852,.0047615436,,18
+Nicaragua,1980,Junta of National Reconstruction,,1,4,-.13494879,.0080184052,,18
+Nicaragua,1981,Junta of National Reconstruction,,2,4,-.081863821,.0054643569,,18
+Nicaragua,1982,Junta of National Reconstruction,,3,3,-.070182614,.0024441606,,18
+Nicaragua,1983,Junta of National Reconstruction,,4,3,-.052426931,.00015366705,,18
+Nicaragua,1984,Junta of National Reconstruction,,5,4,-.050427929,.00007351354,,18
+Nicaragua,1985,José Daniel Ortega Saavedra,0,6,4,-.052329231,.00086794858,,18
+Nicaragua,1986,José Daniel Ortega Saavedra,0,7,3,-.049837943,.00015522126,,18
+Nicaragua,1987,José Daniel Ortega Saavedra,0,8,4,-.047429893,,,17
+Nicaragua,1988,José Daniel Ortega Saavedra,0,9,5,-.05695666,.00057044189,,17
+Nicaragua,1989,José Daniel Ortega Saavedra,0,10,4,-.032120343,.0060855616,,17
+Nicaragua,1990,Violeta Barrios Torres de Chamorro,0,11,8,-.036072221,.0026858971,,17
+Nicaragua,1991,Violeta Barrios Torres de Chamorro,0,1,8,-.024248663,.0073754638,,17
+Nicaragua,1992,Violeta Barrios Torres de Chamorro,0,2,7,-.02298498,.0052365637,,17
+Nicaragua,1993,Violeta Barrios Torres de Chamorro,0,3,5,-.024262689,.015704287,,17
+Nicaragua,1994,Violeta Barrios Torres de Chamorro,0,4,5,-.017576851,.0032671166,50.41,17
+Nicaragua,1995,Violeta Barrios Torres de Chamorro,0,5,6,-.0086711943,.0027113496,49.375999,16
+Nicaragua,1996,Violeta Barrios Torres de Chamorro,0,6,8,-.0014729588,.0022968659,48.342003,16
+Nicaragua,1997,José Arnoldo Alemán Lacayo,0,7,8,.001186836,.0036671567,47.308002,16
+Nicaragua,1998,José Arnoldo Alemán Lacayo,0,8,9,.0031239409,.001851148,46.274002,16
+Nicaragua,1999,José Arnoldo Alemán Lacayo,0,9,8,.0080617703,.0019470255,45.240002,16
+Nicaragua,2000,José Arnoldo Alemán Lacayo,0,10,8,.012852601,.0033901453,44.530003,16
+Nicaragua,2001,José Arnoldo Alemán Lacayo,0,11,8,.016837368,.0032836827,43.82,16
+Nicaragua,2002,Enrique José Bolaños Geyer,0,12,8,.018256046,.0065040495,43.110001,16
+Nicaragua,2003,Enrique José Bolaños Geyer,0,13,8,.022249486,.0027193169,,16
+Nicaragua,2004,Enrique José Bolaños Geyer,0,14,8,.02530768,.0032442703,,16
+Nicaragua,2005,Enrique José Bolaños Geyer,0,15,8,.024688801,.0041307304,,16
+Nicaragua,2006,Enrique José Bolaños Geyer,0,16,8,.023113072,,,
+Nicaragua,2007,José Daniel Ortega Saavedra,0,17,8,.022986524,,,
+Nicaragua,2008,José Daniel Ortega Saavedra,0,18,7,.023032334,,,
+Nicaragua,2009,José Daniel Ortega Saavedra,0,19,6,.015480998,,,
+Nicaragua,2010,José Daniel Ortega Saavedra,0,20,6,.014453935,,,
+Panama,1904,Manuel Amador Guerrero            ,,,,,,,
+Panama,1905,Manuel Amador Guerrero            ,0,,,.07489907,,,
+Panama,1906,Manuel Amador Guerrero            ,0,,,.074039571,,,
+Panama,1907,Manuel Amador Guerrero            ,0,,,.073713742,,,
+Panama,1908,José Domingo de Obaldía Gallegos  ,0,,,.080714233,,,
+Panama,1909,José Domingo de Obaldía Gallegos  ,0,,,.077797972,,,
+Panama,1910,Pablo Arosemena Alba,0,,,.074306406,,,
+Panama,1911,Pablo Arosemena Alba,0,,,.07340879,,,
+Panama,1912,Belisario Porras Barahona,0,,,.073306449,,,
+Panama,1913,Belisario Porras Barahona,0,,,.076908372,,,
+Panama,1914,Belisario Porras Barahona,0,,,.085747041,,,
+Panama,1915,Belisario Porras Barahona,0,,,.0834205,,,
+Panama,1916,Ramón Maximiliano Valdés Arce,1,,,.096438393,,,
+Panama,1917,Ramón Maximiliano Valdés Arce,,,,.097104236,,,
+Panama,1918,Belisario Porras Barahona,,,,.079101056,,,
+Panama,1919,Belisario Porras Barahona,0,,,.10717899,,,
+Panama,1920,Belisario Porras Barahona,0,,,.11001085,,,
+Panama,1921,Belisario Porras Barahona,0,,,.078812443,,,
+Panama,1922,Belisario Porras Barahona,0,,,.06842684,,,
+Panama,1923,Belisario Porras Barahona,0,,,.06438341,,,
+Panama,1924,Rodolfo E. Chiari Robles,0,,,.061770286,,,
+Panama,1925,Rodolfo E. Chiari Robles,0,,,.064199321,,,
+Panama,1926,Rodolfo E. Chiari Robles,0,,,.062015541,,,
+Panama,1927,Rodolfo E. Chiari Robles,0,,,.059849076,,,
+Panama,1928,Florencio Harmodio Arosemena Guillén,1,,,.048872732,,,
+Panama,1929,Florencio Harmodio Arosemena Guillén,,,,.044062018,,,
+Panama,1930,Florencio Harmodio Arosemena Guillén,,,,.03446525,,,
+Panama,1931,Ricardo Joaquín Alfaro Jované,,,,.024002993,,,
+Panama,1932,Harmodio Arias Madrid,,,,.024747327,,,
+Panama,1933,Harmodio Arias Madrid,0,,,.06242086,,,
+Panama,1934,Harmodio Arias Madrid,0,,,.091244176,,,
+Panama,1935,Harmodio Arias Madrid,0,,,.093827441,,,
+Panama,1936,Juan Demóstenes Arosemena Barreati,1,,,.08343605,,,
+Panama,1937,Juan Demóstenes Arosemena Barreati,,,,.064952239,,,
+Panama,1938,Juan Demóstenes Arosemena Barreati,,,,.062809549,,,
+Panama,1939,Augusto Samuel Boyd Briceño,,,,.064073876,,,
+Panama,1940,Arnulfo Arias Madrid,,,,.076163366,,,
+Panama,1941,Ricardo Adolfo de la Guardia,,,,.083318248,,,
+Panama,1942,Ricardo Adolfo de la Guardia,,,,.084569909,,,
+Panama,1943,Ricardo Adolfo de la Guardia,,,,.077749275,,,
+Panama,1944,Ricardo Adolfo de la Guardia,,,,.074878879,,,
+Panama,1945,Enrique Adolfo Jiménez Brin,,4,,.083462805,,,17
+Panama,1946,Enrique Adolfo Jiménez Brin,0,5,,.070021234,,,13
+Panama,1947,Enrique Adolfo Jiménez Brin,0,6,,.062585816,,,13
+Panama,1948,Domingo Díaz Arosemena,1,7,,.052084446,,,13
+Panama,1949,Arnulfo Arias Madrid,,1,,-.010468902,,,13
+Panama,1950,Arnulfo Arias Madrid,,2,,-.016190331,,,13
+Panama,1951,Alcibíades Arosemena Quinzada,,3,,-.016111813,,,13
+Panama,1952,José Antonio Remón Cantera,,4,,-.010786334,,,13
+Panama,1953,José Antonio Remón Cantera,,5,,-.0043369853,,,13
+Panama,1954,José Antonio Remón Cantera,,6,,-.0026132928,,,13
+Panama,1955,Ricardo Manuel Arias Espinosa,,7,,.000090034984,,,13
+Panama,1956,Ernesto de la Guardia Navarro,,8,,.001473244,,,13
+Panama,1957,Ernesto de la Guardia Navarro,0,1,,.014998987,,,13
+Panama,1958,Ernesto de la Guardia Navarro,0,2,,.015688835,,,13
+Panama,1959,Ernesto de la Guardia Navarro,0,3,,.014608457,,,13
+Panama,1960,Roberto Francisco Chiari Remón,0,4,,.025179042,,,13
+Panama,1961,Roberto Francisco Chiari Remón,0,5,,.033626705,,,13
+Panama,1962,Roberto Francisco Chiari Remón,0,6,,.036346413,.025591366,,13
+Panama,1963,Roberto Francisco Chiari Remón,0,7,,.038449395,.039258193,,13
+Panama,1964,Marco Aurelio Robles Méndez,0,8,,.035870381,.038872931,,13
+Panama,1965,Marco Aurelio Robles Méndez,0,9,,.038264945,.033930816,,13
+Panama,1966,Marco Aurelio Robles Méndez,0,10,,.041413166,.034453798,,13
+Panama,1967,Marco Aurelio Robles Méndez,0,11,,.045085885,.02781429,,13
+Panama,1968,José María Pinilla Fábrega,1,12,,.047225535,.021498656,,13
+Panama,1969,Demetrio Basilio Lakas Bahas,,1,,.046419319,.024631135,,13
+Panama,1970,Demetrio Basilio Lakas Bahas,,2,,.042302281,.021544699,,13
+Panama,1971,Demetrio Basilio Lakas Bahas,,3,,.048306853,.021896055,57,13
+Panama,1972,Demetrio Basilio Lakas Bahas,,4,1,.042162351,.017450485,56.08889,
+Panama,1973,Demetrio Basilio Lakas Bahas,,5,1,.03948798,.016953165,55.177776,
+Panama,1974,Demetrio Basilio Lakas Bahas,,6,1,.033515919,.050126512,54.266666,
+Panama,1975,Demetrio Basilio Lakas Bahas,,7,1,.02805016,.063028619,53.355556,
+Panama,1976,Demetrio Basilio Lakas Bahas,,8,1,.023897776,.032552607,52.444443,
+Panama,1977,Demetrio Basilio Lakas Bahas,,9,3,.020140834,.032490399,51.533333,
+Panama,1978,Aristides Royo Sánchez,,10,4,.023350101,.025433438,50.622223,
+Panama,1979,Aristides Royo Sánchez,,11,4,.019924559,.026582178,49.711109,
+Panama,1980,Aristides Royo Sánchez,,12,6,.015264565,.027189739,48.799999,
+Panama,1981,Aristides Royo Sánchez,,13,6,.015365818,.016775962,49.577,
+Panama,1982,Ricardo de la Espriella Toral,,14,5,.016627425,.019540494,50.354,
+Panama,1983,Ricardo de la Espriella Toral,,15,5,.0074587571,.0096227126,51.131001,13
+Panama,1984,Nicolás Ardito Barletta Vallarino,,16,7,.0082177334,.0021160159,51.907997,13
+Panama,1985,Eric Arturo Delvalle Henríquez,,17,5,.011983251,.0057745199,52.684998,13
+Panama,1986,Eric Arturo Delvalle Henríquez,,18,5,.014344152,.00084037596,53.462002,13
+Panama,1987,Eric Arturo Delvalle Henríquez,,19,4,.011899644,.00097157602,54.238998,13
+Panama,1988,Manuel Solís Palma,,20,3,-.010289207,.0012643917,55.015999,13
+Panama,1989,Guillermo David Endara Galimany,,21,1,-.012790943,.0013637792,55.792999,13
+Panama,1990,Guillermo David Endara Galimany,,1,8,.0271022,.00094809814,56.57,13
+Panama,1991,Guillermo David Endara Galimany,0,2,8,.042058863,.00076643808,56.695,13
+Panama,1992,Guillermo David Endara Galimany,0,3,7,.046548124,.0010426077,56.82,13
+Panama,1993,Guillermo David Endara Galimany,0,4,8,.04386355,.0020845276,56.880001,13
+Panama,1994,Ernesto Pérez Balladares González Revilla,0,5,9,.037830833,.0024931829,56.940002,13
+Panama,1995,Ernesto Pérez Balladares González Revilla,0,6,9,.032000914,.0034818978,57,13
+Panama,1996,Ernesto Pérez Balladares González Revilla,0,7,9,.02894159,.0049018161,57.060001,13
+Panama,1997,Ernesto Pérez Balladares González Revilla,0,8,9,.030553808,.0044647078,56.310001,13
+Panama,1998,Ernesto Pérez Balladares González Revilla,0,9,9,.032728627,.0041793343,56.682503,13
+Panama,1999,Mireya Elisa Moscoso Rodríguez,0,10,11,.035120662,.0084248986,57.055,13
+Panama,2000,Mireya Elisa Moscoso Rodríguez,0,11,11,.029967656,.0068844133,57.427502,13
+Panama,2001,Mireya Elisa Moscoso Rodríguez,0,12,11,.021463135,.0067529888,57.799999,13
+Panama,2002,Mireya Elisa Moscoso Rodríguez,0,13,11,.015814008,.0052500572,57.154999,13
+Panama,2003,Mireya Elisa Moscoso Rodríguez,0,14,11,.014830944,.0018916687,56.509998,13
+Panama,2004,Martín Erasto Torrijos Espino,0,15,11,.019686192,.003072408,56.099998,13
+Panama,2005,Martín Erasto Torrijos Espino,0,16,11,.025316084,.0031968318,54.799999,13
+Panama,2006,Martín Erasto Torrijos Espino,0,17,11,.031244187,,,
+Panama,2007,Martín Erasto Torrijos Espino,0,18,11,.037268564,,,
+Panama,2008,Martín Erasto Torrijos Espino,0,19,11,.040961076,,,
+Panama,2009,Ricardo Martinelli Berrocal,0,20,11,.039822266,,,
+Panama,2010,Ricardo Martinelli Berrocal,0,21,11,.043405462,,,
+Peru,1900,Eduardo López de Romaña y Alvizuri,,,,.020282079,,,
+Peru,1901,Eduardo López de Romaña y Alvizuri,,,,.033303395,,,
+Peru,1902,Eduardo López de Romaña y Alvizuri,,,,.025094554,,,
+Peru,1903,Manuel González de Candamo Iriarte,,,,.021968223,,,
+Peru,1904,José Simón Pardo y Barreda,,,,.018839845,,,
+Peru,1905,José Simón Pardo y Barreda,,,,.020282079,,,
+Peru,1906,José Simón Pardo y Barreda,,,,.021803385,,,
+Peru,1907,José Simón Pardo y Barreda,,,,.021157989,,,
+Peru,1908,Augusto Bernardino Leguía y Salcedo,,,,.018138062,,,
+Peru,1909,Augusto Bernardino Leguía y Salcedo,,,,.016794207,,,
+Peru,1910,Augusto Bernardino Leguía y Salcedo,,,,.015706209,,,
+Peru,1911,Augusto Bernardino Leguía y Salcedo,,,,.012586501,,,
+Peru,1912,Guillermo E. Billinghurst Angulo,,,,.01437341,,,
+Peru,1913,Guillermo E. Billinghurst Angulo,0,,,.0071915067,,,
+Peru,1914,Óscar Raymundo Benavides Larrea,1,,,-.0012943278,,,
+Peru,1915,José Simón Pardo y Barreda,,,,.017122151,,,
+Peru,1916,José Simón Pardo y Barreda,0,,,.039364535,,,
+Peru,1917,José Simón Pardo y Barreda,0,,,.021642452,,,
+Peru,1918,José Simón Pardo y Barreda,0,,,.019516107,,,
+Peru,1919,Augusto Bernardino Leguía y Salcedo,1,,,.018165963,,,
+Peru,1920,Augusto Bernardino Leguía y Salcedo,,,,.0097254636,,,
+Peru,1921,Augusto Bernardino Leguía y Salcedo,,,,-.00034581666,,,
+Peru,1922,Augusto Bernardino Leguía y Salcedo,,,,.0076401629,,,
+Peru,1923,Augusto Bernardino Leguía y Salcedo,,,,.025340499,,,
+Peru,1924,Augusto Bernardino Leguía y Salcedo,,,,.027425837,,,
+Peru,1925,Augusto Bernardino Leguía y Salcedo,,,,.026928617,,,
+Peru,1926,Augusto Bernardino Leguía y Salcedo,,,,.027196694,,,
+Peru,1927,Augusto Bernardino Leguía y Salcedo,,,,.030089986,,,
+Peru,1928,Augusto Bernardino Leguía y Salcedo,,,,.032260932,,,
+Peru,1929,Augusto Bernardino Leguía y Salcedo,,,,.030896489,,,
+Peru,1930,Luis Miguel Sánchez Cerro,,,,.025678692,,,
+Peru,1931,Luis Miguel Sánchez Cerro,,,,.017712846,,,
+Peru,1932,Luis Miguel Sánchez Cerro,,,,.015568969,,,
+Peru,1933,Óscar Raymundo Benavides Larrea,,,,.015226942,,,
+Peru,1934,Óscar Raymundo Benavides Larrea,,,,.02417027,,,
+Peru,1935,Óscar Raymundo Benavides Larrea,,,,.02615845,,,
+Peru,1936,Óscar Raymundo Benavides Larrea,,,,.025698755,,,
+Peru,1937,Óscar Raymundo Benavides Larrea,,,,.02044115,,,
+Peru,1938,Óscar Raymundo Benavides Larrea,,,,.015553315,,,
+Peru,1939,Manuel Prado y Ugarteche,,,,-.0023135946,,,
+Peru,1940,Manuel Prado y Ugarteche,0,,,-.0086786598,,,
+Peru,1941,Manuel Prado y Ugarteche,0,,,-.012233465,,,
+Peru,1942,Manuel Prado y Ugarteche,0,,,-.015715685,,,
+Peru,1943,Manuel Prado y Ugarteche,0,,,-.014076263,,,
+Peru,1944,Manuel Prado y Ugarteche,0,,,-.0054286849,,,
+Peru,1945,José Luis Bustamante y Rivero,0,6,,.0031902606,,,11
+Peru,1946,José Luis Bustamante y Rivero,0,7,,.0054373015,,,11
+Peru,1947,José Luis Bustamante y Rivero,0,8,,.0060302308,,,11
+Peru,1948,Manuel Apolinario Odría Amoretti,1,9,,.0069244793,,,11
+Peru,1949,Manuel Apolinario Odría Amoretti,,1,,.023801329,,,11
+Peru,1950,Manuel Apolinario Odría Amoretti,,2,,.012546958,,,11
+Peru,1951,Manuel Apolinario Odría Amoretti,,3,,.018112307,,,11
+Peru,1952,Manuel Apolinario Odría Amoretti,,4,,.019304514,,,11
+Peru,1953,Manuel Apolinario Odría Amoretti,,5,,.017103257,,,11
+Peru,1954,Manuel Apolinario Odría Amoretti,,6,,.018230425,,,11
+Peru,1955,Manuel Apolinario Odría Amoretti,,7,,.019869532,,,11
+Peru,1956,Manuel Prado y Ugarteche,,8,,.020167144,,,11
+Peru,1957,Manuel Prado y Ugarteche,0,1,,.014083085,,,11
+Peru,1958,Manuel Prado y Ugarteche,0,2,,.0069651185,,,11
+Peru,1959,Manuel Prado y Ugarteche,0,3,,.0031870569,,,11
+Peru,1960,Manuel Prado y Ugarteche,0,4,,.019262573,,,11
+Peru,1961,Manuel Prado y Ugarteche,0,5,,.023282986,,,11
+Peru,1962,Ricardo Pío Pérez Godoy,1,6,,.027473072,.075520001,60.200001,11
+Peru,1963,Fernando Belaúnde Terry,,7,,.024984306,.06321276,60.063637,11
+Peru,1964,Fernando Belaúnde Terry,0,1,,.021594537,.073687449,59.927273,11
+Peru,1965,Fernando Belaúnde Terry,0,2,,.020977182,.067883842,59.790909,11
+Peru,1966,Fernando Belaúnde Terry,0,3,,.02914587,.068736441,59.654545,11
+Peru,1967,Fernando Belaúnde Terry,0,4,,.025117425,.06611786,59.518185,11
+Peru,1968,Juan Francisco Velasco Alvarado,1,5,,.016915478,.075749047,59.381821,11
+Peru,1969,Juan Francisco Velasco Alvarado,,1,,-.0073563918,.077071398,59.245457,11
+Peru,1970,Juan Francisco Velasco Alvarado,,2,,.0048230975,.074770734,59.109093,11
+Peru,1971,Juan Francisco Velasco Alvarado,,3,,.0068802205,.048585761,58.972729,11
+Peru,1972,Juan Francisco Velasco Alvarado,,4,2,.0055743228,.051277343,58.836365,11
+Peru,1973,Juan Francisco Velasco Alvarado,,5,2,.0087784333,.059634235,58.700001,11
+Peru,1974,Juan Francisco Velasco Alvarado,,6,2,.016467215,.063569821,58.511112,11
+Peru,1975,Francisco Morales Bermúdez Cerruti,,7,4,.01514343,.036683124,58.322224,11
+Peru,1976,Francisco Morales Bermúdez Cerruti,,8,4,.012574672,.044591349,58.133335,11
+Peru,1977,Francisco Morales Bermúdez Cerruti,,9,4,.0090256007,.064727783,57.944447,11
+Peru,1978,Francisco Morales Bermúdez Cerruti,,10,5,.0090623889,.078052387,57.755554,11
+Peru,1979,Francisco Morales Bermúdez Cerruti,,11,5,.011174859,.14066494,57.566666,11
+Peru,1980,Fernando Belaúnde Terry,,12,9,.0087239863,.13654187,57.377777,11
+Peru,1981,Fernando Belaúnde Terry,0,1,9,.025033494,0,57.188889,11
+Peru,1982,Fernando Belaúnde Terry,0,2,9,.0067349002,.093893908,57,11
+Peru,1983,Fernando Belaúnde Terry,0,3,9,-.029624177,.1095272,54.743999,11
+Peru,1984,Fernando Belaúnde Terry,0,4,9,-.018153865,.10906574,52.487999,11
+Peru,1985,Alan Gabriel Ludwig García Pérez,0,5,9,-.014360849,.10631677,50.232002,11
+Peru,1986,Alan Gabriel Ludwig García Pérez,0,6,9,-.0015534898,.063665949,47.976002,11
+Peru,1987,Alan Gabriel Ludwig García Pérez,0,7,9,.0056556761,.065866239,45.720001,11
+Peru,1988,Alan Gabriel Ludwig García Pérez,0,8,9,-.0068384367,.092120096,45.2575,11
+Peru,1989,Alan Gabriel Ludwig García Pérez,0,9,8,-.019720858,.11657665,44.794998,11
+Peru,1990,Alberto Keinya Fujimori,0,10,7,-.027278272,.10948516,44.3325,11
+Peru,1991,Alberto Keinya Fujimori,0,11,6,-.031683814,.066813067,43.869999,11
+Peru,1992,Alberto Keinya Fujimori,1,12,3,-.031046839,.058807831,44.119999,11
+Peru,1993,Alberto Keinya Fujimori,,13,4,-.014374526,.048932947,44.369999,15
+Peru,1994,Alberto Keinya Fujimori,,14,5,-.0063849669,.051512633,44.619999,15
+Peru,1995,Alberto Keinya Fujimori,,15,5,-.00017125813,.059545983,44.869999,15
+Peru,1996,Alberto Keinya Fujimori,0,16,7,-.0069656754,.054811053,45.555,15
+Peru,1997,Alberto Keinya Fujimori,0,17,5,-.0075254287,.054209184,46.240002,15
+Peru,1998,Alberto Keinya Fujimori,0,18,5,.00086162629,.048861738,47.135002,15
+Peru,1999,Alberto Keinya Fujimori,0,19,5,.013741317,.051744085,48.030003,15
+Peru,2000,Valentín Paniagua Corazao,0,20,8,.022214476,.061011769,48.924999,15
+Peru,2001,Alejandro Celestino Toledo Manrique,0,21,10,.020832101,.059590697,49.82,15
+Peru,2002,Alejandro Celestino Toledo Manrique,0,22,9,.026728449,.065439306,52.235001,15
+Peru,2003,Alejandro Celestino Toledo Manrique,0,23,9,.026556039,.074411005,54.650002,15
+Peru,2004,Alejandro Celestino Toledo Manrique,0,24,9,.019408138,.10201854,52.02,15
+Peru,2005,Alejandro Celestino Toledo Manrique,0,25,9,.018223289,.13470529,,15
+Peru,2006,Alan Gabriel Ludwig García Pérez,0,26,9,.023928819,,,
+Peru,2007,Alan Gabriel Ludwig García Pérez,0,27,9,.026475364,,,
+Peru,2008,Alan Gabriel Ludwig García Pérez,0,28,9,.037279408,,,
+Peru,2009,Alan Gabriel Ludwig García Pérez,0,29,9,.037738677,,,
+Peru,2010,Alan Gabriel Ludwig García Pérez,0,30,9,.040395107,,,
+Paraguay,1900,Emilio Aceval Marín,,,,.094149478,,,
+Paraguay,1901,Emilio Aceval Marín,,,,.093531623,,,
+Paraguay,1902,Juan Antonio Escurra,,,,.096015558,,,
+Paraguay,1903,Juan Antonio Escurra,,,,.1047534,,,
+Paraguay,1904,Juan Bautista Gaona Figueredo,,,,.09929534,,,
+Paraguay,1905,Cecilio Báez González,,,,.093943521,,,
+Paraguay,1906,Benigno Asunción Ferreira,,,,.093090296,,,
+Paraguay,1907,Benigno Asunción Ferreira,,,,.085801654,,,
+Paraguay,1908,Emiliano González Navero,,,,.079281211,,,
+Paraguay,1909,Emiliano González Navero,,,,.082858734,,,
+Paraguay,1910,Manuel Gondra Pereira,,,,.08449553,,,
+Paraguay,1911,Liberato Marcial Rojas Cabral,,,,.079133488,,,
+Paraguay,1912,Eduardo Schaerer Vera y Aragón,,,,.075712286,,,
+Paraguay,1913,Eduardo Schaerer Vera y Aragón,,,,.069622077,,,
+Paraguay,1914,Eduardo Schaerer Vera y Aragón,,,,.064051099,,,
+Paraguay,1915,Eduardo Schaerer Vera y Aragón,,,,.071352981,,,
+Paraguay,1916,Manuel Franco,,,,.081694834,,,
+Paraguay,1917,Manuel Franco,,,,.088032767,,,
+Paraguay,1918,Manuel Franco,,,,.096766867,,,
+Paraguay,1919,José Pedro Montero Candia,,,,.093720086,,,
+Paraguay,1920,Manuel Gondra Pereira,,,,.084639259,,,
+Paraguay,1921,Eusebio Ayala,,,,.079427667,,,
+Paraguay,1922,Eusebio Ayala,,,,.080803625,,,
+Paraguay,1923,José Eligio Ayala,,,,.089323319,,,
+Paraguay,1924,José Eligio Ayala,,,,.09759067,,,
+Paraguay,1925,José Eligio Ayala,,,,.089849547,,,
+Paraguay,1926,José Eligio Ayala,,,,.079847947,,,
+Paraguay,1927,José Eligio Ayala,,,,.076825306,,,
+Paraguay,1928,José Patricio Guggiari Corniglione,,,,.071183413,,,
+Paraguay,1929,José Patricio Guggiari Corniglione,,,,.067049958,,,
+Paraguay,1930,José Patricio Guggiari Corniglione,,,,.065486662,,,
+Paraguay,1931,José Patricio Guggiari Corniglione,,,,.06389679,,,
+Paraguay,1932,Eusebio Ayala,,,,.057819456,,,
+Paraguay,1933,Eusebio Ayala,,,,.052328516,,,
+Paraguay,1934,Eusebio Ayala,,,,.050781429,,,
+Paraguay,1935,Eusebio Ayala,,,,.048824739,,,
+Paraguay,1936,Rafael de la Cruz Franco Ojeda,,,,.044625632,,,
+Paraguay,1937,Félix Paiva,,,,.044336531,,,
+Paraguay,1938,Félix Paiva,,,,.043172352,,,
+Paraguay,1939,José Félix Estigarribia Insaurralde,,,,.053147223,,,
+Paraguay,1940,Higinio Morínigo Martínez,,,,.055005997,,,
+Paraguay,1941,Higinio Morínigo Martínez,,,,.05661127,,,
+Paraguay,1942,Higinio Morínigo Martínez,,,,.057327021,,,
+Paraguay,1943,Higinio Morínigo Martínez,,,,.046963468,,,
+Paraguay,1944,Higinio Morínigo Martínez,,,,.037776023,,,
+Paraguay,1945,Higinio Morínigo Martínez,,5,,.0058135353,,,24
+Paraguay,1946,Higinio Morínigo Martínez,,6,,-.0014447758,,,24
+Paraguay,1947,Higinio Morínigo Martínez,,7,,-.004972497,,,24
+Paraguay,1948,Juan Natalicio González Paredes,,8,,-.0051502283,,,24
+Paraguay,1949,Federico Chaves Careaga,,1,,.0078217946,,,24
+Paraguay,1950,Federico Chaves Careaga,,2,,.013393302,,,24
+Paraguay,1951,Federico Chaves Careaga,,3,,.0089330077,,,24
+Paraguay,1952,Federico Chaves Careaga,,4,,.0035773688,,,24
+Paraguay,1953,Federico Chaves Careaga,,5,,.00064537773,,,24
+Paraguay,1954,Alfredo Stroessner Matiauda,,6,,.0015594586,,,24
+Paraguay,1955,Alfredo Stroessner Matiauda,,1,,.01047966,,,24
+Paraguay,1956,Alfredo Stroessner Matiauda,,2,,.0074987365,,,24
+Paraguay,1957,Alfredo Stroessner Matiauda,,3,,.0091202585,,,24
+Paraguay,1958,Alfredo Stroessner Matiauda,,4,,.009347274,,,24
+Paraguay,1959,Alfredo Stroessner Matiauda,,5,,.007773852,,,24
+Paraguay,1960,Alfredo Stroessner Matiauda,,6,,.0042260224,,,24
+Paraguay,1961,Alfredo Stroessner Matiauda,,7,,.0090314914,,,24
+Paraguay,1962,Alfredo Stroessner Matiauda,,8,,.0065785227,,,24
+Paraguay,1963,Alfredo Stroessner Matiauda,,9,,.0070676086,,,24
+Paraguay,1964,Alfredo Stroessner Matiauda,,10,,.0075161369,,,24
+Paraguay,1965,Alfredo Stroessner Matiauda,,11,,.0087113213,,,24
+Paraguay,1966,Alfredo Stroessner Matiauda,,12,,.0070437682,,,24
+Paraguay,1967,Alfredo Stroessner Matiauda,,13,,.011285766,.00016711841,,21
+Paraguay,1968,Alfredo Stroessner Matiauda,,14,,.010698163,.00038921114,,21
+Paraguay,1969,Alfredo Stroessner Matiauda,,15,,.012148908,,,21
+Paraguay,1970,Alfredo Stroessner Matiauda,,16,,.016107175,,,21
+Paraguay,1971,Alfredo Stroessner Matiauda,,17,,.014715475,,,21
+Paraguay,1972,Alfredo Stroessner Matiauda,,18,4,.019925209,.0002369258,,21
+Paraguay,1973,Alfredo Stroessner Matiauda,,19,4,.023441121,,,21
+Paraguay,1974,Alfredo Stroessner Matiauda,,20,4,.027949963,.0015419907,,21
+Paraguay,1975,Alfredo Stroessner Matiauda,,21,4,.029103167,.0013679045,,21
+Paraguay,1976,Alfredo Stroessner Matiauda,,22,3,.034989074,.0011504915,,21
+Paraguay,1977,Alfredo Stroessner Matiauda,,23,3,.037492793,,,21
+Paraguay,1978,Alfredo Stroessner Matiauda,,24,4,.045537587,,,21
+Paraguay,1979,Alfredo Stroessner Matiauda,,25,4,.052496731,.00033208216,,21
+Paraguay,1980,Alfredo Stroessner Matiauda,,26,4,.061915293,,,21
+Paraguay,1981,Alfredo Stroessner Matiauda,,27,4,.064506531,.00013219405,,21
+Paraguay,1982,Alfredo Stroessner Matiauda,,28,4,.054097284,,,21
+Paraguay,1983,Alfredo Stroessner Matiauda,,29,4,.043571711,,,21
+Paraguay,1984,Alfredo Stroessner Matiauda,,30,4,.037983064,,45.099998,21
+Paraguay,1985,Alfredo Stroessner Matiauda,,31,4,.035232704,,46.269165,21
+Paraguay,1986,Alfredo Stroessner Matiauda,,32,3,.028039116,,47.438332,21
+Paraguay,1987,Alfredo Stroessner Matiauda,,33,3,.021335555,.00019165489,48.607498,21
+Paraguay,1988,Alfredo Stroessner Matiauda,,34,2,.016317358,0,49.776665,21
+Paraguay,1989,Andrés Rodríguez Pedotti,,35,7,.010901744,0,50.945831,21
+Paraguay,1990,Andrés Rodríguez Pedotti,0,1,7,.016980009,0,52.115002,21
+Paraguay,1991,Andrés Rodríguez Pedotti,0,2,8,.010887212,.00021371068,53.284168,21
+Paraguay,1992,Andrés Rodríguez Pedotti,0,3,8,.010327906,.00059534889,54.453335,14
+Paraguay,1993,Juan Carlos María Wasmosy Monti,0,4,8,.011075346,.00041499475,55.622501,14
+Paraguay,1994,Juan Carlos María Wasmosy Monti,0,5,7,.011376793,.00054593355,56.791668,14
+Paraguay,1995,Juan Carlos María Wasmosy Monti,0,6,7,.014085122,.0005441634,57.960835,14
+Paraguay,1996,Juan Carlos María Wasmosy Monti,0,7,7,.010020361,.0011167944,59.130001,14
+Paraguay,1997,Juan Carlos María Wasmosy Monti,0,8,7,.0097342879,.00062820048,58.260002,14
+Paraguay,1998,Raúl Alberto Cubas Grau,0,9,7,.0071946084,.00054267718,57.389999,14
+Paraguay,1999,Luis Ángel González Macchi,0,10,7,.00066746766,.00046276307,56.52,14
+Paraguay,2000,Luis Ángel González Macchi,0,11,7,-.005075145,.00059088925,56.849998,14
+Paraguay,2001,Luis Ángel González Macchi,0,12,7,-.0049426346,.00058746076,57.226665,14
+Paraguay,2002,Luis Ángel González Macchi,0,13,7,-.0078403307,.0013038226,57.603333,14
+Paraguay,2003,Óscar Nicanor Duarte Frutos,0,14,8,-.0074330303,0,57.98,14
+Paraguay,2004,Óscar Nicanor Duarte Frutos,0,15,8,-.0065820888,.0023582613,58.360001,14
+Paraguay,2005,Óscar Nicanor Duarte Frutos,0,16,8,-.0086761042,,55.200001,14
+Paraguay,2006,Óscar Nicanor Duarte Frutos,0,17,8,-.0044391542,,,
+Paraguay,2007,Óscar Nicanor Duarte Frutos,0,18,8,-.00036126032,,,
+Paraguay,2008,Fernando Armindo Lugo Méndez,0,19,8,.005145093,,,
+Paraguay,2009,Fernando Armindo Lugo Méndez,0,20,8,.0031673647,,,
+Paraguay,2010,Fernando Armindo Lugo Méndez,0,21,8,.0094432523,,,
+El Salvador,1900,Tomás Herculano de Jesús Regalado Romero  ,,,,.084436104,,,
+El Salvador,1901,Tomás Herculano de Jesús Regalado Romero  ,,,,.076666683,,,
+El Salvador,1902,Tomás Herculano de Jesús Regalado Romero  ,,,,.073271476,,,
+El Salvador,1903,Pedro José Escalón                ,,,,.078201473,,,
+El Salvador,1904,Pedro José Escalón                ,,,,.083970025,,,
+El Salvador,1905,Pedro José Escalón                ,,,,.078853786,,,
+El Salvador,1906,Pedro José Escalón                ,,,,.070771925,,,
+El Salvador,1907,Fernando Figueroza                ,,,,.069027461,,,
+El Salvador,1908,Fernando Figueroza                ,,,,.069383703,,,
+El Salvador,1909,Fernando Figueroza                ,,,,.067989834,,,
+El Salvador,1910,Fernando Figueroza                ,,,,.067285173,,,
+El Salvador,1911,Miguel Enrique Araujo Rodríguez              ,,,,.071116187,,,
+El Salvador,1912,Miguel Enrique Araujo Rodríguez              ,,,,.072712734,,,
+El Salvador,1913,Carlos Meléndez Ramírez           ,,,,.066091731,,,
+El Salvador,1914,Alfonso Quiñónez Molina           ,,,,.058489472,,,
+El Salvador,1915,Carlos Meléndez,,,,.061706033,,,
+El Salvador,1916,Carlos Meléndez,,,,.068760574,,,
+El Salvador,1917,Carlos Meléndez,,,,.069823846,,,
+El Salvador,1918,Alfonso Quiñónez Molina           ,,,,.081421226,,,
+El Salvador,1919,Jorge Meléndez Ramírez            ,,,,.09053503,,,
+El Salvador,1920,Jorge Meléndez Ramírez            ,,,,.084705777,,,
+El Salvador,1921,Jorge Meléndez Ramírez            ,,,,.07490769,,,
+El Salvador,1922,Jorge Meléndez Ramírez            ,,,,.066962354,,,
+El Salvador,1923,Alfonso Quiñónez Molina           ,,,,.067278542,,,
+El Salvador,1924,Alfonso Quiñónez Molina           ,,,,.064463392,,,
+El Salvador,1925,Alfonso Quiñónez Molina           ,,,,.058558047,,,
+El Salvador,1926,Alfonso Quiñónez Molina           ,,,,.047338903,,,
+El Salvador,1927,"Pío Romero Bosque ""Don Pío"" ",,,,.044605069,,,
+El Salvador,1928,"Pío Romero Bosque ""Don Pío"" ",,,,.026566627,,,
+El Salvador,1929,"Pío Romero Bosque ""Don Pío"" ",,,,.013260433,,,
+El Salvador,1930,"Pío Romero Bosque ""Don Pío"" ",,,,.012252571,,,
+El Salvador,1931,Maximiliano Hernández Martínez    ,,,,.0042508561,,,
+El Salvador,1932,Maximiliano Hernández Martínez    ,,,,-.00051057618,,,
+El Salvador,1933,Maximiliano Hernández Martínez    ,,,,-.0029396324,,,
+El Salvador,1934,Andrés Ignacio Menéndez           ,,,,.001064431,,,
+El Salvador,1935,Maximiliano Hernandez Martinez    ,,,,.0048469091,,,
+El Salvador,1936,Maximiliano Hernandez Martinez    ,,,,.011835755,,,
+El Salvador,1937,Maximiliano Hernandez Martinez    ,,,,.0092656594,,,
+El Salvador,1938,Maximiliano Hernandez Martinez    ,,,,.010643682,,,
+El Salvador,1939,Maximiliano Hernandez Martinez    ,,,,.012628932,,,
+El Salvador,1940,Maximiliano Hernandez Martinez    ,,,,.016496662,,,
+El Salvador,1941,Maximiliano Hernandez Martinez    ,,,,.022023577,,,
+El Salvador,1942,Maximiliano Hernandez Martinez    ,,,,.026068557,,,
+El Salvador,1943,Maximiliano Hernandez Martinez    ,,,,.023512429,,,
+El Salvador,1944,Osmín Aguirre y Salinas,,,,.01431602,,,
+El Salvador,1945,Salvador Castañeda Castro         ,,14,,.0059668287,,,13
+El Salvador,1946,Salvador Castañeda Castro         ,,15,,.0053100204,,,13
+El Salvador,1947,Salvador Castañeda Castro         ,,16,,.017591251,,,13
+El Salvador,1948,Manuel de Jesús Córdova Rodríguez          ,,17,,.025561409,,,13
+El Salvador,1949,Manuel de Jesús Córdova Rodríguez          ,,1,,.04376613,,,13
+El Salvador,1950,Óscar Osorio                      ,,2,,.0032916518,,,16
+El Salvador,1951,Óscar Osorio                      ,,3,,.001868458,,,16
+El Salvador,1952,Óscar Osorio                      ,,4,,.0073775141,,,16
+El Salvador,1953,Óscar Osorio                      ,,5,,.010537421,,,16
+El Salvador,1954,Óscar Osorio                      ,,6,,.0073704375,,,16
+El Salvador,1955,Óscar Osorio                      ,,7,,.0085366443,,,16
+El Salvador,1956,José María Lemus López            ,,8,,.010630435,,,16
+El Salvador,1957,José María Lemus López            ,,9,,.011339701,,,16
+El Salvador,1958,José María Lemus López            ,,10,,.00054338429,,,16
+El Salvador,1959,José María Lemus López            ,,11,,.0021022491,,,16
+El Salvador,1960,Miguel Ángel Castillo           ,,12,,.010085277,,,16
+El Salvador,1961,Aníbal Portillo   ,,13,,.010750327,,,16
+El Salvador,1962,Julio Adalberto Rivera Carballo   ,,14,,.016289596,,54.200001,16
+El Salvador,1963,Julio Adalberto Rivera Carballo   ,,15,,.014679569,.006583102,54.099998,16
+El Salvador,1964,Julio Adalberto Rivera Carballo   ,,16,,.021755045,.0065685688,54,16
+El Salvador,1965,Julio Adalberto Rivera Carballo   ,,17,,.022237049,.004547378,53.900002,16
+El Salvador,1966,Julio Adalberto Rivera Carballo   ,,18,,.023483939,.003497313,53.799999,16
+El Salvador,1967,Fidel Sánchez Hernández           ,,19,,.024111943,.0050557787,51.974998,16
+El Salvador,1968,Fidel Sánchez Hernández           ,,20,,.025121048,.004884406,50.150002,16
+El Salvador,1969,Fidel Sánchez Hernández           ,,21,,.025590094,.0043185139,48.325001,16
+El Salvador,1970,Fidel Sánchez Hernández           ,,22,,.025587747,.0030395424,46.5,16
+El Salvador,1971,Fidel Sánchez Hernández           ,,23,,.026297368,.0028006833,46.662498,16
+El Salvador,1972,Arturo Armando Molina Barraza     ,,24,9,.021228567,.0031084472,46.825001,16
+El Salvador,1973,Arturo Armando Molina Barraza     ,,25,9,.022484137,.003934822,46.987499,16
+El Salvador,1974,Arturo Armando Molina Barraza     ,,26,9,.019422995,.0058333599,47.150002,16
+El Salvador,1975,Arturo Armando Molina Barraza     ,,27,9,.017884864,.005880198,47.3125,16
+El Salvador,1976,Arturo Armando Molina Barraza     ,,28,8,.016709257,.0058266157,47.474998,16
+El Salvador,1977,Carlos Humberto Romero Mena       ,,29,6,.018927269,.0061231218,47.637501,16
+El Salvador,1978,Carlos Humberto Romero Mena       ,,30,4,.021895291,.0065431381,47.799999,16
+El Salvador,1979,Arnoldo Majano [junta],,31,5,.015351629,.006877793,47.896667,16
+El Salvador,1980,José Napoleón Duarte Fuentes [junta],,32,4,.0018974124,.014866668,47.993332,16
+El Salvador,1981,José Napoleón Duarte Fuentes [junta],,33,4,-.011069805,.015841912,48.09,16
+El Salvador,1982,Álvaro Alfredo Magaña Borja       ,,34,5,-.022133294,.01143582,48.186665,16
+El Salvador,1983,Álvaro Alfredo Magaña Borja       ,,35,5,-.024253165,.010833501,48.283333,15
+El Salvador,1984,José Napoleón Duarte Fuentes      ,,36,6,-.027089305,.010131035,48.379997,15
+El Salvador,1985,José Napoleón Duarte Fuentes      ,0,1,8,-.0032770094,.0090275649,48.476665,15
+El Salvador,1986,José Napoleón Duarte Fuentes      ,0,2,7,-.0057259374,.0043895682,48.573334,15
+El Salvador,1987,José Napoleón Duarte Fuentes      ,0,3,7,-.0011439123,.0050659212,48.669998,15
+El Salvador,1988,José Napoleón Duarte Fuentes      ,0,4,8,.00032604585,.0039327843,48.766666,15
+El Salvador,1989,Alfredo Félix Cristiani Bukard    ,0,5,7,-.00029584483,.0049921735,48.863331,15
+El Salvador,1990,Alfredo Félix Cristiani Bukard    ,0,6,7,.0045963698,.0051549738,48.959999,15
+El Salvador,1991,Alfredo Félix Cristiani Bukard    ,0,7,7,.0065906579,.0035836489,49.110001,15
+El Salvador,1992,Alfredo Félix Cristiani Bukard    ,0,8,8,.012407363,.0040574833,49.259998,15
+El Salvador,1993,Alfredo Félix Cristiani Bukard    ,0,9,8,.01690089,.0044671181,49.41,15
+El Salvador,1994,Armando Calderón Sol   ,0,10,8,.021441655,.0049920757,49.560001,15
+El Salvador,1995,Armando Calderón Sol   ,0,11,8,.02720313,.0054358607,49.709999,15
+El Salvador,1996,Armando Calderón Sol   ,0,12,8,.028927987,.0099459682,49.860001,15
+El Salvador,1997,Armando Calderón Sol   ,0,13,9,.031025603,.011688299,52.25,15
+El Salvador,1998,Armando Calderón Sol   ,0,14,9,.033424284,.013467668,52.209999,15
+El Salvador,1999,Francisco Guillermo Flores Pérez  ,0,15,9,.036595963,.0153074,52.169998,15
+El Salvador,2000,Francisco Guillermo Flores Pérez  ,0,16,9,.034818519,.017238583,52.044998,15
+El Salvador,2001,Francisco Guillermo Flores Pérez  ,0,17,9,.034009084,.02062095,51.919998,15
+El Salvador,2002,Francisco Guillermo Flores Pérez  ,0,18,9,.03005744,.017744929,52.138496,15
+El Salvador,2003,Francisco Guillermo Flores Pérez  ,0,19,9,.02626737,.017780803,52.356998,15
+El Salvador,2004,Elías Antonio Saca González       ,0,20,9,.023217563,.015037723,,15
+El Salvador,2005,Elías Antonio Saca González       ,0,21,9,.020847984,,,15
+El Salvador,2006,Elías Antonio Saca González       ,0,22,9,.023973625,,,
+El Salvador,2007,Elías Antonio Saca González       ,0,23,9,.024836402,,,
+El Salvador,2008,Elías Antonio Saca González       ,0,24,9,.023909042,,,
+El Salvador,2009,Carlos Mauricio Funes Cartagena,0,25,9,.018116895,,,
+El Salvador,2010,Carlos Mauricio Funes Cartagena,0,26,9,.018332638,,,
+Uruguay,1900,Juan Lindolfo de los Reyes Cuestas York,,,,.0056320806,,,
+Uruguay,1901,Juan Lindolfo de los Reyes Cuestas York,,,,.0074962154,,,
+Uruguay,1902,Juan Lindolfo de los Reyes Cuestas York,,,,.024776272,,,
+Uruguay,1903,José Pablo Torcuato Batlle y Ordóñez,,,,.0093003735,,,
+Uruguay,1904,José Pablo Torcuato Batlle y Ordóñez,,,,.0090510119,,,
+Uruguay,1905,José Pablo Torcuato Batlle y Ordóñez,,,,.0056320806,,,
+Uruguay,1906,José Pablo Torcuato Batlle y Ordóñez,,,,.0065362281,,,
+Uruguay,1907,Claudio Antolín Wílliman González,,,,.015509778,,,
+Uruguay,1908,Claudio Antolín Wílliman González,,,,.020882385,,,
+Uruguay,1909,Claudio Antolín Wílliman González,,,,.016851874,,,
+Uruguay,1910,Claudio Antolín Wílliman González,,,,.015359575,,,
+Uruguay,1911,José Pablo Torcuato Batlle y Ordóñez,,,,.020100908,,,
+Uruguay,1912,José Pablo Torcuato Batlle y Ordóñez,,,,.015930966,,,
+Uruguay,1913,José Pablo Torcuato Batlle y Ordóñez,,,,.017036302,,,
+Uruguay,1914,José Pablo Torcuato Batlle y Ordóñez,,,,.0052971225,,,
+Uruguay,1915,Feliciano Alberto Viera Borges,,,,-.00065879786,,,
+Uruguay,1916,Feliciano Alberto Viera Borges,,,,.0079630408,,,
+Uruguay,1917,Feliciano Alberto Viera Borges,0,,,.026926685,,,
+Uruguay,1918,Feliciano Alberto Viera Borges,0,,,.03220449,,,
+Uruguay,1919,Baltasar Brum Rodríguez,0,,,.024732167,,,
+Uruguay,1920,Baltasar Brum Rodríguez,0,,,.019637581,,,
+Uruguay,1921,Baltasar Brum Rodríguez,0,,,.017132793,,,
+Uruguay,1922,Baltasar Brum Rodríguez,0,,,.023823466,,,
+Uruguay,1923,José Serrato Bergeróo,0,,,.025169956,,,
+Uruguay,1924,José Serrato Bergeróo,0,,,.024526678,,,
+Uruguay,1925,José Serrato Bergeróo,0,,,.025142496,,,
+Uruguay,1926,José Serrato Bergeróo,0,,,.028753391,,,
+Uruguay,1927,Juan Campisteguy Oxcoby,0,,,.031389095,,,
+Uruguay,1928,Juan Campisteguy Oxcoby,0,,,.02992145,,,
+Uruguay,1929,Juan Campisteguy Oxcoby,0,,,.028478252,,,
+Uruguay,1930,Juan Campisteguy Oxcoby,0,,,.025836984,,,
+Uruguay,1931,Gabriel Terra Leivas,0,,,.020168576,,,
+Uruguay,1932,Gabriel Terra Leivas,0,,,.0050836112,,,
+Uruguay,1933,Gabriel Terra Leivas,1,,,-.017438861,,,
+Uruguay,1934,Gabriel Terra Leivas,,,,.0040513962,,,
+Uruguay,1935,Gabriel Terra Leivas,,,,.04205941,,,
+Uruguay,1936,Gabriel Terra Leivas,0,,,.034811445,,,
+Uruguay,1937,Gabriel Terra Leivas,0,,,.033523828,,,
+Uruguay,1938,Alfredo Baldomir Ferrari,0,,,.025031915,,,
+Uruguay,1939,Alfredo Baldomir Ferrari,0,,,.016441593,,,
+Uruguay,1940,Alfredo Baldomir Ferrari,0,,,.012229315,,,
+Uruguay,1941,Alfredo Baldomir Ferrari,0,,,.014313563,,,
+Uruguay,1942,Alfredo Baldomir Ferrari,1,,,-.022792298,,,
+Uruguay,1943,Juan José de Amézaga Landaraso,,,,.001369518,,,
+Uruguay,1944,Juan José de Amézaga Landaraso,0,,,.022031559,,,
+Uruguay,1945,Juan José de Amézaga Landaraso,0,2,,.019496681,,,15
+Uruguay,1946,Juan José de Amézaga Landaraso,0,3,,.028269097,,,15
+Uruguay,1947,Luis Conrado Batlle Berres,0,4,,.033823539,,,15
+Uruguay,1948,Luis Conrado Batlle Berres,0,5,,.031318251,,,15
+Uruguay,1949,Luis Conrado Batlle Berres,0,6,,.030027628,,,15
+Uruguay,1950,Luis Conrado Batlle Berres,0,7,,.02947803,,,15
+Uruguay,1951,Andrés Martínez Trueba,0,8,,.029622326,,,15
+Uruguay,1952,Andrés Martínez Trueba,0,9,,.023827219,,,13
+Uruguay,1953,Andrés Martínez Trueba,0,10,,.026031321,,,13
+Uruguay,1954,Andrés Martínez Trueba,0,11,,.024950393,,,13
+Uruguay,1955,Luis Conrado Batlle Berres,0,12,,.02321697,,,13
+Uruguay,1956,Alberto Fermín Zubiría Urtiague,0,13,,.017675515,,,13
+Uruguay,1957,Arturo Lezama Bagez,0,14,,.012687296,,,13
+Uruguay,1958,Carlos Lorenzo Fischer Brusoni,0,15,,.0077015017,,,13
+Uruguay,1959,Martín Recaredo Echegoyen Machicote,0,16,,.0030072518,,,13
+Uruguay,1960,Benito Nardone Cetrulo,0,17,,.0029823266,,,13
+Uruguay,1961,Eduardo Víctor Haedo,0,18,,.0010828759,,,13
+Uruguay,1962,Faustino Harrison Usoz,0,19,,.0011261402,,,13
+Uruguay,1963,Daniel Fernández Crespo,0,20,,-.0022300647,,,13
+Uruguay,1964,Luis Giannattasio Finocchietti,0,21,,-.0041391104,,36.599998,13
+Uruguay,1965,Wáshington Beltrán Mullin,0,22,,-.0038941961,,38.149998,13
+Uruguay,1966,Alberto Héber Usher,0,23,,-.0018197898,,39.700001,13
+Uruguay,1967,Jorge Pacheco Areco,0,24,,-.0070449086,,41.25,18
+Uruguay,1968,Jorge Pacheco Areco,0,25,,-.0029544316,,42.799999,18
+Uruguay,1969,Jorge Pacheco Areco,0,26,,.0046094651,,43.055553,18
+Uruguay,1970,Jorge Pacheco Areco,0,27,,.0038683731,.00082314532,43.311111,18
+Uruguay,1971,Jorge Pacheco Areco,0,28,,.0021399618,.00059333385,43.566666,18
+Uruguay,1972,Juan María Bordaberry Arocena,0,29,7,.0035007179,.00048454179,43.82222,18
+Uruguay,1973,Juan María Bordaberry Arocena,1,30,4,.0047697751,,44.077778,18
+Uruguay,1974,Juan María Bordaberry Arocena,,1,4,.015394817,.00089607737,44.333332,18
+Uruguay,1975,Juan María Bordaberry Arocena,,2,4,.029831322,.00069763465,44.588886,18
+Uruguay,1976,Aparicio Méndez Manfredini,,3,2,.031188454,.00049855618,44.844444,18
+Uruguay,1977,Aparicio Méndez Manfredini,,4,2,.026754223,.00090299931,45.099998,18
+Uruguay,1978,Aparicio Méndez Manfredini,,5,2,.030105542,.00085909455,44.450001,18
+Uruguay,1979,Aparicio Méndez Manfredini,,6,2,.0336161,.0011032679,43.799999,18
+Uruguay,1980,Aparicio Méndez Manfredini,,7,4,.035828229,.0009218562,43.150002,18
+Uruguay,1981,Gregorio Conrado Álvarez Armelino,,8,4,.032846075,.0017294851,42.5,18
+Uruguay,1982,Gregorio Conrado Álvarez Armelino,,9,5,.019221766,.00042783481,43.650002,18
+Uruguay,1983,Gregorio Conrado Álvarez Armelino,,10,5,.0081210695,.00028066724,43.485001,18
+Uruguay,1984,Gregorio Conrado Álvarez Armelino,,11,5,.0035266443,.00087613257,43.320004,18
+Uruguay,1985,Julio María Sanguinetti Coirolo,,12,10,-.0015191721,.0004088135,43.155003,18
+Uruguay,1986,Julio María Sanguinetti Coirolo,0,1,10,.044758849,.0013997753,42.990002,18
+Uruguay,1987,Julio María Sanguinetti Coirolo,0,2,10,.05424935,.00087225239,42.825001,18
+Uruguay,1988,Julio María Sanguinetti Coirolo,0,3,10,.042811505,.00054617017,42.660004,18
+Uruguay,1989,Julio María Sanguinetti Coirolo,0,4,11,.03517358,.00077740691,42.495003,18
+Uruguay,1990,Luis Alberto Lacalle de Herrera,0,5,11,.0287112,.00084884552,42.330002,18
+Uruguay,1991,Luis Alberto Lacalle de Herrera,0,6,11,.028662777,.00091416028,42.534286,18
+Uruguay,1992,Luis Alberto Lacalle de Herrera,0,7,11,.034054589,.00075503142,42.738571,18
+Uruguay,1993,Luis Alberto Lacalle de Herrera,0,8,10,.03240988,.00059752987,42.942856,18
+Uruguay,1994,Luis Alberto Lacalle de Herrera,0,9,10,.03567094,.0011704521,43.147144,18
+Uruguay,1995,Julio María Sanguinetti Coirolo,0,10,10,.032673407,.0021750298,43.351429,18
+Uruguay,1996,Julio María Sanguinetti Coirolo,0,11,11,.029557874,.0022160371,43.555714,18
+Uruguay,1997,Julio María Sanguinetti Coirolo,0,12,11,.02661692,.001774188,43.759998,18
+Uruguay,1998,Julio María Sanguinetti Coirolo,0,13,11,.029743601,.0018469275,44.469997,18
+Uruguay,1999,Julio María Sanguinetti Coirolo,0,14,11,.025990522,.0011294524,45.18,18
+Uruguay,2000,Jorge Luis Batlle Ibañez,0,15,12,.024550201,.0022834786,44.870003,18
+Uruguay,2001,Jorge Luis Batlle Ibañez,0,16,12,.018108483,.0027675289,44.560001,18
+Uruguay,2002,Jorge Luis Batlle Ibañez,0,17,12,-.00010768179,.0016276607,44.658333,18
+Uruguay,2003,Jorge Luis Batlle Ibañez,0,18,12,.00029628762,.0037514707,44.756668,18
+Uruguay,2004,Jorge Luis Batlle Ibañez,0,19,12,.0056754551,.010944726,44.855,18
+Uruguay,2005,Tabaré Ramón Vázquez Rosas,0,20,12,.014343299,.012226334,46.200001,18
+Uruguay,2006,Tabaré Ramón Vázquez Rosas,0,21,12,.013381812,,,
+Uruguay,2007,Tabaré Ramón Vázquez Rosas,0,22,12,.016156703,,,
+Uruguay,2008,Tabaré Ramón Vázquez Rosas,0,23,12,.020385195,,,
+Uruguay,2009,Tabaré Ramón Vázquez Rosas,0,24,12,.026199073,,,
+Uruguay,2010,José Alberto Mujica Cordano,0,25,12,.031110516,,,
+Venezuela,1900,Cipriano Castro Ruiz,,,,.0093618641,,,
+Venezuela,1901,Cipriano Castro Ruiz,,,,-.0069325287,,,
+Venezuela,1902,Cipriano Castro Ruiz,,,,.0095024761,,,
+Venezuela,1903,Cipriano Castro Ruiz,,,,.016982397,,,
+Venezuela,1904,Cipriano Castro Ruiz,,,,.01494805,,,
+Venezuela,1905,Cipriano Castro Ruiz,,,,.0093618641,,,
+Venezuela,1906,Cipriano Castro Ruiz,,,,.0032865726,,,
+Venezuela,1907,Cipriano Castro Ruiz,,,,.002023703,,,
+Venezuela,1908,Cipriano Castro Ruiz,,,,.0047870935,,,
+Venezuela,1909,Juan Vicente Gómez Chacón,,,,.0071034464,,,
+Venezuela,1910,Juan Vicente Gómez Chacón         ,,,,.0069660684,,,
+Venezuela,1911,Juan Vicente Gómez Chacón         ,,,,.012926538,,,
+Venezuela,1912,Juan Vicente Gómez Chacón         ,,,,.011067733,,,
+Venezuela,1913,Juan Vicente Gómez Chacón         ,,,,.00838733,,,
+Venezuela,1914,Victorino Márquez Bustillos,,,,.0088944295,,,
+Venezuela,1915,Victorino Márquez Bustillos,,,,.012908841,,,
+Venezuela,1916,Victorino Márquez Bustillos,,,,.02022947,,,
+Venezuela,1917,Victorino Márquez Bustillos,,,,.023789255,,,
+Venezuela,1918,Victorino Márquez Bustillos,,,,.019879442,,,
+Venezuela,1919,Victorino Márquez Bustillos,,,,.020646827,,,
+Venezuela,1920,Victorino Márquez Bustillos,,,,.02423604,,,
+Venezuela,1921,Victorino Márquez Bustillos,,,,.021854596,,,
+Venezuela,1922,Juan Vicente Gómez Chacón,,,,.022236561,,,
+Venezuela,1923,Juan Vicente Gómez Chacón,,,,.032386549,,,
+Venezuela,1924,Juan Vicente Gómez Chacón,,,,.048089031,,,
+Venezuela,1925,Juan Vicente Gómez Chacón,,,,.06742622,,,
+Venezuela,1926,Juan Vicente Gómez Chacón,,,,.08206895,,,
+Venezuela,1927,Juan Vicente Gómez Chacón,,,,.087537907,,,
+Venezuela,1928,Juan Vicente Gómez Chacón,,,,.099304199,,,
+Venezuela,1929,Juan Bautista Pérez,,,,.10361344,,,
+Venezuela,1930,Juan Bautista Pérez,,,,.09954989,,,
+Venezuela,1931,Juan Vicente Gómez Chacón,,,,.09190923,,,
+Venezuela,1932,Juan Vicente Gómez Chacón,,,,.087793075,,,
+Venezuela,1933,Juan Vicente Gómez Chacón,,,,.078701481,,,
+Venezuela,1934,Juan Vicente Gómez Chacón,,,,.067254812,,,
+Venezuela,1935,José Eleazar López Contreras,,,,.052070368,,,
+Venezuela,1936,José Eleazar López Contreras,,,,.038672868,,,
+Venezuela,1937,José Eleazar López Contreras,,,,.036159903,,,
+Venezuela,1938,José Eleazar López Contreras,,,,.029042758,,,
+Venezuela,1939,José Eleazar López Contreras,,,,.02236826,,,
+Venezuela,1940,José Eleazar López Contreras,,,,.022371273,,,
+Venezuela,1941,Isaías Medina Angarita,,,,.029575242,,,
+Venezuela,1942,Isaías Medina Angarita,,,,.029128207,,,
+Venezuela,1943,Isaías Medina Angarita,,,,.029449893,,,
+Venezuela,1944,Isaías Medina Angarita,,,,.034392443,,,
+Venezuela,1945,Rómulo Ernesto Betancourt Bello,,45,,.040455099,,,15
+Venezuela,1946,Rómulo Ernesto Betancourt Bello,,46,,.049191561,,,15
+Venezuela,1947,Rómulo Ernesto Betancourt Bello,0,47,,.055987298,,,9
+Venezuela,1948,Carlos Delgado Chalbaud (Military Junta),1,48,,.06065983,,,9
+Venezuela,1949,Carlos Delgado Chalbaud (Military Junta),,1,,.049980044,,,9
+Venezuela,1950,Germán Suárez Flamerich (Military Junta),,2,,.030652994,,,9
+Venezuela,1951,Germán Suárez Flamerich (Military Junta),,3,,.030524185,,,9
+Venezuela,1952,Marcos Evangelista Pérez Jiménez,,4,,.031393934,,,9
+Venezuela,1953,Marcos Evangelista Pérez Jiménez,,5,,.027195683,,,16
+Venezuela,1954,Marcos Evangelista Pérez Jiménez,,6,,.028152321,,,16
+Venezuela,1955,Marcos Evangelista Pérez Jiménez,,7,,.02987856,,,16
+Venezuela,1956,Marcos Evangelista Pérez Jiménez,,8,,.032636128,,,16
+Venezuela,1957,Marcos Evangelista Pérez Jiménez,,9,,.033085831,,,16
+Venezuela,1958,Edgar Sanabria Arcia,,10,,.027731644,,,16
+Venezuela,1959,Rómulo Ernesto Betancourt Bello,,11,,.024291258,,,16
+Venezuela,1960,Rómulo Ernesto Betancourt Bello,0,1,,-.029722719,,,16
+Venezuela,1961,Rómulo Ernesto Betancourt Bello,0,2,,-.02194356,,,12
+Venezuela,1962,Rómulo Ernesto Betancourt Bello,0,3,,-.0050719543,.23388568,,12
+Venezuela,1963,Rómulo Ernesto Betancourt Bello,0,4,,-.0037335088,.2289985,54.599998,12
+Venezuela,1964,Raúl Leoni Otero,0,5,,.0089414269,.24021216,55.32222,12
+Venezuela,1965,Raúl Leoni Otero,0,6,,.008540865,.24397893,56.044441,12
+Venezuela,1966,Raúl Leoni Otero,0,7,,.0051689381,.24579315,56.766666,12
+Venezuela,1967,Raúl Leoni Otero,0,8,,.0040606768,.30088812,57.488888,12
+Venezuela,1968,Raúl Leoni Otero,0,9,,.007568629,.2455966,58.211109,12
+Venezuela,1969,Rafael Caldera Rodríguez,0,10,,.0065860655,.26009393,58.933331,12
+Venezuela,1970,Rafael Caldera Rodríguez,0,11,,.015176107,.23882879,59.655556,12
+Venezuela,1971,Rafael Caldera Rodríguez,0,12,,.013923714,.22315919,60.377777,12
+Venezuela,1972,Rafael Caldera Rodríguez,0,13,10,.0072538108,.19856498,61.099998,12
+Venezuela,1973,Rafael Caldera Rodríguez,0,14,10,.010572706,.16886064,59.68,12
+Venezuela,1974,Carlos Andrés Pérez Rodríguez,0,15,10,.0019229405,.43685871,58.259998,12
+Venezuela,1975,Carlos Andrés Pérez Rodríguez,0,16,10,.00067120948,.26911679,56.84,12
+Venezuela,1976,Carlos Andrés Pérez Rodríguez,0,17,11,.00651696,.23663554,55.419998,12
+Venezuela,1977,Carlos Andrés Pérez Rodríguez,0,18,11,.0095900102,.22251572,54,12
+Venezuela,1978,Carlos Andrés Pérez Rodríguez,0,19,11,.0045402749,.1909446,54.363998,12
+Venezuela,1979,Luis Herrera Campins,0,20,11,.0045354082,.25435516,54.728001,12
+Venezuela,1980,Luis Herrera Campins,0,21,11,-.0070408592,.2964918,55.091999,12
+Venezuela,1981,Luis Herrera Campins,0,22,11,-.0085779782,.27892211,55.456001,12
+Venezuela,1982,Luis Herrera Campins,0,23,11,-.011446842,.21878834,55.82,12
+Venezuela,1983,Luis Herrera Campins,0,24,11,-.021456521,.19060038,55.424999,12
+Venezuela,1984,Jaime Ramón Lusinchi,0,25,11,-.021407269,.23486145,55.029999,12
+Venezuela,1985,Jaime Ramón Lusinchi,0,26,11,-.023255393,.20738246,54.634998,12
+Venezuela,1986,Jaime Ramón Lusinchi,0,27,11,-.02349874,.1270446,54.240002,12
+Venezuela,1987,Jaime Ramón Lusinchi,0,28,11,-.025098724,.1679806,53.845001,12
+Venezuela,1988,Jaime Ramón Lusinchi,0,29,11,-.020707512,.15235476,53.450001,12
+Venezuela,1989,Carlos Andrés Pérez Rodríguez,0,30,10,-.028901866,.24292465,48.764999,12
+Venezuela,1990,Carlos Andrés Pérez Rodríguez,0,31,10,-.017503828,.30087894,44.080002,12
+Venezuela,1991,Carlos Andrés Pérez Rodríguez,0,32,10,-.0067744455,.25540823,43.48,12
+Venezuela,1992,Carlos Andrés Pérez Rodríguez,0,33,8,.0018986642,.21499425,42.880001,12
+Venezuela,1993,Ramón José Velásquez Mujica,0,34,8,.0065093869,.21225703,42.280003,12
+Venezuela,1994,Rafael Caldera Rodríguez,0,35,8,.0034385026,.23432085,41.68,12
+Venezuela,1995,Rafael Caldera Rodríguez,0,36,8,.0077069756,.23703316,44.049999,12
+Venezuela,1996,Rafael Caldera Rodríguez,0,37,9,.0017144075,.29317164,46.420002,12
+Venezuela,1997,Rafael Caldera Rodríguez,0,38,9,.0049754949,.25712621,48.790001,12
+Venezuela,1998,Rafael Caldera Rodríguez,0,39,9,.000069259324,.17402972,49.16,12
+Venezuela,1999,Hugo Rafael Chávez Frías,0,40,6,.0030376052,.21125799,49.529999,17
+Venezuela,2000,Hugo Rafael Chávez Frías,0,41,6,.00081795274,.29979452,46.785,17
+Venezuela,2001,Hugo Rafael Chávez Frías,0,42,6,-.004984614,.20434536,44.040001,17
+Venezuela,2002,Hugo Rafael Chávez Frías,0,43,7,-.019173246,.22543371,45.426666,17
+Venezuela,2003,Hugo Rafael Chávez Frías,0,44,7,-.026641702,.26312277,46.813335,17
+Venezuela,2004,Hugo Rafael Chávez Frías,0,45,7,-.0059662051,.3254742,48.200001,17
+Venezuela,2005,Hugo Rafael Chávez Frías,0,46,6,.00070144515,.38370562,,17
+Venezuela,2006,Hugo Rafael Chávez Frías,0,47,6,.010961854,,,
+Venezuela,2007,Hugo Rafael Chávez Frías,0,48,6,.013081422,,,
+Venezuela,2008,Hugo Rafael Chávez Frías,0,49,6,.017818458,,,
+Venezuela,2009,Hugo Rafael Chávez Frías,1,50,5,.020760316,,,
+Venezuela,2010,Hugo Rafael Chávez Frías,,51,4,.021074491,,,
